@@ -2,10 +2,10 @@
 jsonUrl: '/jsons/roadmaps/full-stack.json'
 pdfUrl: '/pdfs/roadmaps/full-stack.pdf'
 order: 3
-briefTitle: 'Фулл-стек'
-briefDescription: 'Пошаговый план как стать Фулл-стек разработчиком в 2023 году'
-title: 'Фулл-стек Разработчик'
-description: 'Пошаговый план как стать Фулл-стек разработчиком в 2023 году'
+briefTitle: 'Full Stack'
+briefDescription: 'Step by step guide to becoming a full stack developer in 2023'
+title: 'Full Stack Developer'
+description: 'Step by step guide to becoming a modern full stack developer in 2023'
 isNew: true
 hasTopics: true
 dimensions:
@@ -59,5 +59,4 @@ tags:
   - 'roadmap'
   - 'main-sitemap'
   - 'role-roadmap'
-  - 'lead-magnet'
 ---
