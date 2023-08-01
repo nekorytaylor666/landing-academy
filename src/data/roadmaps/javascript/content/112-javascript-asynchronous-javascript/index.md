@@ -10,6 +10,6 @@ Many functions provided by browsers, especially the most interesting ones, can p
 
 So even though you may not have to implement your own asynchronous functions very often, you are very likely to need to use them correctly.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Asynchronous JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)

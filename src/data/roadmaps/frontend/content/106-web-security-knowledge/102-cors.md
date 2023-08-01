@@ -1,7 +1,7 @@
 # CORS
 
-Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.
+Cross-Origin Resource Sharing (CORS) - это механизм на основе заголовков HTTP, который позволяет серверу указать, с каких источников (доменов, схем или портов) кроме своего собственного браузеру разрешено загружать ресурсы.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [CORS — Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)

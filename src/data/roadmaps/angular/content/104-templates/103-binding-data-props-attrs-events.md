@@ -7,6 +7,6 @@ In an Angular template, a binding creates a live connection between view and the
 - **event**: lets you listen for and respond to user actions such as keystrokes, mouse movements, clicks, and touches.
 - **data**: It's a combination of property and event binding and helps you share data between components.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Angular Official Website](https://angular.io/guide/binding-overview)

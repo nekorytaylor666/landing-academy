@@ -1,6 +1,6 @@
 # Java/Kotlin/Scala
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Visit Dedicated Java Roadmap](/java)
 - [Java Basics](https://www.w3schools.com/java/)

@@ -10,6 +10,6 @@ Operators are symbols or keywords used to perform operations on values. There ar
 
 These operators can be used to perform operations on values, variables, and expressions in Flutter.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Operators](https://dart.dev/guides/language/language-tour#operators)

@@ -4,7 +4,7 @@ Containers are a construct in which [cgroups](https://en.wikipedia.org/wiki/Cgro
 
 These images are designed for portability, allowing for full local testing of a static image, and easy deployment to a container management platform.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [What are Containers?](https://cloud.google.com/learn/what-are-containers)
 - [What is a Container?](https://www.docker.com/resources/what-container/)

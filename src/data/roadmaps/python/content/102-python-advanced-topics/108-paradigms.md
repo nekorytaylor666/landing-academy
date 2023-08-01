@@ -9,6 +9,6 @@ Python is a multi-paradigm programming language, which means that it supports se
 
 Python's support for multiple paradigms makes it a versatile and flexible language, and it allows developers to choose the paradigm that best fits their needs.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Programming Paradigms in Python](https://www.geeksforgeeks.org/programming-paradigms-in-python/)

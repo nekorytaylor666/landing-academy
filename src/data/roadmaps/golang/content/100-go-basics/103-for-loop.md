@@ -6,7 +6,7 @@ Go has only one looping construct, the `for` loop. The basic `for` loop has thre
 - the condition expression: evaluated before every iteration
 - the post statement: executed at the end of every iteration
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [For Loop in Golang](https://go.dev/tour/flowcontrol/1)
 - [Effective Go: For loop](https://go.dev/doc/effective_go#for)

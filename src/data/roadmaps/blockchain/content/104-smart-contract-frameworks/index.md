@@ -2,7 +2,7 @@
 
 Building a full-fledged dapp requires different pieces of technology. Software frameworks include many of the needed features or provide easy plugin systems to pick the tools you desire.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [dApp Development Frameworks](https://ethereum.org/en/developers/docs/frameworks/)
 - [A Definitive List of Ethereum Developer Tools - Frameworks](https://media.consensys.net/an-definitive-list-of-ethereum-developer-tools-2159ce865974#frameworks)

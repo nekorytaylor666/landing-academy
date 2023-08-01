@@ -2,7 +2,7 @@
 
 Ionic framework is an open-source UI toolkit for building performant, high-quality mobile apps, desktop apps, and progressive web apps using web technologies such as HTML, CSS, and JavaScript.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Official Website](https://ionicframework.com/)
 - [Official Getting Started to Ionic framework](https://ionicframework.com/docs/)

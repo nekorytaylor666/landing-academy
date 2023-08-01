@@ -6,7 +6,7 @@ In Flutter, you can write widget tests using the `flutter_test` package, which p
 
 The framework provides several utility functions to help you build and test widgets, such as `pumpWidget`, which allows you to pump a widget and its children into the widget tree and simulate a frame of animation, and `find`, which allows you to search the widget tree for a widget that matches specific criteria.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [An introduction to widget testing](https://docs.flutter.dev/cookbook/testing/widget/introduction)
 - [Widget Tests - Flutter](https://docs.flutter.dev/testing#widget-tests)

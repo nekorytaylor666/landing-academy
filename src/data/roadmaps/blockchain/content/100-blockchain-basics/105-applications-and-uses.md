@@ -2,7 +2,7 @@
 
 Blockchain applications go far beyond cryptocurrency and bitcoin. With its ability to create more transparency and fairness while also saving businesses time and money, the technology is impacting a variety of sectors in ways that range from how contracts are enforced to making government work more efficiently.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Blockchain Use Cases and Applications by Industry](https://consensys.net/blockchain-use-cases/)
 - [Top 10 Real-World Applications Of Blockchain Technology](https://www.blockchain-council.org/blockchain/top-10-real-world-applications-of-blockchain-technology/)

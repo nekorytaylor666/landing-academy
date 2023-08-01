@@ -1,9 +1,9 @@
 # GitLab
 
-[GitLab](https://gitlab.com) is a provider of internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+[GitLab](https://gitlab.com) - это провайдер интернет-хостинга для разработки программного обеспечения и контроля версий с использованием Git. Он предоставляет функциональность распределенного контроля версий и управления исходным кодом Git, а также свои собственные возможности.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [GitLab Documentation](https://docs.gitlab.com/)
-- [GitLab Website](https://gitlab.com/)
-- [Development: Connect git to GitLab for Small Projects](https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/)
+- [GitLab Документация](https://docs.gitlab.com/)
+- [GitLab вебсайт](https://gitlab.com/)
+- [Разработка: Подключение git к GitLab для небольших проектов](https://thenewstack.io/development-connect-git-to-gitlab-for-small-projects/)

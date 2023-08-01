@@ -2,7 +2,7 @@
 
 Cryptography, or cryptology, is the practice and study of techniques for secure communication in the presence of adversarial behavior.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
 - [What is Cryptography](https://www.synopsys.com/glossary/what-is-cryptography.html)

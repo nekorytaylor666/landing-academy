@@ -2,7 +2,7 @@
 
 Recoil is a new state management library built by the Facebook team that simplifies global state management.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Recoil Official Website](https://recoiljs.org/)
 - [Official Documentation](https://recoiljs.org/docs/introduction/getting-started)

@@ -1,13 +1,13 @@
 # Basics of SEO
 
-SEO or Search Engine Optimization is the technique used to optimize your website for better rankings on search engines such as Google, Bing etc.
+SEO или оптимизация для поисковых систем - это техника, используемая для оптимизации вашего веб-сайта с целью улучшения его рейтинга в поисковых системах, таких как Google, Bing и т. д.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Google Search Central — SEO Docs](https://developers.google.com/search/docs)
-- [SEO Guide](https://github.com/seo/guide)
-- [8 Must-Know SEO Best Practices For Developers](https://neilpatel.com/blog/seo-developers/)
-- [SEO for Developers](https://medium.com/welldone-software/seo-for-developers-a-quick-overview-5b5b7ce34679)
-- [Complete SEO Course for Beginners](https://www.youtube.com/watch?v=xsVTqzratPs)
-- [SEO Expert Course](https://www.youtube.com/watch?v=SnxeXZpZkI0)
-- [Learning SEO](https://learningseo.io/)
+- [Google Search Central — Документация по SEO](https://developers.google.com/search/docs)
+- [Руководство по SEO](https://github.com/seo/guide)
+- [8 важнейших практик по SEO, которые должен знать разработчик](https://neilpatel.com/blog/seo-developers/)
+- [SEO для разработчиков](https://medium.com/welldone-software/seo-for-developers-a-quick-overview-5b5b7ce34679)
+- [Полный курс по SEO для начинающих](https://www.youtube.com/watch?v=xsVTqzratPs)
+- [Курс эксперта по SEO](https://www.youtube.com/watch?v=SnxeXZpZkI0)
+- [Изучение SEO](https://learningseo.io/)

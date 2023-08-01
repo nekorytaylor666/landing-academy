@@ -4,7 +4,7 @@ A key to building software that meets requirements without defects is testing. S
 
 Like traditional software, testing dApps involves testing the entire stack that makes up the dApp (backend, frontend, db, etc.).
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
 - [Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)

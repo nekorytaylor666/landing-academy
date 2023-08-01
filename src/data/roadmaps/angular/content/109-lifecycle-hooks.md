@@ -8,7 +8,7 @@ The following life cycle hooks of angular are :
 
 `OnChanges` , `OnInit` , `DoCheck` , `OnDestroy` , `AfterContentInit` , `AfterContentChecked` , `AfterViewInit` , `AfterViewChecked`
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [What is Life Cycle Hooks? - Angular.io ](https://angular.io/guide/lifecycle-hooks)
 - [The life cycle hooks of angular - Blog ](https://blog.logrocket.com/angular-lifecycle-hooks/)

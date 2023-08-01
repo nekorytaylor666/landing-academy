@@ -11,7 +11,7 @@ def exponential(n):
 
 As you can see, the algorithm's runtime grows exponentially. For each additional input, the algorithm will take twice as long to run.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
 - [Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)

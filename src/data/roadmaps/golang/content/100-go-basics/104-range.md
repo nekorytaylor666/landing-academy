@@ -2,7 +2,7 @@
 
 `Range` is used with `For Loops` to iterate over each element in arrays, strings and other data structures .
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Go Ranges](https://go.dev/tour/moretypes/16)
 - [Go by Example: Range](https://gobyexample.com/range)

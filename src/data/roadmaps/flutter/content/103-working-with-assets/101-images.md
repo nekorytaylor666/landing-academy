@@ -8,7 +8,7 @@ In Flutter, you can display images using the `Image` widget. There are several w
 
 The `Image` widget also accepts additional parameters such as `fit`, `width`, and `height` to control the size and scaling of the image.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Adding assets and images](https://docs.flutter.dev/development/ui/assets-and-images)
 - [Images in Flutter](https://docs.flutter.dev/cookbook/images)

@@ -4,7 +4,7 @@ Goroutines allow us to write concurrent programs in Go. Things like web servers 
 
 In Go, each of these concurrent tasks are called `Goroutines`.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Goroutines](https://go.dev/tour/concurrency/1)
 - [Effective Go: Goroutines](https://go.dev/doc/effective_go#goroutines)

@@ -13,7 +13,7 @@ Material Widgets are a set of Flutter widgets that implement Material Design, Go
 
 These widgets are commonly used in Flutter apps to provide a familiar look and feel that follows Material Design guidelines.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Material Components widgets](https://docs.flutter.dev/development/ui/widgets/material)
 - [Flutter – Material Design](https://www.geeksforgeeks.org/flutter-material-design/)

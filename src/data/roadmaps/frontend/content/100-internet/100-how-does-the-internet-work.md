@@ -1,11 +1,11 @@
 # Internet
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+Интернет - это глобальная сеть компьютеров, подключенных друг к другу, которые общаются посредством стандартизированного набора протоколов.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
-- [How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [Introduction to Internet](/guides/what-is-internet)
-- [How does the Internet work?](https://www.youtube.com/watch?v=TNQsmPf24go)
-- [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [Как работает интернет?](https://cs.fyi/guide/how-does-internet-work)
+- [Как работает интернет? Документация MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [Введение в интернет](/guides/what-is-internet)
+- [Как работает интернет?](https://www.youtube.com/watch?v=TNQsmPf24go)
+- [Как работает интернет за 5 минут?](https://www.youtube.com/watch?v=7_LPdttKXPc)

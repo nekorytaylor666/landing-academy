@@ -1,9 +1,9 @@
 # Yarn
 
-Yarn is a software packaging system developed in 2016 by Facebook for Node.js JavaScript runtime environment that provides speed, consistency, stability, and security as an alternative to npm (package manager).
+Yarn - это система управления пакетами, разработанная Facebook в 2016 году для среды выполнения JavaScript - Node.js, которая предоставляет скорость, последовательность, стабильность и безопасность как альтернативу npm (менеджеру пакетов).
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-- [Yarn - Getting Started](https://yarnpkg.com/en/docs/getting-started)
-- [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
+- [Современный JavaScript для начинающих](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+- [Yarn - Начало работы](https://yarnpkg.com/en/docs/getting-started)
+- [Yarn краткий курс](https://www.youtube.com/watch?v=g9_6KmiBISk)

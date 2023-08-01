@@ -1,11 +1,11 @@
 # OWASP Security Risks
 
-OWASP or Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+OWASP или Open Web Application Security Project - это онлайн-сообщество, которое создает свободно доступные статьи, методологии, документацию, инструменты и технологии в области безопасности веб-приложений.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)
-- [OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
-- [OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
-- [OWASP Top 10: A Guide to the Worst Software Vulnerabilities](https://thenewstack.io/owasp-top-10-a-guide-to-the-worst-software-vulnerabilities/)
+- [Проверочный список безопасности веб-приложений OWASP](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [Топ-10 угроз безопасности OWASP](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
+- [Шпаргалки OWASP](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [Топ-10 уязвимостей ПО OWASP: Руководство по худшим уязвимостям](https://thenewstack.io/owasp-top-10-a-guide-to-the-worst-software-vulnerabilities/)

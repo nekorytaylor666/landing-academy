@@ -2,7 +2,7 @@
 
 The setTimeout runs a function after the specified period expires. Times are declared in milliseconds.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout)
 - [W3Schools – JavaScript - setTimeOut](https://www.w3schools.com/jsref/met_win_settimeout.asp)

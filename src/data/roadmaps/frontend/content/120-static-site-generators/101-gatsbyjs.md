@@ -2,7 +2,7 @@
 
 Gatsby is a React-based open source framework with performance, scalability and security built-in.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Gatsby Website](https://www.gatsbyjs.com/)
 - [Gatsby Docs](https://www.gatsbyjs.com/docs)

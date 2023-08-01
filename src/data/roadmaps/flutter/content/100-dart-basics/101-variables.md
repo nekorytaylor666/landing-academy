@@ -7,7 +7,7 @@ In Flutter, variables are used to store values. There are two types of variables
 
 Variables in Flutter can store values of different data types, such as numbers, strings, booleans, and more.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Variables](https://dart.dev/guides/language/language-tour#variables)
 - [Dart - Variables](https://howtoflutter.dev/dart/variables/)

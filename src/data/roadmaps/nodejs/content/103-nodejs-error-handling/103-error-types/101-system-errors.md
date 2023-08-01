@@ -19,6 +19,6 @@ Below are the system errors commonly encountered when writing a Node.js program
 12. EPIPE - Broken Pipe
 13. ETIMEDOUT - Operation timed out
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Node.js Errors - Official Docs](https://nodejs.org/api/errors.html#errors_class_systemerror)

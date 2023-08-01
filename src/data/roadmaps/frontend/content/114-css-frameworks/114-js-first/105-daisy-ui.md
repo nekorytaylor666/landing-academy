@@ -2,7 +2,7 @@
 
 Component library around Tailwind CSS that comes with several built-in components.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [DaisyUI Website](https://daisyui.com/)
 - [DaisyUI Documentation](https://daisyui.com/docs/install/)

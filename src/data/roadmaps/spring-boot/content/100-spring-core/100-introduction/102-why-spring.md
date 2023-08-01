@@ -10,7 +10,7 @@ Spring Boot provides a number of features that make it easier to create a Spring
 
 Additionally, it's come with a lot of best practices and conventions baked in, which reduces the amount of work and boiler plate code developers need to write.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Why Spring?](https://spring.io/why-spring)
 - [Spring vs Spring Boot: Know The Difference](https://www.interviewbit.com/blog/spring-vs-spring-boot)

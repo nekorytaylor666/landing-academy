@@ -9,7 +9,7 @@ With the Flutter Inspector, developers can:
 3. Inspect the properties and styles of individual widgets, and view any errors or warnings.
 4. Measure the performance of the app, including the frame rate and number of widgets.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Using the Flutter inspector](https://docs.flutter.dev/development/tools/devtools/inspector)
 - [How to Use the Flutter Inspector](https://www.youtube.com/watch?v=CcLfGJZS8ns)

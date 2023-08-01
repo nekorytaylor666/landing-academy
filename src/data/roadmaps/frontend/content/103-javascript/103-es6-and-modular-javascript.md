@@ -1,13 +1,13 @@
 # Modern JavaScript
 
-ECMAScript 2015 or ES2015 is a significant update to the JavaScript programming language. It is the first major update to the language since ES5 which was standardized in 2009. You should look at the features introduced with ES6 and onwards.
+ECMAScript 2015 или ES2015 - это значительное обновление языка программирования JavaScript. Это первое крупное обновление языка с момента стандартизации ES5 в 2009 году. Рекомендуется ознакомиться с функциями, введенными с ES6 и более поздних версий.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [ES6 Tutorial](https://www.javascripttutorial.net/es6/)
+- [Руководство по ES6](https://www.javascripttutorial.net/es6/)
 - [W3Schools: Javascript ES6](https://www.w3schools.com/js/js_es6.asp)
-- [Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
+- [Изучение современного JavaScript за 1 час](https://www.youtube.com/watch?v=NCwa_xi0Uuc)
 - [JavaScript ES6, ES7, ES8](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
-- [Build 15 JavaScript Projects - Vanilla JavaScript](https://www.youtube.com/watch?v=3PHXvlpOkf4)
-- [Modern JavaScript ES6, ES7 & ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8)
-- [Easy ES6 Goodies for Busy JavaScript Developers](https://thenewstack.io/fat-arrow-points-way-easy-es6-goodies-busy-js-devs/)
+- [Создание 15 проектов на JavaScript - Vanilla JavaScript](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+- [Современный JavaScript ES6, ES7 & ES8](https://codeloop.org/learn-modern-javascript-es6-es7-es8)
+- [Простые хитрости ES6 для занятых разработчиков JavaScript](https://thenewstack.io/fat-arrow-points-way-easy-es6-goodies-busy-js-devs/)

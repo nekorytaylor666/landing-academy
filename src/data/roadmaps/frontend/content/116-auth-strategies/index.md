@@ -11,7 +11,7 @@ Authentication strategies are methods or techniques used to verify the identity 
 
 You don't necessarily need to learn all of these, how to implement and the ins and outs from the get go. But it's important to know what they are and how they work. This will help you make better decisions when choosing an authentication strategy for your application.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Basic Authentication](https://roadmap.sh/guides/basic-authentication)
 - [Session Based Authentication](https://roadmap.sh/guides/session-authentication)

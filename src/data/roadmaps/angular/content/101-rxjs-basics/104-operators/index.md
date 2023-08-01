@@ -30,7 +30,7 @@ import { interval } from 'rxjs';
 const observable = interval(1000 /* number of milliseconds */);
 ```
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [List of creation operators](https://rxjs.dev/guide/operators#creation-operators-list)
 - [Full RxJS Operators Documentation](https://rxjs.dev/guide/operators)

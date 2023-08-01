@@ -2,7 +2,7 @@
 
 Heap is a tree-based data structure that follows the properties of a complete binary tree and is either a Min Heap or a Max Heap.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Heap | Illustrated Data Structures](https://www.youtube.com/watch?v=F_r0sJ1RqWk)
 - [Priority Queue - Introduction](https://www.coursera.org/lecture/data-structures/introduction-2OpTs)

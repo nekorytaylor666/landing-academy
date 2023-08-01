@@ -2,7 +2,7 @@
 
 Next.js is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Official Website](https://nextjs.org/)
 - [Official Docs for Getting Started](https://nextjs.org/docs/getting-started)

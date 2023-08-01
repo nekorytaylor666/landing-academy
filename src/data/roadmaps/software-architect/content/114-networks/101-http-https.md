@@ -6,7 +6,7 @@ HTTPS (**H**ypertext **T**ransfer **P**rotocol **S**ecure) is the secure version
 
 `HTTPS = HTTP + SSL/TLS`
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
 - [What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)

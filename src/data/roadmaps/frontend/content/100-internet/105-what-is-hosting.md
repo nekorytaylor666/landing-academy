@@ -1,9 +1,9 @@
 # Hosting
 
-Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.
+Веб-хостинг - это онлайн-сервис, который позволяет вам публиковать файлы вашего веб-сайта в интернете. Таким образом, любой, у кого есть доступ к интернету, имеет доступ к вашему веб-сайту.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
-- [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)
-- [Where to Host a Fullstack Project on a Budget](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)
+- [Что такое веб-хостинг? Объяснение](https://www.youtube.com/watch?v=htbY9-yggB0)
+- [Объяснение различных типов веб-хостинга](https://www.youtube.com/watch?v=AXVZYzw8geg)
+- [Где разместить проект Fullstack(Фуллстек) с ограниченным бюджетом](https://www.youtube.com/watch?v=Kx_1NYYJS7Q)

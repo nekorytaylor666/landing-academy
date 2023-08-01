@@ -2,7 +2,7 @@
 
 When you render lists in React, you can use the `key` prop to specify a unique key for each item. This key is used to identify which item to update when you want to update a specific item.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Lists and Keys](https://react.dev/learn/rendering-lists#keeping-list-items-in-order-with-key)
 - [Rendering Lists](https://react.dev/learn/rendering-lists)

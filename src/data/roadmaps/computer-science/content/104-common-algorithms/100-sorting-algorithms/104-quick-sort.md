@@ -2,7 +2,7 @@
 
 Quick Sort is a divide and conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Quick Sort Algorithm](https://www.programiz.com/dsa/quick-sort)
 - [Quick Sort Algorithm - Geeks for Geeks](https://www.geeksforgeeks.org/quick-sort/)

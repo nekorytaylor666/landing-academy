@@ -4,7 +4,7 @@ Fun fact: it's a mystery, but the B could stand for Boeing, Balanced, or Bayer (
 
 In Practice: B-Trees are widely used in databases. Most modern filesystems use B-trees (or Variants). In addition to its use in databases, the B-tree is also used in filesystems to allow quick random access to an arbitrary block in a particular file. The basic problem is turning the file block i address into a disk block (or perhaps to a cylinder-head-sector) address
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [B-Tree - Wikipedia](https://en.wikipedia.org/wiki/B-tree)
 - [B-Tree Datastructure](http://btechsmartclass.com/data_structures/b-trees.html)

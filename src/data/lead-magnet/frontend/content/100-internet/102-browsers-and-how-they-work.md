@@ -2,7 +2,7 @@
 
 A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)

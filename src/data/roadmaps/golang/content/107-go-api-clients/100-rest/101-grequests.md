@@ -9,6 +9,6 @@ Features:
 - Easy file downloads
 - Support for the following HTTP verbs GET, HEAD, POST, PUT, DELETE, PATCH, OPTIONS
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [GitHub Repository](https://github.com/levigross/grequests)

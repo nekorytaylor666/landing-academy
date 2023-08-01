@@ -10,6 +10,6 @@ Three approaches are commonly used to implement functional testing:
 - White Box Testing
 - Gray Box Testing
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Functional Testing Approaches and Agile Considerations](https://www.qualitylogic.com/knowledge-center/functional-testing-approaches-agile-considerations/)

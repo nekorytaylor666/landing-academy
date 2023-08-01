@@ -2,7 +2,7 @@
 
 TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Testng](https://testng.org)
 - [Testng Documentation](https://testng.org/doc/documentation-main.html)

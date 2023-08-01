@@ -4,7 +4,7 @@ Channels are the pipes that connect concurrent goroutines. You can send values i
 
 Channels are a typed conduit through which you can send and receive values with the channel operator, `<-` .
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Channels](https://go.dev/tour/concurrency/2)
 - [Effective Go: Channels](https://go.dev/doc/effective_go#channels)

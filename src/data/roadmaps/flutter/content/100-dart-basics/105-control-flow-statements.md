@@ -12,7 +12,7 @@ In Dart, control flow statements are used to control the flow of execution of a 
 
 These control flow statements can be used to create complex logic and control the flow of execution in Dart programs.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Control flow statements](https://dart.dev/guides/language/language-tour#control-flow-statements)
 - [Dart Control Flow Statements](https://www.w3adda.com/dart-tutorial/dart-control-flow-statements)

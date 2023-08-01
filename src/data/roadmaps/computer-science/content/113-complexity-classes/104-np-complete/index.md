@@ -2,7 +2,7 @@
 
 A problem is NP-complete if it is both NP and NP-hard. NP-complete problems are the hard problems in NP.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Types of Complexity Classes | P, NP, CoNP, NP hard and NP complete](https://www.geeksforgeeks.org/types-of-complexity-classes-p-np-conp-np-hard-and-np-complete/)
 - [Trying to understand P vs NP vs NP Complete vs NP Hard](https://softwareengineering.stackexchange.com/questions/308178/trying-to-understand-p-vs-np-vs-np-complete-vs-np-hard)

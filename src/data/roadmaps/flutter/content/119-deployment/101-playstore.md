@@ -2,7 +2,7 @@
 
 The Google Play Store is an online store for Android apps, games, and other digital content. It is operated by Google and is the official app store for Android devices.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Publish your app](https://developer.android.com/studio/publish)
 - [Build and release an Android app](https://docs.flutter.dev/deployment/android)

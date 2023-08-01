@@ -7,6 +7,6 @@ There are several famous web frameworks for Go. Most common ones being:
 - Revel
 - Echo
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Comparison of Web Frameworks](https://github.com/diyan/go-web-framework-comparison)

@@ -4,7 +4,7 @@ Components can either be created using the class based approach or a functional 
 
 Although the class components are supported in React, it is encouraged to write functional components and make use of hooks in modern React applications.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Components and Props](https://react.dev/learn/thinking-in-react#props-vs-state)
 - [Is There Any Reason to Still Use React Class Components?](https://medium.com/geekculture/is-there-any-reason-to-still-use-react-class-components-9b6a1e6aa9ef)

@@ -2,7 +2,7 @@
 
 You can use the `v-model` directive to create two-way data bindings on form input elements. It automatically picks the correct way to update the element based on the input type.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Form Input Bindings](https://vuejs.org/guide/essentials/forms.html)
 - [Vue JS 3 Tutorial - Form Handling](https://www.youtube.com/watch?v=T-AE-GtSlN4)

@@ -2,7 +2,7 @@
 
 Bamboo is a CI/CD service provided by Atlassian. Bamboo is primarily used for automating builds, tests and releases in a single workflow.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Bamboo Website](https://www.atlassian.com/software/bamboo)
 - [Official Documentation](https://confluence.atlassian.com/bamboo/bamboo-documentation-289276551.html)

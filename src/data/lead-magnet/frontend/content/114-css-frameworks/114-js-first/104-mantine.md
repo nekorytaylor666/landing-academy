@@ -2,7 +2,7 @@
 
 Mantine is a React components library with more than 100 customizable components and 40 hooks to cover you in any situation.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Mantine Website](https://mantine.dev/)
 - [Usage with Create React App](https://mantine.dev/guides/cra/)

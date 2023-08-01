@@ -1,9 +1,9 @@
 # Forms and Validations
 
-Before submitting data to the server, it is important to ensure all required form controls are filled out, in the correct format. This is called client-side form validation, and helps ensure data submitted matches the requirements set forth in the various form controls.
+Перед отправкой данных на сервер важно убедиться, что все обязательные элементы управления формы заполнены правильным образом. Это называется клиентской валидацией формы и помогает гарантировать, что представленные данные соответствуют требованиям, установленным в различных элементах управления формой.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [MDN Web Docs: Client-side form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
-- [Learn Forms by web.dev](https://web.dev/learn/forms/)
-- [W3Schools: JavaScript Form Validation](https://www.w3schools.com/js/js_validation.asp)
+- [MDN Web Docs: Валидация форм на стороне клиента](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [Изучение форм на web.dev](https://web.dev/learn/forms/)
+- [W3Schools: Валидация форм с помощью JavaScript](https://www.w3schools.com/js/js_validation.asp)

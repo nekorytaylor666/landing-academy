@@ -1,5 +1,5 @@
 # Instructions and Programs
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Instructions and Programs](https://youtu.be/zltgXvg6r3k)

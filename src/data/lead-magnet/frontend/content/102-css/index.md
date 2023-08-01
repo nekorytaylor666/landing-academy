@@ -2,7 +2,7 @@
 
 CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [The Odin Project](https://www.theodinproject.com//)
 - [What The Flexbox!](https://flexbox.io/)

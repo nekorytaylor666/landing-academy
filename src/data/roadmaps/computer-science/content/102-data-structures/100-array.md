@@ -2,7 +2,7 @@
 
 Arrays store elements in contiguous memory locations, resulting in easily calculable addresses for the elements stored and this allows faster access to an element at a specific index.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Array Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=QJNwK2uJyGs)
 - [Array Data Structure - Coursera](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)

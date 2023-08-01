@@ -4,6 +4,6 @@ Software testing is the process of verifying that what we create is doing exactl
 
 The two most common testing approaches are unit testing and end-to-end testing. In the first, we examine small snippets of code, in the second, we test an entire user flow.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Differences between end-to-end testing and unit testing](https://www.geeksforgeeks.org/difference-between-end-to-end-testing-and-unit-testing/)

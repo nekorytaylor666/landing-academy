@@ -2,7 +2,7 @@
 
 The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
 - [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)

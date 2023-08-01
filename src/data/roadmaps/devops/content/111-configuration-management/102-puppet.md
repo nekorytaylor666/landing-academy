@@ -2,7 +2,7 @@
 
 Puppet, an automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Puppet Website](https://puppet.com/)
 - [Official Documentation](https://puppet.com/docs)

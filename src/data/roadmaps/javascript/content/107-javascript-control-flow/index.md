@@ -9,6 +9,6 @@ We can control the flow of the program through any of these control structures:
 - Exception Handling
 - Loops and Iterations
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Control Flow - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)

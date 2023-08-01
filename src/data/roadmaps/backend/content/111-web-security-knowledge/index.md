@@ -2,7 +2,7 @@
 
 Web security refers to the protective measures taken by the developers to protect the web applications from threats that could affect the business.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
 - [Wikipedia - OWASP](https://en.wikipedia.org/wiki/OWASP)

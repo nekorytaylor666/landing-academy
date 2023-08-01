@@ -2,7 +2,7 @@
 
 Automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [Learn GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)

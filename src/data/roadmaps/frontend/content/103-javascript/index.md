@@ -1,17 +1,17 @@
 # JavaScript
 
-JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.
+JavaScript позволяет добавить интерактивность на вашу страницу. Обычные примеры, которые вы можете видеть на веб-сайтах, включают слайдеры, взаимодействия при клике, всплывающие окна и т. д.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Visit Dedicated JavaScript Roadmap](/javascript)
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [Learn JavaScript: Covered many topics](https://www.javascripttutorial.net/)
-- [Eloquent JavaScript textbook](https://eloquentjavascript.net/)
-- [You Dont Know JS Yet (book series) ](https://github.com/getify/You-Dont-Know-JS)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
-- [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
-- [Build 30 Javascript projects in 30 days](https://javascript30.com/)
-- [Learn the basics of JavaScript](https://github.com/workshopper/javascripting)
-- [JavaScript for Beginners ](https://www.scaler.com/topics/course/javascript-beginners)
+- [Посетите специализированную дорожную карту по JavaScript](/javascript)
+- [W3Schools –  Учебник по JavaScript](https://www.w3schools.com/js/)
+- [Современное руководство по JavaScript](https://javascript.info/)
+- [Изучите JavaScript: охвачены многие темы](https://www.javascripttutorial.net/)
+- [Учебник Eloquent JavaScript](https://eloquentjavascript.net/)
+- ["You Don't Know JS Yet" (серия книг)](https://github.com/getify/You-Dont-Know-JS)
+- [Краткий курс по JavaScript для начинающих](https://youtu.be/hdI2bqOjy3c?t=2)
+- [Создание клонированной страницы запуска Netflix с использованием HTML, CSS и JS](https://youtu.be/P7t13SGytRk?t=22)
+- [Создайте 30 проектов на JavaScript за 30 дней](https://javascript30.com/)
+- [Изучите основы JavaScript](https://github.com/workshopper/javascripting)
+- [JavaScript для начинающих](https://www.scaler.com/topics/course/javascript-beginners)

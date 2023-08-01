@@ -2,7 +2,7 @@
 
 ECMAScript 2015 or ES2015 is a significant update to the JavaScript programming language. It is the first major update to the language since ES5 which was standardized in 2009. You should look at the features introduced with ES6 and onwards.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [ES6 Tutorial](https://www.javascripttutorial.net/es6/)
 - [W3Schools: Javascript ES6](https://www.w3schools.com/js/js_es6.asp)

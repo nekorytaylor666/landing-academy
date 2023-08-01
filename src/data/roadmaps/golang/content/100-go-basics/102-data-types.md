@@ -4,7 +4,7 @@ Go is a statically typed programming language, which means each variable has a t
 
 To learn more about types in Go, visit these resources :
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Basic data types](https://www.w3schools.com/go/go_data_types.php)
 - [Tour of Go: types](https://go.dev/tour/basics/11)

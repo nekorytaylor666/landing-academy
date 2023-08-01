@@ -1,7 +1,7 @@
 # Best Practices
 
-Learn to follow the best practices for writing maintainable and scalable HTML documents.
+Изучите соблюдение лучших практик для написания поддерживаемых и масштабируемых HTML-документов.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [HTML Best Practices](https://github.com/hail2u/html-best-practices)
+- [Лучшие практики HTML](https://github.com/hail2u/html-best-practices)

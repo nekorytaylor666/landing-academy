@@ -4,7 +4,7 @@ Debian is a free and open-source Linux distribution developed by the Debian Proj
 
 Ubuntu is a free and open-source Linux distribution based on Debian. Ubuntu is available in three versions Desktop, Server and Core.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Debian Website](https://www.debian.org/)
 - [Ubuntu Website](https://ubuntu.com/)

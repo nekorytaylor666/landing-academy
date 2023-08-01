@@ -6,7 +6,7 @@ A programming method to map objects in Java to relational entities in a database
 - Hibernate
 - Ebean
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [ORM tutorial](https://www.altexsoft.com/blog/object-relational-mapping/)
 - [Java Databases: An Overview of Libraries & APIs](https://www.marcobehler.com/guides/java-databases)

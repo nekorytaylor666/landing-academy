@@ -2,7 +2,7 @@
 
 Prometheus is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database built using a HTTP pull model, with flexible queries and real-time alerting.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Prometheus Website](https://prometheus.io/)
 - [Official Documentation](https://prometheus.io/docs/introduction/overview/)

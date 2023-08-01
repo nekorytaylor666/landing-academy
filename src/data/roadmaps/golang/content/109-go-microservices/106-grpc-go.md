@@ -2,7 +2,7 @@
 
 Go language implementation of gRPC(gRPC is a technology for implementing RPC APIs).
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [gRPC-go Github](https://github.com/grpc/grpc-go/)
 - [gRPC-go Doc](https://pkg.go.dev/google.golang.org/grpc/)

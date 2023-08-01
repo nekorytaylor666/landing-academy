@@ -1,11 +1,11 @@
 # Version Control Systems
 
-Version control systems allow you to track changes to your codebase/files over time. They allow you to go back to some previous version of the codebase without any issues. Also, they help in collaborating with people working on the same code – if you’ve ever collaborated with other people on a project, you might already know the frustration of copying and merging the changes from someone else into your codebase; version control systems allow you to get rid of this issue.
+Системы контроля версий позволяют отслеживать изменения в вашей кодовой базе или файлах со временем. Они позволяют вернуться к предыдущей версии кодовой базы без проблем. Также они помогают сотрудничать с другими людьми, работающими над тем же кодом - если вы когда-либо сотрудничали с другими людьми над проектом, вы, возможно, уже знаете о неудобствах копирования и объединения изменений кого-то другого в вашу кодовую базу; системы контроля версий позволяют избавиться от этой проблемы.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
-- [Git Documentation](https://git-scm.com/docs)
-- [Learn Git by Atlassian](https://www.atlassian.com/git)
+- [Введение в системы контроля версий](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [Краткий курс по Git и GitHub для начинающих](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Изучение Git за 20 минут](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [Документация по Git](https://git-scm.com/docs)
+- [Изучение Git от Atlassian](https://www.atlassian.com/git)

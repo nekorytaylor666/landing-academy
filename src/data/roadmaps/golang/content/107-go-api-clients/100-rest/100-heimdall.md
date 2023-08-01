@@ -8,6 +8,6 @@ Heimdall is an HTTP client that helps your application make a large number of re
 
 All HTTP methods are exposed as a fluent interface.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [GitHub Repository](https://github.com/gojek/heimdall)

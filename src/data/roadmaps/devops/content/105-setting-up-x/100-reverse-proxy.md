@@ -8,7 +8,7 @@ A Reverse Proxy server is a type of proxy server that typically sits behind the 
 - Web acceleration
 - Security and anonymity
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [What is Reverse Proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
 - [NGINX documentation](https://www.nginx.com/resources/glossary/reverse-proxy-server/)

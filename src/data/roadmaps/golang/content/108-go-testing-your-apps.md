@@ -2,7 +2,7 @@
 
 Go has a built-in testing command that we can use to test our program.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Official Go Tutorial: Add a test](https://go.dev/doc/tutorial/add-a-test)
 - [Go by Example: Testing](https://gobyexample.com/testing)

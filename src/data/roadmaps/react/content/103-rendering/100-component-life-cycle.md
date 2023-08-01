@@ -4,7 +4,7 @@ React components have a lifecycle consisting of three phases: Mounting, Updating
 
 It is not recommended to use lifecycle methods manually. Instead, use the useEffect hook with functional components.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Class Component](https://react.dev/reference/react/Component)
 - [Lifecycle of Reactive Effects](https://react.dev/learn/lifecycle-of-reactive-effects)
