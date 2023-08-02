@@ -1,8 +1,8 @@
 # Location API
 
-The Geolocation API is a web API that provides access to the device's location data, such as latitude and longitude. It allows web developers to build location-based applications, such as mapping and location sharing, by using the device's GPS, Wi-Fi, and other sensors to determine the user's location.
+Geolocation API - это веб-API, которое предоставляет доступ к данным о местоположении устройства, таким как широта и долгота. Оно позволяет веб-разработчикам создавать приложения, основанные на местоположении, такие как картография и обмен местоположением, используя GPS, Wi-Fi и другие сенсоры устройства для определения местоположения пользователя.
 
-To use the Geolocation API, a web page must first request permission from the user to access their location. If permission is granted, the page can then use the `navigator.geolocation` object to access the device's location data. The API provides several methods for getting the user's current location, watching for location changes, and calculating distances between two locations.
+Чтобы использовать Geolocation API, веб-странице сначала необходимо запросить разрешение у пользователя на доступ к его местоположению. Если разрешение предоставлено, страница может использовать объект navigator.geolocation для доступа к данным о местоположении устройства. API предоставляет несколько методов для получения текущего местоположения пользователя, отслеживания изменений местоположения и вычисления расстояний между двумя точками.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 

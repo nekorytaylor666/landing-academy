@@ -1,8 +1,7 @@
 # Jest
 
-Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
-It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more!
+Jest - это великолепный JavaScript Testing Framework с акцентом на простоту. Он работает с проектами, использующими: Babel, TypeScript, Node, React, Angular, Vue и многое другое!
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Jest Website](https://jestjs.io/)
+- [Сайт Jest](https://jestjs.io/)

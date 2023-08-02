@@ -1,12 +1,12 @@
 # Chakra UI
 
-Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+Chakra UI - это простая, модульная и доступная библиотека компонентов, которая предоставляет вам строительные блоки для создания ваших React-приложений.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Chakra UI Website](https://chakra-ui.com/)
-- [Chakra UI Official Getting Started](https://chakra-ui.com/docs/getting-started)
-- [Why You Should Start Using Chakra UI](https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/)
-- [Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
-- [Official Getting Started Video](https://youtu.be/wI2vqXsjsIo)
-- [Chakra UI Crash Course](https://youtu.be/s-bIsz-NR3c)
+- [Официальный сайт Chakra UI](https://chakra-ui.com/)
+- [Официальное руководство по началу работы с Chakra UI](https://chakra-ui.com/docs/getting-started)
+- [Почему стоит начать использовать Chakra UI](https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/)
+- [Создание современного пользовательского интерфейса с помощью Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
+- [Официальное видео по началу работы с Chakra UI](https://youtu.be/wI2vqXsjsIo)
+- [Краткий курс по Chakra UI](https://youtu.be/s-bIsz-NR3c)

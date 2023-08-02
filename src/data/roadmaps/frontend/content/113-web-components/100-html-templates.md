@@ -1,7 +1,7 @@
 # HTML Templates
 
-The `<template>` HTML element is a mechanism for holding HTML that is not to be rendered immediately when a page is loaded but may be instantiated subsequently during runtime using JavaScript. Think of a template as a content fragment that is being stored for subsequent use in the document.
+Элемент <template> в HTML представляет собой механизм для хранения HTML-кода, который не будет немедленно отображаться при загрузке страницы, но может быть создан позднее во время выполнения с использованием JavaScript. Можно рассматривать шаблон как фрагмент контента, который сохраняется для последующего использования в документе.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Using templates and slots | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
+- [Использование шаблонов и слотов | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)

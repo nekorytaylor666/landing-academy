@@ -1,8 +1,8 @@
 # OOCSS
 
-As with any object-based coding method, the purpose of OOCSS or Object Oriented CSS is to encourage code reuse and, ultimately, faster and more efficient stylesheets that are easier to add to and maintain.
+Как и в любом методе объектно-ориентированного программирования, цель OOCSS или "Object Oriented CSS" - поощрять повторное использование кода и, в конечном итоге, создание более быстрых и эффективных таблиц стилей (stylesheets), которые легче добавлять и поддерживать.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [OOCSS Official Website](http://oocss.org/)
-- [Introduction to Object Oriented CSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
+- [Официальный сайт OOCSS](http://oocss.org/)
+- [Введение в объектно-ориентированный CSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)

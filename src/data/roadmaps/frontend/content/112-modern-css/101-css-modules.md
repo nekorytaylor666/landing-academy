@@ -1,9 +1,9 @@
 # CSS Modules
 
-CSS files in which all class names and animation names are scoped locally by default.
+CSS-файлы, в которых все имена классов и имена анимаций по умолчанию изолированы локально.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Project GitHub Repository](https://github.com/css-modules/css-modules)
-- [Using CSS Modules In React App](https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87)
-- [CSS Modules: Why are they great?](https://www.youtube.com/watch?v=pKMWU9OrA2s)
+- [Официальный репозиторий Styled JSX](https://github.com/css-modules/css-modules)
+- [Использование CSS-модулей в приложении на React](https://medium.com/@ralph1786/using-css-modules-in-react-app-c2079eadbb87)
+- [CSS-модули: Почему они отличные?](https://www.youtube.com/watch?v=pKMWU9OrA2s)

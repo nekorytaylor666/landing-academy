@@ -1,9 +1,9 @@
 # Bootstrap
 
-Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
+Быстро создавайте и настраивайте отзывчивые мобильные сайты с помощью Bootstrap - самого популярного фронтенд-набора инструментов с открытым исходным кодом, предлагающего переменные и миксины Sass, отзывчивую сетку, обширные готовые компоненты и мощные плагины JavaScript.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Bootstrap Website](https://getbootstrap.com)
-- [Bootstrap Official Blog](https://blog.getbootstrap.com/2022/07/19/bootstrap-5-2-0/)
-- [Bootstrap CSS Framework - Full Course for Beginners](https://www.youtube.com/watch?v=-qfEOE4vtxE)
+- [Официальный сайт Bootstrap](https://getbootstrap.com)
+- [Официальный блог Bootstrap](https://blog.getbootstrap.com/2022/07/19/bootstrap-5-2-0/)
+- [Курс по полному охвату CSS-фреймворка Bootstrap для начинающих](https://www.youtube.com/watch?v=-qfEOE4vtxE)

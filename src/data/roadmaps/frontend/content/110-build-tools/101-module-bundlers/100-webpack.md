@@ -1,9 +1,9 @@
 # Webpack
 
-Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+Webpack - это средство для сборки модулей (module bundler). Его основная цель - объединять файлы JavaScript для использования в браузере, но также он способен преобразовывать, упаковывать или собирать практически любой ресурс или актив.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Webpack Official Website](https://webpack.js.org/)
-- [Webpack Documentation](https://webpack.js.org/concepts/)
-- [A Complete Guide to Webpack 5](https://www.valentinog.com/blog/webpack)
+- [Официальный сайт Webpack](https://webpack.js.org/)
+- [Документация по Webpack](https://webpack.js.org/concepts/)
+- [Полное руководство по Webpack 5](https://www.valentinog.com/blog/webpack)

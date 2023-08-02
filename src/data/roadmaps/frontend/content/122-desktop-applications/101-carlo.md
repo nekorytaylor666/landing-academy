@@ -1,8 +1,8 @@
 # Carlo
 
-Carlo is a headful Node app framework for building desktop applications.
+Carlo - это фреймворк для Node.js, предназначенный для создания настольных приложений с графическим интерфейсом.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Github Repository](https://github.com/GoogleChromeLabs/carlo)
-- [Carlo development on a web server](https://blog.agney.dev/carlo-on-web-server/)
+- [Репозиторий Carlo на GitHub](https://github.com/GoogleChromeLabs/carlo)
+- [Разработка Carlo на веб-сервере](https://blog.agney.dev/carlo-on-web-server/)

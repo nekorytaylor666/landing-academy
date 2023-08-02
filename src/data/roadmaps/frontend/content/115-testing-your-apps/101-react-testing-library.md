@@ -1,6 +1,6 @@
 # React Testing Library
 
-The React Testing Library is a very lightweight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices. Its primary guiding principle is: The more your tests resemble the way your software is used, the more confidence they can give you.
+React Testing Library - это очень легкое решение для тестирования компонентов React. Она предоставляет утилиты на основе react-dom и react-dom/test-utils, поощряя лучшие практики тестирования. Основной принцип ее работы заключается в следующем: чем больше ваши тесты напоминают использование вашего программного обеспечения, тем больше уверенности они могут дать вам.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 

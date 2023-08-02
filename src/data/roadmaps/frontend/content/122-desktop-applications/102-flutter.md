@@ -1,14 +1,14 @@
 # Flutter
 
-Flutter is a free and open-source multi-platform UI framework created by Google and released in May 2017. In a few words, it allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create three different apps (for iOS, Android and Desktop).
+Flutter - это бесплатный и открытый мультиплатформенный фреймворк для создания пользовательских интерфейсов, созданный Google и выпущенный в мае 2017 года. В нескольких словах, он позволяет создавать нативные мобильные приложения с использованием только одного кодовой базы. Это означает, что вы можете использовать один язык программирования и одну кодовую базу для создания трех различных приложений (для iOS, Android и настольных платформ).
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Visit Dedicated Flutter Roadmap](/flutter)
-- [Flutter Website](https://flutter.dev)
-- [Flutter for Desktop](https://flutter.dev/multi-platform/desktop)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Learn Dart Programming](https://www.tutorialspoint.com/dart_programming/index.htm)
-- [12 Ways Flutter Streamlines App Development](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)
+- [Дорожная карта Flutter](/flutter)
+- [Сайт Flutter](https://flutter.dev)
+- [Flutter для настольных платформ](https://flutter.dev/multi-platform/desktop)
+- [Обучающий материал по Flutter](https://www.w3adda.com/flutter-tutorial)
+- [Обучающий курс Flutter для начинающих](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [Обучающий курс Flutter для начинающих](https://www.w3adda.com/flutter-tutorial)
+- [Изучение программирования на языке Dart](https://www.tutorialspoint.com/dart_programming/index.htm)
+- [12 способов оптимизации процесса разработки приложений с помощью Flutter](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)

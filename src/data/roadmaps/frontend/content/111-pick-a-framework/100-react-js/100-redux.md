@@ -1,10 +1,10 @@
 # Redux
 
-Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as [live code editing combined with a time traveling debugger](https://github.com/reduxjs/redux-devtools).
+Redux - это предсказуемый контейнер состояния для JavaScript-приложений. Он помогает вам писать приложения, которые ведут себя последовательно, работают в разных средах (клиент, сервер и нативные) и легко тестируются. Кроме того, он обеспечивает отличный опыт разработчика, такой как [редактирование кода в реальном времени с отладчиком, поддерживающим перемещение по временной шкале](https://github.com/reduxjs/redux-devtools).
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://redux.js.org/)
-- [Official Getting Started to Redux](https://redux.js.org/introduction/getting-started)
-- [Official Tutorial to Learn Redux](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
-- [Fundamentals of Redux Course from Dan Abramov](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
+- [Официальный веб-сайт Redux](https://redux.js.org/)
+- [Официальное введение в Redux](https://redux.js.org/introduction/getting-started)
+- [Официальное руководство по изучению Redux](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
+- [Курс основ Redux от Дэна Абрамова](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)

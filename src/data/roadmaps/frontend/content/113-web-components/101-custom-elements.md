@@ -1,7 +1,7 @@
 # Custom Elements
 
-One of the key features of the Web Components standard is the ability to create custom elements that encapsulate your functionality on an HTML page, rather than having to make do with a long, nested batch of elements that together provide a custom page feature.
+Одной из ключевых особенностей стандарта Web Components является возможность создания пользовательских элементов, которые инкапсулируют вашу функциональность на HTML-странице, вместо того чтобы приходиться использовать длинный и вложенный набор элементов, которые вместе обеспечивают пользовательскую функцию страницы.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Using custom elements | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+- [Использование пользовательских элементов | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)

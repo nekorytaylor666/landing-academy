@@ -1,8 +1,8 @@
 # Pick a Framework
 
-Web frameworks are designed to write web applications. Frameworks are collections of libraries that aid in the development of a software product or website. Frameworks for web application development are collections of various tools. Frameworks vary in their capabilities and functions, depending on the tasks set. They define the structure, establish the rules, and provide the development tools required.
+Веб-фреймворки предназначены для разработки веб-приложений. Фреймворки - это сборники библиотек, которые помогают разработке программного продукта или веб-сайта. Фреймворки для разработки веб-приложений представляют собой набор различных инструментов. Фреймворки различаются по своим возможностям и функциям, в зависимости от поставленных задач. Они определяют структуру, устанавливают правила и предоставляют необходимые инструменты разработки.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [What is the difference between a framework and a library?](https://www.youtube.com/watch?v=D_MO9vIRBcA)
-- [ Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+- [В чем разница между фреймворком и библиотекой?](https://www.youtube.com/watch?v=D_MO9vIRBcA)
+- [Какой JS фреймворк лучше?](https://www.youtube.com/watch?v=cuHDQhDhvPE)

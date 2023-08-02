@@ -1,10 +1,10 @@
 # Device Orientation API
 
-The Device Orientation API is a web API that provides access to the device's orientation and motion data, such as its pitch, roll, and yaw. It allows web developers to build applications that can respond to the device's orientation and motion, such as augmented reality and motion-controlled games.
+API Device Orientation (API ориентации устройства) - это веб-интерфейс программирования (API), предоставляющий доступ к ориентации устройства и данным о его движении, таким как крен, крен и рыскание. Он позволяет веб-разработчикам создавать приложения, которые могут реагировать на ориентацию и движение устройства, например, приложения дополненной реальности и игры с управлением движением.
 
-To use the Device Orientation API, a web page must first request permission from the user to access the device's orientation data. If permission is granted, the page can then use the DeviceOrientationEvent object to access the device's orientation data and respond to changes in orientation. The API provides several properties for accessing the device's orientation and motion data, as well as events for detecting changes in orientation.
+Чтобы использовать API Device Orientation, веб-страница сначала должна запросить разрешение у пользователя на доступ к данным ориентации устройства. Если разрешение предоставлено, страница может использовать объект DeviceOrientationEvent для доступа к данным ориентации устройства и реагирования на изменения ориентации. API предоставляет несколько свойств для доступа к данным ориентации и движении устройства, а также события для обнаружения изменений ориентации.
 
-The Device Orientation API is supported by most modern web browsers and is often used in conjunction with other APIs, such as the Geolocation API, to build location-based applications.
+API Device Orientation поддерживается большинством современных веб-браузеров и часто используется совместно с другими API, такими как API геолокации, для создания приложений, основанных на местоположении.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 

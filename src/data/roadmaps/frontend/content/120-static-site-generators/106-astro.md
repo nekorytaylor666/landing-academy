@@ -1,15 +1,15 @@
 # Astro
 
-Astro is an all-in-one web framework for building fast, content-focused websites. Astro combines the power of a modern component-based framework with the performance and flexibility of a static site generator.
+Astro - это все-в-одном веб-фреймворк для создания быстрых, сфокусированных на контенте веб-сайтов. Astro объединяет мощь современного компонентного фреймворка с производительностью и гибкостью генератора статических сайтов.
 
-- Component Islands: A new web architecture for building faster websites.
-- Server-first API design: Move expensive hydration off of your users’ devices.
-- Zero JS, by default: No JavaScript runtime overhead to slow you down.
-- Edge-ready: Deploy anywhere, even a global edge runtime like Deno or Cloudflare.
-- Customizable: Tailwind, MDX, and 100+ other integrations to choose from.
-- UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more.
+- Component Islands: Новая веб-архитектура для создания более быстрых веб-сайтов.
+- Server-first API design: Перенос дорогостоящей гидратации с устройств ваших пользователей.
+- Zero JS, by default: Отсутствие накладных расходов на выполнение JavaScript по умолчанию.
+- Edge-ready: Возможность развертывания в любом месте, даже на глобальном краевом рантайме, таком как Deno или Cloudflare.
+- Customizable: Интеграции с Tailwind, MDX и более 100 другими инструментами на выбор.
+- UI-agnostic: Поддерживает React, Preact, Svelte, Vue, Solid, Lit и многие другие.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Astro Website](https://astro.build/)
-- [Official Astro Docs](https://docs.astro.build/)
+- [Официальный сайт Astro](https://astro.build/)
+- [Официальная документация Astro](https://docs.astro.build/)

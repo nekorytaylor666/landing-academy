@@ -1,3 +1,3 @@
 # Type Checkers
 
-Type checker helps developers write code with fewer bugs by adding types to their code, trying to catch type errors within your code, and then removing them during compile time. Flow and TypeScript are two popular static type checkers for JavaScript.
+Type checker помогает разработчикам писать код с меньшим количеством ошибок, добавляя типы к их коду, пытаясь обнаружить ошибки типов внутри вашего кода и затем устраняя их во время компиляции. Flow и TypeScript - два популярных статических проверщика типов для JavaScript.

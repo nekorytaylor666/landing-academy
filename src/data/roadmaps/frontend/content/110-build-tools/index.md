@@ -1,11 +1,11 @@
 # Build Tools
 
-Task runners automatically execute commands and carry out processes behind the scenes. This helps automate your workflow by performing mundane, repetitive tasks that you would otherwise waste an egregious amount of time repeating yourself.
+Задачи выполняются автоматически путем выполнения команд и процессов на фоне. Это помогает автоматизировать рабочий процесс, выполняя однообразные и повторяющиеся задачи, которые иначе заняли бы огромное количество времени.
 
-Common usages of task runners include numerous development tasks such as: spinning up development servers, compiling code (ex. SCSS to CSS), running linters, serving files up from a local port on your computer, and many more!
+Распространенные использования задач включают множество различных задач разработки, таких как: запуск серверов разработки, компиляция кода (например, SCSS в CSS), запуск линтеров, предоставление файлов с локального порта на вашем компьютере и многое другое!
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
-- [Vite Next Generation Frontend Tooling](https://vitejs.dev)
-- [Parcel is a zero configuration build tool for the web](https://parceljs.org/)
+- [webpack - это статический сборщик модулей для современных приложений на JavaScript](https://webpack.js.org/)
+- [Vite - это инструмент следующего поколения для фронтенд-разработки](https://vitejs.dev)
+- [Parcel - это инструмент с нулевой конфигурацией для сборки веб-приложений](https://parceljs.org/)

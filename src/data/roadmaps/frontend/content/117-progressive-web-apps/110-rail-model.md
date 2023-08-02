@@ -1,13 +1,13 @@
 # RAIL Model
 
-The RAIL model is a performance optimization model for web applications that focuses on improving the perceived performance of a web page. It stands for Response, Animation, Idle, and Load, and it involves the following four performance goals:
+Модель RAIL - это модель оптимизации производительности для веб-приложений, которая сосредотачивается на улучшении воспринимаемой производительности веб-страницы. Она состоит из четырех основных целей производительности:
 
-- Response: The time it takes for the web page to respond to user input should be under 100 milliseconds.
-- Animation: The time it takes for an animation to run should be under 10 milliseconds.
-- Idle: The web page should take advantage of idle time to perform non-critical tasks.
-- Load: The time it takes for the web page to fully load should be under 1 second.
+- Response: Время отклика веб-страницы на пользовательский ввод должно быть менее 100 миллисекунд.
+- Animation: Время выполнения анимации должно быть менее 10 миллисекунд.
+- Idle: Веб-страница должна использовать простои для выполнения не критических задач.
+- Load: Время полной загрузки веб-страницы должно быть менее 1 секунды.
 
-The RAIL model is designed to provide a framework for optimizing the performance of a web page by focusing on the four key areas that impact the user's perception of performance. It is particularly useful for applications that require high levels of interactivity, such as games and social media applications.
+Модель RAIL разработана для предоставления рамок оптимизации производительности веб-страницы, сосредотачиваясь на четырех ключевых областях, которые влияют на восприятие пользователем производительности. Она особенно полезна для приложений, которые требуют высокого уровня интерактивности, таких как игры и приложения для социальных сетей.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 

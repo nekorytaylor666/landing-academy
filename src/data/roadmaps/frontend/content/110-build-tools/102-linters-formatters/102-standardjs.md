@@ -1,8 +1,8 @@
 # StandardJS
 
-Standardjs is a Style guide, with linter & automatic code fixer. It is a way to enforce consistent style in your project. It automatically formats code.
-Standard JS is a tool in the Code Review category of a tech stack.
+Standardjs - это стайл-гайд, обеспечивающий проверку кода и автоматическое исправление кода. Это способ обеспечить согласованный стиль в вашем проекте. Он автоматически форматирует код.
+Standard JS - это инструмент в категории Code Review для технологического стека.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://standardjs.com/)
+- [Официальный веб-сайт](https://standardjs.com/)

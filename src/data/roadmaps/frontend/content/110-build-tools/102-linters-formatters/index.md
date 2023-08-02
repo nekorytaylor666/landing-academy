@@ -1,7 +1,7 @@
 # Linters formatters
 
-A linter is a tool used to analyze code and discover bugs, syntax errors, stylistic inconsistencies, and suspicious constructs. Popular linters for JavaScript include ESLint, JSLint, and JSHint.
+Линтер - это инструмент, используемый для анализа кода и выявления ошибок, синтаксических ошибок, несоответствий стиля и подозрительных конструкций. Популярные линтеры для JavaScript включают ESLint, JSLint и JSHint.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [What Is a Linter?](https://www.testim.io/blog/what-is-a-linter-heres-a-definition-and-quick-start-guide/)
+- [Что такое Linter?](https://www.testim.io/blog/what-is-a-linter-heres-a-definition-and-quick-start-guide/)

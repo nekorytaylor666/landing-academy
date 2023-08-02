@@ -1,10 +1,10 @@
 # Apollo
 
-Apollo is a platform for building a unified graph, a communication layer that helps you manage the flow of data between your application clients (such as web and native apps) and your back-end services.
+Apollo - это платформа для создания единого графа, коммуникационного уровня, который помогает управлять потоком данных между клиентами вашего приложения (например, веб-приложениями и нативными приложениями) и вашими серверными службами.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Apollo Website](https://www.apollographql.com)
-- [Official Docs](https://www.apollographql.com/docs/)
-- [Official YouTube Channel](https://www.youtube.com/c/ApolloGraphQL/)
-- [GraphQL With React Tutorial - Apollo Client](https://www.youtube.com/watch?v=YyUWW04HwKY)
+- [Официальный сайт Apollo](https://www.apollographql.com)
+- [Официальная документация](https://www.apollographql.com/docs/)
+- [Официальный канал YouTube](https://www.youtube.com/c/ApolloGraphQL/)
+- [Учебник по GraphQL с использованием Apollo Client](https://www.youtube.com/watch?v=YyUWW04HwKY)

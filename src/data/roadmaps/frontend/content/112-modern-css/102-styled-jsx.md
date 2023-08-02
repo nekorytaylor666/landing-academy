@@ -1,8 +1,8 @@
 # Styled JSX
 
-Styled JSX is a CSS-in-JS library that allows you to write encapsulated and scoped CSS to style your components. The styles you introduce for one component won't affect other components, allowing you to add, change and delete styles without worrying about unintended side effects.
+Styled JSX - это библиотека CSS-in-JS, которая позволяет вам писать инкапсулированный и изолированный CSS для стилизации ваших компонентов. Стили, которые вы задаете для одного компонента, не затрагивают другие компоненты, что позволяет добавлять, изменять и удалять стили, не беспокоясь о нежелательных побочных эффектах.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Getting started](https://github.com/vercel/styled-jsx)
-- [Styled JSX in Next.js: Master Next.js](https://www.youtube.com/watch?v=SM5uVbfgfdo)
+- [Начало работы](https://github.com/vercel/styled-jsx)
+- [Styled JSX в Next.js: Овладейте Next.js](https://www.youtube.com/watch?v=SM5uVbfgfdo)

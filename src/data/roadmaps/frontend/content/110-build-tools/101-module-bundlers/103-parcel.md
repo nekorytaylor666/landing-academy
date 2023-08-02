@@ -1,8 +1,8 @@
 # Parcel
 
-Parcel is a web application bundler, differentiated by its developer experience. It offers blazing-fast performance utilizing multicore processing and requires zero configuration.
+Parcel - это сборщик веб-приложений, отличающийся удобством использования для разработчика. Он обеспечивает мгновенную производительность, используя многопоточную обработку и не требует никакой конфигурации.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website and Docs](https://parceljs.org/plugin-system/bundler/)
-- [Using Parcel Bundler with React](https://www.youtube.com/watch?v=hCxvp3_o0gM)
+- [Официальный веб-сайт и документация Parcel](https://parceljs.org/plugin-system/bundler/)
+- [Использование сборщика Parcel с React](https://www.youtube.com/watch?v=hCxvp3_o0gM)

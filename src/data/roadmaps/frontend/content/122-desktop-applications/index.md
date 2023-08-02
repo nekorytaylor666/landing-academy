@@ -1,6 +1,6 @@
 # Desktop Applications in JavaScript
 
-A while back, developing a desktop app using JavaScript was impossible. But now JavaScript developers can create desktop applications using their knowledge for web development. Here is the list of options to create desktop applications in JavaScript.
+Некоторое время назад разработка настольных приложений с использованием JavaScript была невозможна. Но теперь разработчики на JavaScript могут создавать настольные приложения, используя свои знания в веб-разработке. Вот список вариантов создания настольных приложений на JavaScript.
 
 - [Electron](https://www.electronjs.org/)
 - [NodeGUI](https://docs.nodegui.org/)

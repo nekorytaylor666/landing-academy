@@ -1,7 +1,7 @@
 # Shadow DOM
 
-An important aspect of web components is encapsulation — being able to keep the markup structure, style, and behavior hidden and separate from other code on the page so that different parts do not clash, and the code can be kept nice and clean. The Shadow DOM API is a key part of this, providing a way to attach a hidden separated DOM to an element.
+Важным аспектом веб-компонентов является инкапсуляция - возможность сохранить структуру разметки, стиль и поведение скрытыми и отделенными от другого кода на странице, чтобы различные части не сталкивались, и код мог бы оставаться чистым и понятным. API Shadow DOM является ключевой частью этого, предоставляя способ прикрепить скрытое отдельное DOM к элементу.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Using shadow DOM | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
+- [Использование Shadow DOM | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)

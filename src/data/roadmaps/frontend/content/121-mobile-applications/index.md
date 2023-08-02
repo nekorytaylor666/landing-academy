@@ -1,6 +1,6 @@
 # Mobile applications
 
-A while back, developing a mobile app using JavaScript was impossible. But now JavaScript developers can create mobile applications using their knowledge for web development. Here is the list of options to create mobile applications in JavaScript.
+Некоторое время назад создание мобильных приложений с использованием JavaScript было невозможным. Но теперь разработчики JavaScript могут создавать мобильные приложения, используя свои знания в веб-разработке. Вот список вариантов создания мобильных приложений на JavaScript.
 
 - [React Native](https://reactnative.dev/)
 - [Flutter](https://flutter.dev)

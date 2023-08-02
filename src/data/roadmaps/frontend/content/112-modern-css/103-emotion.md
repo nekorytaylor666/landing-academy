@@ -1,8 +1,8 @@
 # Emotion
 
-Emotion is a library designed for writing css styles with JavaScript. It provides powerful and predictable style composition in addition to a great developer experience with features such as source maps, labels, and testing utilities. Both string and object styles are supported.
+Emotion - это библиотека, разработанная для написания стилей CSS с использованием JavaScript. Она предоставляет мощное и предсказуемое объединение стилей, а также отличный опыт разработчика с возможностями, такими как карты исходных кодов, метки и тестовые утилиты. Поддерживаются как строковые, так и объектные стили.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website and Docs](https://emotion.sh/docs/introduction)
-- [Styled components using emotion in React](https://www.youtube.com/watch?v=yO3JU2bMLGA)
+- [Официальный веб-сайт и документация](https://emotion.sh/docs/introduction)
+- [Применение Styled Components с использованием Emotion в React](https://www.youtube.com/watch?v=yO3JU2bMLGA)

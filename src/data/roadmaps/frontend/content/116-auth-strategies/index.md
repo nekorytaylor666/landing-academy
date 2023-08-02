@@ -1,6 +1,6 @@
 # Authentication Strategies
 
-Authentication strategies are methods or techniques used to verify the identity of a user or system in order to grant access to a protected resource. There are several different authentication strategies that can be used, including:
+Аутентификационные стратегии - это методы или техники, используемые для проверки идентичности пользователя или системы с целью предоставления доступа к защищенным ресурсам. Существует несколько различных аутентификационных стратегий, которые можно использовать, включая:
 
 - Basic Authentication
 - Session Based Authentication
@@ -9,7 +9,7 @@ Authentication strategies are methods or techniques used to verify the identity 
 - OAuth
 - SSO
 
-You don't necessarily need to learn all of these, how to implement and the ins and outs from the get go. But it's important to know what they are and how they work. This will help you make better decisions when choosing an authentication strategy for your application.
+Вы не обязаны изучать все эти стратегии и реализовывать их сразу, но важно знать, что они существуют и как они работают. Это поможет вам принимать более обоснованные решения при выборе аутентификационной стратегии для вашего приложения.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 

@@ -1,10 +1,10 @@
 # esbuild
 
-Our current build tools for the web are 10-100x slower than they could be. The main goal of the esbuild bundler project is to bring about a new era of build tool performance, and create an easy-to-use modern bundler along the way.
+Наши текущие инструменты для сборки веб-проектов на 10-100 раз медленнее, чем могли бы быть. Основная цель проекта сборщика esbuild - это призвать наступление новой эры производительности инструментов для сборки и создать в процессе легкий в использовании и современный сборщик.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Esbuild Official Website](https://esbuild.github.io/)
-- [Esbuild Documentation](https://esbuild.github.io/api/)
-- [Why are People Obsessed with esbuild?](https://www.youtube.com/watch?v=9XS_RA6zyyU)
-- [What Is ESBuild?](https://www.youtube.com/watch?v=zy8vu8cbwf0)
+- [Официальный веб-сайт Esbuild](https://esbuild.github.io/)
+- [Документация Esbuild](https://esbuild.github.io/api/)
+- [Почему люди увлечены esbuild?](https://www.youtube.com/watch?v=9XS_RA6zyyU)
+- [Что такое ESBuild](https://www.youtube.com/watch?v=zy8vu8cbwf0)

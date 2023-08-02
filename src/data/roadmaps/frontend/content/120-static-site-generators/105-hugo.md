@@ -1,10 +1,10 @@
 # Hugo
 
-Hugo is the world’s fastest static website engine. It’s written in Go (aka Golang) and developed by bep, spf13 and friends.
+Hugo - это самый быстрый статический генератор веб-сайтов в мире. Он написан на языке Go (или Golang) и разработан bep, spf13 и их командой.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://gohugo.io/)
-- [Official Docs for Getting Started](https://gohugo.io/documentation/)
-- [Introduction to Hugo - Static Site Generator ](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
-- [Tutorial: Use Hugo to Generate a Static Website](https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/)
+- [Официальный сайт Hugo](https://gohugo.io/)
+- [Официальная документация для начинающих](https://gohugo.io/documentation/)
+- [Введение в Hugo - генератор статических сайтов](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+- [Учебное руководство: Используйте Hugo для создания статического веб-сайта](https://thenewstack.io/tutorial-use-hugo-to-generate-a-static-website/)

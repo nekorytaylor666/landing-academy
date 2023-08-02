@@ -1,8 +1,8 @@
 # Daisy UI
 
-Component library around Tailwind CSS that comes with several built-in components.
+DaisyUI - это библиотека компонентов на основе Tailwind CSS, которая поставляется с несколькими встроенными компонентами.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [DaisyUI Website](https://daisyui.com/)
-- [DaisyUI Documentation](https://daisyui.com/docs/install/)
+- [Официальный сайт DaisyUI](https://daisyui.com/)
+- [Документация DaisyUI](https://daisyui.com/docs/install/)

@@ -1,7 +1,7 @@
 # Angular Universal
 
-The Angular Universal project is a community driven project to expand on the core APIs from Angular (platform-server) to enable developers to do the server side rendering of Angular applications. It mainly uses express to render pages on pages on node.js server.
+Проект Angular Universal - это проект, созданный сообществом, для расширения основных API из Angular (platform-server) и обеспечения возможности разработчикам выполнять рендеринг приложений Angular на стороне сервера. Для этого в основном используется Express для рендеринга страниц на сервере Node.js.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Server-side rendering (SSR) with Angular Universal](https://angular.io/guide/universal)
+- [Рендеринг на стороне сервера (SSR) с Angular Universal](https://angular.io/guide/universal)

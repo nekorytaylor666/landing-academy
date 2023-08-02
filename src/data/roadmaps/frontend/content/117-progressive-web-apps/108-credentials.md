@@ -1,10 +1,10 @@
 # Credentials API
 
-The Credential Management API is a web API that allows web developers to integrate password-based and federated login flows into their applications. It provides a standardized, browser-based interface for storing and retrieving user credentials, such as username and password combinations and OAuth tokens.
+API Credential Management (API управления учетными данными) - это веб-интерфейс программирования (API), который позволяет веб-разработчикам интегрировать процессы входа на основе пароля и федеративные потоки в их приложения. Он предоставляет стандартизированный, основанный на браузере интерфейс для хранения и извлечения учетных данных пользователей, таких как комбинации имени пользователя и пароля и токены OAuth.
 
-To use the Credential Management API, a web page must first create a Credential object and specify the credentials that the user wishes to store. The page can then use the navigator.credentials object to store and retrieve the user's credentials. The API provides several methods for storing and retrieving credentials, as well as for prompting the user to sign in or sign up.
+Для использования API Credential Management, веб-страница должна сначала создать объект Credential и указать учетные данные, которые пользователь хочет сохранить. Затем страница может использовать объект navigator.credentials для сохранения и извлечения учетных данных пользователя. API предоставляет несколько методов для сохранения и извлечения учетных данных, а также для приглашения пользователя войти или зарегистрироваться.
 
-The Credential Management API is supported by most modern web browsers and is designed to improve the security and usability of login flows by allowing the user to store and reuse their credentials across multiple sites and devices.
+API Credential Management поддерживается большинством современных веб-браузеров и разработан для улучшения безопасности и удобства процессов входа, позволяя пользователю сохранять и повторно использовать свои учетные данные на нескольких сайтах и устройствах.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 

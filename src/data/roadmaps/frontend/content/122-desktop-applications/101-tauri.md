@@ -1,9 +1,9 @@
 # Tauri
 
-Tauri is a toolkit that helps developers make applications for the major desktop platforms - using virtually any frontend framework in existence. The core is built with Rust, and the CLI leverages Node.js making Tauri a genuinely polyglot approach to creating and maintaining great apps.
+Tauri - это набор инструментов, который помогает разработчикам создавать приложения для основных настольных платформ с использованием практически любого существующего фреймворка для фронтенда. Основное ядро построено на Rust, а командная строка использует Node.js, что делает Tauri поистине полиглотическим подходом к созданию и поддержке отличных приложений.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Tauri Website](https://tauri.app/)
-- [Tauri Docs](https://tauri.app/v1/guides/)
-- [How Tauri Turns Web Designs into Compact Native Apps](https://thenewstack.io/how-tauri-turns-web-designs-into-compact-native-apps/)
+- [Сайт Tauri](https://tauri.app/)
+- [Документация Tauri](https://tauri.app/v1/guides/)
+- [Как Tauri превращает веб-дизайн в компактные нативные приложения](https://thenewstack.io/how-tauri-turns-web-designs-into-compact-native-apps/)

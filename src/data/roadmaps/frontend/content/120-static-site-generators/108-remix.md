@@ -1,8 +1,8 @@
 # Remix
 
-Remix is a full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience. People are gonna love using your stuff.
+Remix - это полноценный стек веб-фреймворк, который позволяет сосредотачиваться на пользовательском интерфейсе и работать согласно стандартам веба, чтобы обеспечить быстрый, гладкий и устойчивый пользовательский опыт. Вашим продуктом будут восхищены пользователи.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://remix.run/)
-- [Official Docs for Getting Started](https://remix.run/docs/en/v1#getting-started)
+- [Официальный сайт Remix](https://remix.run/)
+- [Официальная документация для начинающих](https://remix.run/docs/en/v1#getting-started)

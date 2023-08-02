@@ -1,10 +1,10 @@
 # Payments
 
-The Payment Request API is a web API that allows web developers to build checkout flows within their web applications. It provides a standardized, browser-based interface for collecting payment and shipping information from the user, and it supports a wide range of payment methods, including credit cards, debit cards, and digital wallets.
+API Payment Request (API запроса оплаты) - это веб-интерфейс программирования (API), который позволяет веб-разработчикам создавать процессы оформления заказов в своих веб-приложениях. Он предоставляет стандартизированный, основанный на браузере интерфейс для сбора информации об оплате и доставке от пользователя и поддерживает широкий спектр методов оплаты, включая кредитные карты, дебетовые карты и цифровые кошельки.
 
-To use the Payment Request API, a web page must first create a `PaymentRequest` object and specify the payment and shipping options that are available to the user. The page can then invoke the Payment Request UI by calling the `show()` method on the `PaymentRequest` object. The user can then select their preferred payment and shipping options and confirm the payment, at which point the Payment Request API will return a payment response object that can be used to complete the transaction.
+Для использования API Payment Request, веб-страница должна сначала создать объект PaymentRequest и указать доступные для пользователя опции оплаты и доставки. Затем страница может вызвать интерфейс `Payment Request`, вызвав метод `show()` на объекте `PaymentRequest`. Пользователь может выбрать предпочитаемые варианты оплаты и доставки и подтвердить оплату, после чего API Payment Request вернет объект ответа на оплату, который можно использовать для завершения транзакции.
 
-The Payment Request API is supported by most modern web browsers and is designed to be simple and efficient for both the developer and the user.
+API Payment Request поддерживается большинством современных веб-браузеров и разработан для простоты и эффективности как для разработчика, так и для пользователя.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 

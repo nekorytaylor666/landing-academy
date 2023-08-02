@@ -1,9 +1,9 @@
 # Less
 
-Less extends CSS with dynamic behavior such as variables, mixins, operations and functions. Less runs on both the server-side (with Node.js and Rhino) or client-side (modern browsers only).
+Less расширяет CSS с динамическим поведением, таким как переменные, миксины, операции и функции. Less может работать как на стороне сервера (с Node.js и Rhino), так и на стороне клиента (только в современных браузерах).
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://lesscss.org/)
-- [Official Documentation](https://lesscss.org/usage/)
-- [ Less CSS Pre-Processor Tutorial](https://www.youtube.com/watch?v=YD91G8DdUsw)
+- [Официальный сайт](https://lesscss.org/)
+- [Официальная документация](https://lesscss.org/usage/)
+- [Учебное руководство по Less CSS Pre-Processor](https://www.youtube.com/watch?v=YD91G8DdUsw)
