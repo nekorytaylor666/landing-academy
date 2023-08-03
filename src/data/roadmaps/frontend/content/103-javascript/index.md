@@ -5,7 +5,7 @@ JavaScript позволяет добавить интерактивность н
 Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Посетите специализированную дорожную карту по JavaScript](/javascript)
-- [W3Schools –  Учебник по JavaScript](https://www.w3schools.com/js/)
+- [W3Schools – Учебник по JavaScript](https://www.w3schools.com/js/)
 - [Современное руководство по JavaScript](https://javascript.info/)
 - [Изучите JavaScript: охвачены многие темы](https://www.javascripttutorial.net/)
 - [Учебник Eloquent JavaScript](https://eloquentjavascript.net/)

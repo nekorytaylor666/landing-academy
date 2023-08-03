@@ -1,14 +1,14 @@
 # Checkpoint
 
-You should now implement monitoring and autorestarts for your application using monit. Regarding autorestarts, you can also use [pm2](https://pm2.keymetrics.io/).
+Теперь вы должны реализовать мониторинг и автозапуск вашего приложения с помощью Monit. Кроме того, для автозапуска вы также можете использовать [pm2](https://pm2.keymetrics.io/).
 
-Here are some of the monitors you should implement for the application.
+Вот некоторые из мониторов, которые вы должны реализовать для вашего приложения:
 
-- CPU Usage
-- Memory Usage
-- Disk Usage
-- Network Usage
-- Service Availability
-- Process Availability
+- Использование ЦП
+- Использование памяти
+- Использование диска
+- Использование сети
+- Доступность сервиса
+- Доступность процесса
 
-Monit comes with existing configurations for many services. You can find them in `/etc/monit/conf-available`. You can copy them (and modify if required) to `/etc/monit/conf-enabled` to enable them.
+Monit поставляется с существующими конфигурациями для многих служб. Вы можете найти их в `/etc/monit/conf-available`. Вы можете скопировать их (и изменить при необходимости) в `/etc/monit/conf-enabled`, чтобы включить их.

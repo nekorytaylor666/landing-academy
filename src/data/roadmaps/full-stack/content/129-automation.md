@@ -1,5 +1,5 @@
 # Checkpoint
 
-Now that you have learnt ansible, you can use it to automate the deployment of your application. 
+Теперь, когда вы изучили Ansible, вы можете использовать его для автоматизации развертывания вашего приложения.
 
-A task for you at this point would be to automate the steps that you manually performed earlier when setting up the EC2 instance i.e. SSH into the server, install Node.js, Git, PostgreSQL, Running the application etc. Write an ansible playbook that automates these and see if you can spin up a new EC2 instance without SSHing into it and manually installing all the dependencies.
+Вашей следующей задачей будет автоматизировать шаги, которые вы ранее выполняли вручную при настройке экземпляра EC2, например, подключение по SSH к серверу, установка Node.js, Git, PostgreSQL, запуск приложения и т. д. Напишите playbook Ansible, который автоматизирует эти шаги, и попробуйте создать новый экземпляр EC2 без подключения по SSH и ручной установки всех зависимостей.

@@ -1,10 +1,10 @@
 # Checkpoint — CI / CD
 
-Now that you have the infrastructure setup, it's time to automate the deployment process. This is where CI / CD comes in. If you don't know what CI/CD are, you should watch [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg).
+Теперь, когда у вас настроена инфраструктура, пришло время автоматизировать процесс развертывания. Для этого используется CI / CD. Если вы не знакомы с терминами CI/CD, рекомендую посмотреть [DevOps CI/CD объяснено за 100 секунд](https://www.youtube.com/watch?v=scEDHsr3APg).
 
-The next step at this point is to implement CI/CD for your application using GitHub actions. Setup a GitHub action that, whenever you push to master, will automatically:
+На следующем этапе вам следует реализовать CI/CD для вашего приложения с помощью GitHub Actions. Настройте действие GitHub, которое автоматически:
 
-- Run your tests (ignore this step if you haven't learnt it yet) 
-- Deploy your application to AWS
+- Запускает ваши тесты (пропустите этот шаг, если еще не изучили тестирование)
+- Развертывает ваше приложение на AWS
 
-Regarding the deployment to AWS you can use `rsync` to copy the files to the server. Here's a [sample GitHub workflow](https://gist.github.com/kamranahmedse/1e94b412006040f38e24b9443b2da41a) using `rsync`.
+Что касается развертывания на AWS, вы можете использовать rsync для копирования файлов на сервер. Вот [пример GitHub workflow](https://gist.github.com/kamranahmedse/1e94b412006040f38e24b9443b2da41a) с использованием `rsync`.

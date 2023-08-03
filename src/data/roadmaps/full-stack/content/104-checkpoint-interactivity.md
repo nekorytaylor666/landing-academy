@@ -1,18 +1,18 @@
 # Checkpoint
 
-At this point you should be able to add interactivity to your web pages using JavaScript. You should make sure that you have learnt the following:
+На этом этапе вы должны быть в состоянии добавлять интерактивность на свои веб-страницы с помощью JavaScript. Убедитесь, что вы изучили следующее:
 
-- Know about variables, loops, data types, conditionals, functions.
-- Know about arrays and objects and different ways to access their data.
-- Know how to select DOM elements.
-- Add event listeners to DOM elements (e.g. click, focus, form submission).
-- Use JavaScript to add and remove DOM elements
-- Add and remove classes from DOM elements
-- Use JavaScript to make HTTP requests to external APIs (i.e. `fetch`)
-- Use JavaScript to store data in the browser's local storage
+- Знание о переменных, циклах, типах данных, условных операторах и функциях.
+- Знание о массивах и объектах и различных способах доступа к их данным.
+- Умение выбирать элементы DOM.
+- Добавление слушателей событий для элементов DOM (например, клик, фокус, отправка формы).
+- Использование JavaScript для добавления и удаления элементов DOM.
+- Добавление и удаление классов у элементов DOM.
+- Использование JavaScript для выполнения HTTP-запросов к внешним API (например, `fetch`).
+- Использование JavaScript для хранения данных в локальном хранилище браузера.
 
-Here are few ideas to practice your skills:
+Вот несколько идей для практики ваших навыков:
 
-- Create a simple to-do list app that allows users to search, add, edit, and delete items. Use local storage to store the data. 
-- Create a simple webpage where user can put in anyone's GitHub username and see their profile information. You can use GitHub's API to fetch the data. For example, here is the [sample URL to fetch my data](https://api.github.com/users/kamranahmedse). Make sure to add validation and error handling.
-- Create a basic calculator app that allows users to perform basic arithmetic operations.
+- Создайте простое приложение списка дел, которое позволяет пользователям искать, добавлять, редактировать и удалять элементы. Используйте локальное хранилище для хранения данных. 
+- Создайте простую веб-страницу, где пользователь может ввести имя пользователя на GitHub и просмотреть информацию о его профиле. Вы можете использовать API GitHub для получения данных. Например, вот [пример URL для получения моих данных](https://api.github.com/users/kamranahmedse). Убедитесь, что добавили проверку ввода и обработку ошибок.
+- Создайте базовое приложение калькулятора, которое позволяет пользователям выполнять основные арифметические операции.

@@ -1,17 +1,17 @@
 # Monit
 
-When it comes to monitoring the health of your applications, there are several different options available. My favorite monitoring stack is Prometheus and Grafana, but it can be a bit overwhelming to set up and configure. If you're looking for a simpler solution, **Monit** is a great alternative that can be utilized to monitor and manage system resources such as services, processes, files, directories, devices, and network connections, making your application more reliable and resilient to issues like crashes, unresponsiveness, or resource exhaustion.
+Когда дело доходит до мониторинга состояния ваших приложений, доступны несколько различных вариантов. Мой любимый стек мониторинга - Prometheus и Grafana, но его настройка и конфигурация могут быть немного сложными. Если вы ищете более простое решение, отличной альтернативой является **Monit**, который можно использовать для мониторинга и управления ресурсами системы, такими как сервисы, процессы, файлы, каталоги, устройства и сетевые соединения, делая ваше приложение более надежным и устойчивым к проблемам, таким как сбои, отсутствие отклика или исчерпание ресурсов.
 
-Some of the key features of Monit are:
+Некоторые ключевые особенности Monit:
 
-- **Automatic Recovery:** Monit can automatically restart a service or process if it fails, making your application more resistant to unexpected issues.
-- **Alert Notifications:** Monit can send email notifications when a problem is detected or when a certain condition is met, keeping you informed about the health of your application.
-- **Event Logging:** All events detected by Monit are stored in a log for easy troubleshooting and analysis.
-- **Resource Limit Monitoring:** Monit can monitor the resource utilization (CPU, memory, network, etc.) of a process or service and take action if a specific limit is exceeded.
-- **Flexible Configuration:** Monit uses a simple, human-readable configuration syntax that allows you to tailor its behavior to your needs.
-- **Web Interface:** Monit provides a built-in web interface for remotely monitoring your application's status and manage services.
+- **Автоматическое восстановление:** Monit может автоматически перезапустить сервис или процесс, если он завершится с ошибкой, делая ваше приложение более устойчивым к непредвиденным проблемам.
+- **Уведомления о предупреждениях:** Monit может отправлять уведомления по электронной почте, когда обнаруживается проблема или при соблюдении определенного условия, информируя вас о состоянии вашего приложения.
+- **Журналирование событий:** Все события, обнаруженные Monit, записываются в журнал для удобного устранения неполадок и анализа.
+- **Мониторинг ограничения ресурсов:** Monit может отслеживать использование ресурсов (ЦП, память, сеть и т. д.) процесса или сервиса и предпринимать действия, если превышен определенный предел.
+- **Гибкая конфигурация:** Monit использует простый и понятный человеку синтаксис конфигурации, позволяющий настраивать его поведение под ваши потребности.
+- **Веб-интерфейс:** Monit предоставляет встроенный веб-интерфейс для удаленного мониторинга состояния вашего приложения и управления сервисами.
 
-Have a look at the following resources to learn more about Monit:
+Ознакомьтесь с следующими ресурсами, чтобы узнать больше о Monit:
 
 - [Monit - Opensource Self Healing Server Monitoring](https://www.youtube.com/watch?v=3cA5lNje1Ow)
-- [Monit documentation](https://mmonit.com/monit/documentation/)
+- [Monit документация](https://mmonit.com/monit/documentation/)

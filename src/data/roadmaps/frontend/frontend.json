@@ -8783,11 +8783,11 @@
                   "zOrder": "1",
                   "measuredW": "150",
                   "measuredH": "24",
-                  "x": "154",
+                  "x": "148",
                   "y": "17",
                   "properties": {
                     "size": "16",
-                    "text": "CSS first frameworks"
+                    "text": "CSS-фреймворки 1 уровня"
                   }
                 },
                 {
@@ -8796,11 +8796,11 @@
                   "zOrder": "2",
                   "measuredW": "145",
                   "measuredH": "24",
-                  "x": "154",
+                  "x": "148",
                   "y": "44",
                   "properties": {
                     "size": "16",
-                    "text": "that don't come with"
+                    "text": "которые не поставляются"
                   }
                 },
                 {
@@ -8809,11 +8809,11 @@
                   "zOrder": "3",
                   "measuredW": "99",
                   "measuredH": "24",
-                  "x": "154",
+                  "x": "148",
                   "y": "71",
                   "properties": {
                     "size": "16",
-                    "text": "JS framework"
+                    "text": "c компонентами фрейм-"
                   }
                 },
                 {
@@ -8822,11 +8822,11 @@
                   "zOrder": "4",
                   "measuredW": "166",
                   "measuredH": "24",
-                  "x": "153",
+                  "x": "148",
                   "y": "98",
                   "properties": {
                     "size": "16",
-                    "text": "components by default."
+                    "text": "ворка JS по умолчанию."
                   }
                 }
               ]

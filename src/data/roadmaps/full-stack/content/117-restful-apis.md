@@ -1,10 +1,10 @@
 # REST
 
-REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.
+REST, или Representational State Transfer, - это архитектурный стиль, который предоставляет стандарты для взаимодействия между компьютерными системами в сети интернет, облегчая коммуникацию между системами.
 
 Для получения дополнительной информации посетите следующие ресурсы:
 
-- [What is REST?](https://www.codecademy.com/article/what-is-rest)
-- [What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-- [Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-- [Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
+- [Что такое REST?](https://www.codecademy.com/article/what-is-rest)
+- [Что такое REST? API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [Раздел диссертации Роя Филдинга, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [Изучение о REST: обучение RESTful](https://restapitutorial.com/)
