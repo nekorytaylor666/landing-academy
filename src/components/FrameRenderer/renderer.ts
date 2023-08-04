@@ -85,7 +85,7 @@ export class Renderer {
       })
       .then((json) => {
         return wireframeJSONToSVG(json, {
-          fontURL: '/fonts/balsamiq.woff2',
+          fontURL: '/fonts/virgil.woff2',
         });
       })
       .then((svg) => {
