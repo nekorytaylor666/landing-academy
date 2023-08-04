@@ -2,7 +2,7 @@
 
 aiohttp is a Python 3.5+ library that provides a simple and powerful asynchronous HTTP client and server implementation.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Official Docs](https://docs.aiohttp.org/en/stable/)
 - [Python Asyncio, Requests, Aiohttp | Make faster API Calls](https://www.youtube.com/watch?v=nFn4_nA_yk8)

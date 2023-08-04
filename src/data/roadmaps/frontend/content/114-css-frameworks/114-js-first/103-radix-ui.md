@@ -1,8 +1,8 @@
 # Radix UI
 
-An open-source UI component library for building high-quality, accessible design systems and web apps.
+Это библиотека компонентов с открытым исходным кодом для создания высококачественных, доступных дизайн-систем и веб-приложений.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://www.radix-ui.com/)
-- [Official Documentation](https://www.radix-ui.com/docs/primitives/overview/introduction)
+- [Официальный сайт](https://www.radix-ui.com/)
+- [Официальная документация](https://www.radix-ui.com/docs/primitives/overview/introduction)

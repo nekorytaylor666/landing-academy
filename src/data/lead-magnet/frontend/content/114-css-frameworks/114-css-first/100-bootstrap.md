@@ -2,7 +2,7 @@
 
 Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Bootstrap Website](https://getbootstrap.com)
 - [Bootstrap Official Blog](https://blog.getbootstrap.com/2022/07/19/bootstrap-5-2-0/)

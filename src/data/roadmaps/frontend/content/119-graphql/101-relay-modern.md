@@ -1,8 +1,8 @@
 # Relay Modern
 
-Relay is a JavaScript client used in the browser to fetch GraphQL data. It's a JavaScript framework developed by Facebook for managing and fetching data in React applications. It is built with scalability in mind in order to power complex applications like Facebook. The ultimate goal of GraphQL and Relay is to deliver instant UI-response interactions.
+Relay - это JavaScript-клиент, используемый в браузере для получения данных из GraphQL. Это JavaScript-фреймворк, разработанный Facebook для управления и получения данных в приложениях React. Он создан с учетом масштабируемости, чтобы обеспечить работу сложных приложений, таких как Facebook. Конечная цель GraphQL и Relay - обеспечить мгновенное взаимодействие с пользовательским интерфейсом.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://relay.dev/)
-- [Introduction to Relay modern](https://relay.dev/docs/)
+- [Официальный сайт Relay](https://relay.dev/)
+- [Введение в современный Relay](https://relay.dev/docs/)

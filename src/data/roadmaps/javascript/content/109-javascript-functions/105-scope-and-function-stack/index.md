@@ -15,7 +15,7 @@ JavaScript has the following kinds of scopes:
 
 The function stack is how the interpreter keeps track of its place in a script that calls multiple functions, like which function is currently executing and which functions within that function are being called.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Function stack (call stack) - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 - [Kinds of Scope - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Scope)

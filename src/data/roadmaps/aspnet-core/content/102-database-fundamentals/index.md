@@ -6,7 +6,7 @@ A **Relational database** is a type of database that stores and provides access 
 
 **NoSQL databases** offer data storage and retrieval that is modelled differently to "traditional" relational databases. NoSQL databases typically focus more on horizontal scaling, eventual consistency, speed and flexibility and is used commonly for big data and real-time streaming applications.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Oracle: What is a Database?](https://www.oracle.com/database/what-is-database/)
 - [Prisma.io: What are Databases?](https://www.prisma.io/dataguide/intro/what-are-databases)

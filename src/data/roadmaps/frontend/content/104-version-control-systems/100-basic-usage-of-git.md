@@ -1,10 +1,10 @@
 # Git
 
-[Git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+[Git](https://git-scm.com/) - это бесплатная и открытая распределенная система контроля версий, предназначенная для управления всем, начиная с небольших и заканчивая очень большими проектами с быстротой и эффективностью.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [Learn Git with Tutorials, News and Tips - Atlassian](https://www.atlassian.com/git)
-- [Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
-- [Tutorial: Git for Absolutely Everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+- [Краткий курс по Git и GitHub для начинающих](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [Изучение Git с помощью учебных пособий, новостей и советов - Atlassian](https://www.atlassian.com/git)
+- [Шпаргалка Git](https://cs.fyi/guide/git-cheatsheet)
+- [Учебное руководство: Git для всех](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)

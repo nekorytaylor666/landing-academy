@@ -4,7 +4,7 @@ Redis is an open source (BSD licensed) which is an in-memory data structure stor
 
 You can use Redis in many programming languages. It is such a popular and widely used cache that Microsoft Azure also provides its cloud-based version with the name Azure Cache for Redis.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Learn how to build with Redis Stack and .NET](https://redis.io/docs/stack/get-started/tutorials/stack-dotnet/)
 - [Redis Cache In ASP.NET 6.0 Web API](https://www.c-sharpcorner.com/article/easily-use-redis-cache-in-asp-net-6-0-web-api/)

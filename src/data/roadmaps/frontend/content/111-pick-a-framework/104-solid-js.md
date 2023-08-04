@@ -1,8 +1,8 @@
 # SolidJS
 
-Solid is a reactive JavaScript toolkit for building user interfaces without a virtual DOM. To ensure that only the relevant code is executed when a state update occurs, it compiles templates down to real DOM nodes once and wraps modifications into fine-grained reactions.
+Solid - это реактивный набор инструментов на языке JavaScript для создания пользовательских интерфейсов без виртуального DOM. Для того чтобы гарантировать, что при обновлении состояния будет выполняться только соответствующий код, он компилирует шаблоны в реальные узлы DOM один раз и оборачивает изменения в мелкозернистые реакции.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website - SolidJS](https://www.solidjs.com/)
-- [SolidJS Tutorial](https://www.solidjs.com/tutorial/introduction_basics)
+- [Официальный веб-сайт - SolidJS](https://www.solidjs.com/)
+- [SolidJS Руководство](https://www.solidjs.com/tutorial/introduction_basics)

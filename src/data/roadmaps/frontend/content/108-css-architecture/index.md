@@ -1,10 +1,10 @@
 # CSS Architecture
 
-CSS is notoriously difficult to manage in large, complex, rapidly-iterated systems. There are different ways of writing CSS that allows in writing more maintainable CSS.
+CSS известен своей сложностью в управлении в больших, сложных и часто изменяемых системах. Существуют различные способы написания CSS, которые позволяют создавать более легкоподдерживаемый CSS.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [A Look at Some CSS Methodologies](https://www.webfx.com/blog/web-design/css-methodologies/)
-- [BEM Official Website](https://en.bem.info)
-- [OOCSS Official Website](http://oocss.org/)
-- [SMACSS Official Website](http://smacss.com/)
+- [Обзор некоторых методологий CSS](https://www.webfx.com/blog/web-design/css-methodologies/)
+- [Официальный сайт BEM](https://en.bem.info)
+- [Официальный сайт OOCSS](http://oocss.org/)
+- [Официальный сайт SMACSS](http://smacss.com/)

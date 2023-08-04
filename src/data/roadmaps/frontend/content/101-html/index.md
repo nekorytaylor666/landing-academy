@@ -1,15 +1,15 @@
 # HTML
 
-HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.
+HTML расшифровывается как HyperText Markup Language. Он используется на frontend'е и предоставляет структуру веб-страницы, которую можно стилизовать с помощью CSS и сделать интерактивной с помощью JavaScript.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [W3Schools: Learn HTML](https://www.w3schools.com/html/html_intro.asp)
-- [htmlreference.io: All HTML elements at a glance](https://htmlreference.io/)
-- [HTML For Beginners The Easy Way](https://html.com)
-- [Web Development Basics](https://internetingishard.netlify.app/html-and-css/index.html)
-- [Codecademy - Learn HTML](https://www.codecademy.com/learn/learn-html)
-- [Interactive HTML Course](https://github.com/denysdovhan/learnyouhtml)
-- [HTML Full Course for Beginners | Complete All-in-One Tutorial ](https://youtu.be/mJgBOIoGihA)
-- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+- [W3Schools: Изучение HTML](https://www.w3schools.com/html/html_intro.asp)
+- [htmlreference.io: Все элементы HTML на первый взгляд](https://htmlreference.io/)
+- [HTML для начинающих. Простой путь](https://html.com)
+- [Основы веб-разработки](https://internetingishard.netlify.app/html-and-css/index.html)
+- [Codecademy - Изучение HTML](https://www.codecademy.com/learn/learn-html)
+- [Интерактивный курс по HTML](https://github.com/denysdovhan/learnyouhtml)
+- [Полный курс по HTML для начинающих | Полное всё-в-одном руководство](https://youtu.be/mJgBOIoGihA)
+- [Полный курс по HTML - обучение созданию веб-сайта](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [Учебное руководство по HTML для начинающих: Краткий курс по HTML](https://www.youtube.com/watch?v=qz0aGYrrlhU)

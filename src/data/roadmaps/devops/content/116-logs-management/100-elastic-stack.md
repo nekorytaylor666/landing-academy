@@ -6,7 +6,7 @@ Elastic Stack is a group of open source products comprised of Elasticsearch, Kib
 - `Logstash/fluentd` - Data processing pipeline
 - `Kibana` - Dashboard to visualize data
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Elastic Stack Website](https://www.elastic.co/elastic-stack/)
 - [Official Docs](https://www.elastic.co/guide/index.html)

@@ -2,7 +2,7 @@
 
 Java provides a new additional package in Java 8 called java.util.stream. This package consists of classes, interfaces and enum to allows functional-style operations on the elements. You can use stream by importing java.util.stream package.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Streams in Java](https://www.geeksforgeeks.org/stream-in-java/)
 - [Java 8 Stream](https://www.javatpoint.com/java-8-stream)

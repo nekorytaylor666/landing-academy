@@ -6,7 +6,7 @@ Flutter provides a number of libraries for working with JSON data, including the
 
 To encode a Dart object to a JSON string, you can use the `jsonEncode` function from the `dart:convert` library. To decode a JSON string to a Dart object, you can use the jsonDecode function.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [JSON and serialization](https://docs.flutter.dev/development/data-and-backend/json)
 - [Using JSON](https://dart.dev/guides/json)

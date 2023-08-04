@@ -1,7 +1,7 @@
 # Pinia
 
-Pinia is a store library for Vue.js, and can be used in Vue 2 and Vue 3, with the same API, except in SSR and its installation. It allows state sharing between pages and components around the application. As the documentation says, it is extensible, intuitive (by organization), has devtools support (in Vue.js devtools), inferred typed state even in javascript and more. In Pinia you can access, mutate, replace, use getters that works like computed, use actions, etc. The library is recommended by the official Vue.js documentation.
+Pinia - это библиотека хранилища состояния для Vue.js, которая может использоваться как в Vue 2, так и в Vue 3 с тем же API, за исключением SSR и установки. Она позволяет обмениваться состоянием между страницами и компонентами в приложении. Как указано в документации, она является расширяемой, интуитивной (благодаря организации кода), поддерживает devtools (в Vue.js devtools), предоставляет типизированные состояния, даже в javascript, и многое другое. В Pinia вы можете получать доступ, изменять, заменять, использовать геттеры, которые работают как computed, использовать actions и т.д. Эта библиотека рекомендуется в официальной документации Vue.js.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Documentation](https://pinia.vuejs.org/)
+- [Официальная документация Pinia](https://pinia.vuejs.org/)

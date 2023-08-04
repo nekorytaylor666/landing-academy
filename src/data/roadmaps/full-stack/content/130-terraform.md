@@ -1,15 +1,15 @@
 # Terraform
 
-Terraform is an extremely popular open source Infrastructure as Code (IaC) tool that can be used with many different cloud and service provider APIs. Terraform focuses on an immutable approach to infrastructure, with a terraform state file center to tracking the status of your real world infrastructure.
+Terraform - это чрезвычайно популярный инструмент для создания инфраструктуры как код (Infrastructure as Code, IaC), который можно использовать с различными облачными и поставщиками услуг API. Terraform сосредотачивается на немутабельном подходе к инфраструктуре, используя файл состояния terraform для отслеживания состояния вашей реальной инфраструктуры.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Terraform Website](https://www.terraform.io/)
-- [Terraform Documentation](https://www.terraform.io/docs)
-- [Terraform Tutorials](https://learn.hashicorp.com/terraform)
-- [Intro to Terraform Video](https://www.youtube.com/watch?v=h970ZBgKINg&ab_channel=HashiCorp)
-- [Terraform CDK Website](https://www.terraform.io/cdktf)
-- [What is the CDKTF?](https://www.terraform.io/cdktf/concepts/cdktf-architecture)
-- [CDKTF Getting Started Guide](https://learn.hashicorp.com/tutorials/terraform/cdktf-install?in=terraform/cdktf)
-- [CDKTF Examples](https://www.terraform.io/cdktf/examples)
-- [How to Scale Your Terraform Infrastructure](https://thenewstack.io/how-to-scale-your-terraform-infrastructure/)
+- [Сайт Terraform](https://www.terraform.io/)
+- [Документация по Terraform](https://www.terraform.io/docs)
+- [Обучающие материалы по Terraform](https://learn.hashicorp.com/terraform)
+- [Видео-краткое введение в Terraform](https://www.youtube.com/watch?v=h970ZBgKINg&ab_channel=HashiCorp)
+- [Сайт Terraform CDK](https://www.terraform.io/cdktf)
+- [Что такое CDKTF?](https://www.terraform.io/cdktf/concepts/cdktf-architecture)
+- [Руководство по началу работы с CDKTF](https://learn.hashicorp.com/tutorials/terraform/cdktf-install?in=terraform/cdktf)
+- [CDKTF примеры](https://www.terraform.io/cdktf/examples)
+- [Как масштабировать вашу инфраструктуру с помощью Terraform](https://thenewstack.io/how-to-scale-your-terraform-infrastructure/)

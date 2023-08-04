@@ -371,7 +371,7 @@
                   "y": "22",
                   "properties": {
                     "size": "17",
-                    "text": "Desktop Applications"
+                    "text": "Desktop приложения"
                   }
                 },
                 {
@@ -530,7 +530,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Bonus Content"
+                    "text": "Бонус Контент"
                   }
                 },
                 {
@@ -3143,7 +3143,7 @@
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "Learn the basics"
+                    "text": "Изучите основы"
                   }
                 },
                 {
@@ -3223,7 +3223,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Writing Semantic HTML"
+                    "text": "Написание семантического HTML"
                   }
                 },
                 {
@@ -3303,7 +3303,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Forms and Validations"
+                    "text": "Формы и валидации"
                   }
                 },
                 {
@@ -3383,7 +3383,7 @@
                   "y": "17",
                   "properties": {
                     "size": "17",
-                    "text": "Conventions and Best Practices"
+                    "text": "Соглашения и лучшие практики"
                   }
                 },
                 {
@@ -3621,7 +3621,7 @@
                   "y": "91",
                   "properties": {
                     "size": "17",
-                    "text": "Making Layouts"
+                    "text": "Создание макетов"
                   }
                 },
                 {
@@ -3701,7 +3701,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Learn the basics"
+                    "text": "Изучите основы"
                   }
                 },
                 {
@@ -3781,7 +3781,7 @@
                   "y": "12",
                   "properties": {
                     "size": "14",
-                    "text": "Responsive design and Media Queries"
+                    "text": "Адаптивный дизайн и медиа-запросы"
                   }
                 },
                 {
@@ -3908,7 +3908,7 @@
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Syntax and Basic Constructs"
+                    "text": "Синтаксис и основные конструкции"
                   }
                 },
                 {
@@ -3988,7 +3988,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Learn DOM Manipulation"
+                    "text": "Изучите манипулирование DOM"
                   }
                 },
                 {
@@ -4068,7 +4068,7 @@
                   "y": "49",
                   "properties": {
                     "size": "17",
-                    "text": "Hoisting, Event Bubbling, Scope,"
+                    "text": "Hoisting, Event Bubbling, Scope"
                   }
                 },
                 {
@@ -4096,7 +4096,7 @@
                   "y": "19",
                   "properties": {
                     "size": "17",
-                    "text": "Understand the concepts"
+                    "text": "Понимание концепций"
                   }
                 },
                 {
@@ -4176,7 +4176,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Learn Fetch API / Ajax (XHR)"
+                    "text": "Изучите Fetch API/Ajax (XHR)"
                   }
                 },
                 {
@@ -4256,7 +4256,7 @@
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "ES6+ and modular JavaScript"
+                    "text": "ES6+ и модульный JavaScript"
                   }
                 },
                 {
@@ -4575,7 +4575,7 @@
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Browsers and how they work?"
+                    "text": "Браузеры и как они работают?"
                   }
                 },
                 {
@@ -4655,7 +4655,7 @@
                   "y": "17",
                   "properties": {
                     "size": "17",
-                    "text": "DNS and how it works?"
+                    "text": "DNS и как это работает?"
                   }
                 },
                 {
@@ -4735,7 +4735,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "What is Domain Name?"
+                    "text": "Что такое доменное имя?"
                   }
                 },
                 {
@@ -4815,7 +4815,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "What is hosting?"
+                    "text": "Что такое хостинг?"
                   }
                 },
                 {
@@ -4895,7 +4895,7 @@
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Accessibility"
+                    "text": "Доступность"
                   }
                 },
                 {
@@ -4975,7 +4975,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "SEO Basics"
+                    "text": "Основы SEO"
                   }
                 },
                 {
@@ -5211,7 +5211,7 @@
                   "x": "90",
                   "y": "15",
                   "properties": {
-                    "text": "Repo hosting services",
+                    "text": "Услуги хостинга репозитория",
                     "size": "17"
                   }
                 },
@@ -5226,7 +5226,7 @@
                   "y": "41",
                   "properties": {
                     "size": "15",
-                    "text": "Create account and Learn to use GitHub"
+                    "text": "Создайте акк. и научитесь пользоваться GitHub"
                   }
                 }
               ]
@@ -5272,7 +5272,7 @@
                   "x": "75",
                   "y": "15",
                   "properties": {
-                    "text": "Version Control Systems",
+                    "text": "Системы контроля версий",
                     "size": "17"
                   }
                 },
@@ -5287,7 +5287,7 @@
                   "y": "40",
                   "properties": {
                     "size": "15",
-                    "text": "What are they and why you should use one"
+                    "text": "Что это и почему вы должны это использовать"
                   }
                 }
               ]
@@ -5333,7 +5333,7 @@
                   "x": "31",
                   "y": "14",
                   "properties": {
-                    "text": "Package Managers",
+                    "text": "Пакетные менеджеры",
                     "size": "17"
                   }
                 }
@@ -6045,7 +6045,7 @@
                   "x": "41",
                   "y": "12",
                   "properties": {
-                    "text": "Content Security Policy",
+                    "text": "Политика безопасности контента",
                     "size": "17"
                   }
                 }
@@ -6092,7 +6092,7 @@
                   "x": "44",
                   "y": "12",
                   "properties": {
-                    "text": "OWASP Security Risks",
+                    "text": "Риски безопасности OWASP",
                     "size": "17"
                   }
                 }
@@ -6111,7 +6111,7 @@
           "y": "1217",
           "properties": {
             "size": "17",
-            "text": "Get at least a basic knowledge of all of these"
+            "text": "Получите базовые знания обо всех трех сервисов"
           }
         },
         {
@@ -6320,7 +6320,7 @@
                   "x": "33",
                   "y": "12",
                   "properties": {
-                    "text": "CSS Preprocessors",
+                    "text": "CSS Препроцессоры",
                     "size": "17"
                   }
                 }
@@ -6459,7 +6459,7 @@
                   "x": "41",
                   "y": "12",
                   "properties": {
-                    "text": "CSS Architecture",
+                    "text": "CSS Архитектура",
                     "size": "17"
                   }
                 }
@@ -7361,7 +7361,7 @@
                   "y": "14",
                   "properties": {
                     "size": "17",
-                    "text": "Pick a Framework"
+                    "text": "Выберите Фреймворк"
                   }
                 }
               ]
@@ -8740,7 +8740,7 @@
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "CSS Frameworks"
+                    "text": "CSS Фреймворки"
                   }
                 }
               ]
@@ -8783,11 +8783,11 @@
                   "zOrder": "1",
                   "measuredW": "150",
                   "measuredH": "24",
-                  "x": "154",
+                  "x": "148",
                   "y": "17",
                   "properties": {
                     "size": "16",
-                    "text": "CSS first frameworks"
+                    "text": "CSS-фреймворки 1 уровня"
                   }
                 },
                 {
@@ -8796,11 +8796,11 @@
                   "zOrder": "2",
                   "measuredW": "145",
                   "measuredH": "24",
-                  "x": "154",
+                  "x": "148",
                   "y": "44",
                   "properties": {
                     "size": "16",
-                    "text": "that don't come with"
+                    "text": "которые не поставляются"
                   }
                 },
                 {
@@ -8809,11 +8809,11 @@
                   "zOrder": "3",
                   "measuredW": "99",
                   "measuredH": "24",
-                  "x": "154",
+                  "x": "148",
                   "y": "71",
                   "properties": {
                     "size": "16",
-                    "text": "JS framework"
+                    "text": "c компонентами фрейм-"
                   }
                 },
                 {
@@ -8822,11 +8822,11 @@
                   "zOrder": "4",
                   "measuredW": "166",
                   "measuredH": "24",
-                  "x": "153",
+                  "x": "148",
                   "y": "98",
                   "properties": {
                     "size": "16",
-                    "text": "components by default."
+                    "text": "ворка JS по умолчанию."
                   }
                 }
               ]
@@ -8966,7 +8966,7 @@
                   "x": "477",
                   "y": "208",
                   "properties": {
-                    "text": "You can fill all your testing",
+                    "text": "Начните тестирование с",
                     "size": "16"
                   }
                 },
@@ -8980,7 +8980,7 @@
                   "x": "477",
                   "y": "230",
                   "properties": {
-                    "text": "needs with just these.",
+                    "text": "помощью этих инструментов.",
                     "size": "16"
                   }
                 },
@@ -9008,7 +9008,7 @@
                   "y": "137",
                   "properties": {
                     "size": "18",
-                    "text": "Testing your Apps"
+                    "text": "Тестирование приложений"
                   }
                 },
                 {
@@ -9022,7 +9022,7 @@
                   "y": "204",
                   "properties": {
                     "size": "17",
-                    "text": "and {color:blue}Functional{color} tests and learn how to write"
+                    "text": "и {color:blue}Functional{color} тестирования и научитесь как их"
                   }
                 },
                 {
@@ -9036,7 +9036,7 @@
                   "y": "233",
                   "properties": {
                     "size": "17",
-                    "text": "them with the tools listed on the right."
+                    "text": "писать при помощи следующих инструментов."
                   }
                 },
                 {
@@ -9050,7 +9050,7 @@
                   "y": "174",
                   "properties": {
                     "size": "17",
-                    "text": "Learn the difference between {color:blue}Unit{color}, {color:blue}Integration{color}, "
+                    "text": "Познайте разницу между {color:blue}Unit{color}, {color:blue}Integration{color}, "
                   }
                 }
               ]
@@ -9871,11 +9871,11 @@
           "w": "156",
           "measuredW": "151",
           "measuredH": "25",
-          "x": "219",
+          "x": "210",
           "y": "2740",
           "properties": {
             "size": "17",
-            "text": "Learn different Web"
+            "text": "Обучитесь разным Web"
           }
         },
         {
@@ -9885,11 +9885,11 @@
           "w": "148",
           "measuredW": "143",
           "measuredH": "25",
-          "x": "223",
+          "x": "205",
           "y": "2766",
           "properties": {
             "size": "17",
-            "text": "APIs used in PWAs"
+            "text": "API используемые в PWA"
           }
         },
         {
@@ -10158,11 +10158,11 @@
           "w": "185",
           "measuredW": "176",
           "measuredH": "25",
-          "x": "475",
+          "x": "455",
           "y": "2669",
           "properties": {
             "size": "17",
-            "text": "Calculating, Measuring"
+            "text": "Вычисление, измерение и улуч-"
           }
         },
         {
@@ -10176,7 +10176,7 @@
           "y": "2696",
           "properties": {
             "size": "17",
-            "text": "and improving performance"
+            "text": "шение производительности"
           }
         },
         {
@@ -10869,11 +10869,11 @@
                   "w": "169",
                   "measuredW": "150",
                   "measuredH": "25",
-                  "x": "27",
+                  "x": "20",
                   "y": "22",
                   "properties": {
                     "size": "17",
-                    "text": "Mobile Applications"
+                    "text": "Мобильные приложения"
                   }
                 },
                 {
@@ -11478,7 +11478,7 @@
                   "y": "23",
                   "properties": {
                     "size": "17",
-                    "text": "Web Components"
+                    "text": "Web Компоненты"
                   }
                 },
                 {
@@ -13190,7 +13190,7 @@
                   "y": "16",
                   "properties": {
                     "size": "20",
-                    "text": "Authentication Strategies"
+                    "text": "Стратегии аутентификации"
                   }
                 },
                 {
@@ -13235,7 +13235,7 @@
                   "y": "46",
                   "properties": {
                     "size": "17",
-                    "text": "JWT, OAuth, SSO, Basic Auth, Session Auth etc"
+                    "text": "JWT, OAuth, SSO, Basic Auth, Session Auth итд"
                   }
                 }
               ]
@@ -13279,7 +13279,7 @@
                   "y": "163",
                   "properties": {
                     "size": "16",
-                    "text": "JS based and better to use with your"
+                    "text": "На основе JS и лучше использовать с"
                   }
                 },
                 {
@@ -13292,7 +13292,7 @@
                   "y": "189",
                   "properties": {
                     "size": "16",
-                    "text": "framework based JavaScript apps."
+                    "text": "JavaScript фреймворками."
                   }
                 }
               ]

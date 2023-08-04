@@ -1,11 +1,11 @@
 # Nuxt.js
 
-Nuxt.js is a free and open source JavaScript library based on Vue.js, Node.js, Webpack and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js.
+Nuxt.js - это бесплатная и открытая библиотека JavaScript, основанная на Vue.js, Node.js, Webpack и Babel.js. Nuxt вдохновлен Next.js, который является фреймворком с аналогичной целью, но основан на React.js.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Nuxt Website](https://nuxtjs.org/)
-- [Nuxt Docs](https://nuxtjs.org/docs/get-started/installation)
-- [Nuxt Tutorials](https://nuxtjs.org/tutorials)
-- [Get Started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)
-- [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
+- [Официальный сайт Nuxt](https://nuxtjs.org/)
+- [Документация Nuxt](https://nuxtjs.org/docs/get-started/installation)
+- [Учебники по Nuxt](https://nuxtjs.org/tutorials)
+- [Начало работы с Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)
+- [Основы Nuxt.js](https://vueschool.io/courses/nuxtjs-fundamentals)

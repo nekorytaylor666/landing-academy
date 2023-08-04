@@ -2,7 +2,7 @@
 
 Operations in a decentralized networks are the responsibility of the peer participants and their respective computational nodes. These are specific for each type of blockchain.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Blockchain Basics: Structure, Operations, and the Bitcoin Blockchain](https://www.mlq.ai/blockchain-basics/)
 - [How Bitcoin blockchain actually work (Video)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)

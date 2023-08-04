@@ -1,14 +1,14 @@
 # HTTPS
 
-HTTPS is a secure way to send data between a web server and a browser.
+HTTPS (Hypertext Transfer Protocol Secure) - это безопасный способ передачи данных между веб-сервером и браузером.
 
-Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP, which is the primary protocol used to send data between a web browser and a website. HTTPS is encrypted in order to increase security of data transfer. This is particularly important when users transmit sensitive data, such as by logging into a bank account, email service, or health insurance provider
+HTTPS является защищенной версией протокола HTTP, который является основным протоколом для передачи данных между веб-браузером и веб-сайтом. HTTPS использует шифрование для повышения безопасности передачи данных. Это особенно важно, когда пользователи передают чувствительные данные, например, при входе в банковский аккаунт, электронную почту или учетную запись страхового обслуживания.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
-- [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [Enabling HTTPS on Your Servers](https://web.dev/enable-https/)
-- [How HTTPS works (comic)](https://howhttps.works/)
-- [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
-- [HTTPS — Stories from the field](https://www.youtube.com/watch?v=GoXgl9r0Kjk)
+- [Что такое HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+- [Почему HTTPS так важен](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [Включение HTTPS на ваших серверах](https://web.dev/enable-https/)
+- [Как работает HTTPS (комикс)](https://howhttps.works/)
+- [SSL, TLS, HTTP, HTTPS объяснено](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [HTTPS - истории из практики](https://www.youtube.com/watch?v=GoXgl9r0Kjk)

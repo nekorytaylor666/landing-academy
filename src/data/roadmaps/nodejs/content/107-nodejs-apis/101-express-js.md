@@ -2,7 +2,7 @@
 
 Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Express.js Official Website](https://expressjs.com/)
 - [Official Getting Started Guide](https://expressjs.com/en/starter/installing.html)

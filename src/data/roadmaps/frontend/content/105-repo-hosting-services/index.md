@@ -1,9 +1,9 @@
 # Repo Hosting Services
 
-There are different repository hosting services with the most famous one being GitHub, GitLab and BitBucket. I would recommend creating an account on GitHub because that is where most of the OpenSource work is done and most of the developers are.
+Действительно, существует различные сервисы для хостинга репозиториев, и самые известные из них - это GitHub, GitLab и Bitbucket. Я рекомендую создать учетную запись на GitHub, потому что именно там большая часть работы с OpenSource проектами происходит, и большинство разработчиков предпочитают его.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [GitHub: Where the world builds software](https://github.com)
-- [GitLab: Iterate faster, innovate together](https://gitlab.com)
-- [BitBucket: The Git solution for professional teams](https://bitbucket.com)
+- [GitHub: Где создается программное обеспечение для всего мира](https://github.com)
+- [GitLab: Быстрее итерировать, совместно инновировать](https://gitlab.com)
+- [BitBucket: Решение Git для профессиональных команд](https://bitbucket.com)

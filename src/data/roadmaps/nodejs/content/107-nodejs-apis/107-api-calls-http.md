@@ -5,7 +5,7 @@ You can make API calls using the `http` module in Node.js as well. Here are the 
 - `http.get()` - Make http GET requests.
 - `http.request()` - Similar to `http.get()` but enables sending other types of http requests (GET requests inclusive).
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Node.js `http.get()` documentaion](https://nodejs.org/docs/latest-v16.x/api/http.html#httpgeturl-options-callback)
 - [Node `http.request()` documentaion](https://nodejs.org/docs/latest-v16.x/api/http.html#httprequesturl-options-callback)

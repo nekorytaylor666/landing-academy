@@ -2,7 +2,7 @@
 
 React router is the most famous library when it comes to implementing routing in React applications.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [React Router — Official Website](https://reactrouter.com/)
 - [Getting Started Guide](https://reactrouter.com/en/main/start/tutorial)

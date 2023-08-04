@@ -1,8 +1,8 @@
 # MobX
 
-MobX is an open source state management tool. MobX, a simple, scalable, and standalone state management library, follows functional reactive programming (FRP) implementation and prevents inconsistent state by ensuring that all derivations are performed automatically.
+MobX - это инструмент для управления состоянием с открытым исходным кодом. MobX, простая, масштабируемая и автономная библиотека управления состоянием, реализует функциональное реактивное программирование (FRP) и предотвращает несогласованность состояния, обеспечивая автоматическое выполнение всех вычислений
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [MobX Official Website](https://mobx.js.org/)
-- [Intro to MobX Tutorial](https://www.youtube.com/watch?v=WQQq1QbYlAw)
+- [Официальный веб-сайт MobX](https://mobx.js.org/)
+- [Введение в MobX - учебник](https://www.youtube.com/watch?v=WQQq1QbYlAw)

@@ -1,11 +1,11 @@
 # Web Sockets
 
-Web Sockets is a technology that allows for full-duplex communication over a single TCP connection. It enables real-time, bi-directional communication between a client and a server, and is typically used in applications that require high-speed, low-latency communication, such as online gaming and real-time data streaming.
+Web Sockets - это технология, которая позволяет осуществлять полнодуплексное взаимодействие через одно соединение TCP. Она обеспечивает реальное время, двустороннее взаимодействие между клиентом и сервером, и обычно используется в приложениях, которым требуется быстрая и низколатентная связь, таких как онлайн-игры и передача данных в реальном времени.
 
-Web Sockets utilizes a persistent connection between a client and a server, allowing for continuous data exchange without the need for the client to send additional requests to the server. This makes it more efficient and faster than other technologies, such as HTTP, which require a new request to be sent for each piece of data.
+Web Sockets использует постоянное соединение между клиентом и сервером, что позволяет непрерывный обмен данными без необходимости отправки дополнительных запросов от клиента к серверу. Это делает его более эффективным и быстрым по сравнению с другими технологиями, такими как HTTP, которые требуют отправки нового запроса для каждого куска данных.
 
-Web Sockets is supported by most modern web browsers and can be used with a variety of programming languages and frameworks.
+Web Sockets поддерживается большинством современных веб-браузеров и может быть использован с различными языками программирования и фреймворками.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Web Sockets - MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)

@@ -2,7 +2,7 @@
 
 Longest path problem is a problem that asks us to find the longest path in a graph.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Longest Path in a Directed Acyclic Graph](https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/)
 - [Shortest/Longest path on a Directed Acyclic Graph (DAG) | Graph Theory](https://www.youtube.com/watch?v=TXkDpqjDMHA)

@@ -4,7 +4,7 @@ Fuzzing or fuzz testing is an automated software testing technique that involves
 
 Static analysis is the analysis of smart contracts performed without executing them.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Getting Started with Smart Contract Fuzzing](https://www.immunebytes.com/blog/getting-started-with-smart-contract-fuzzing/)
 - [Solidity smart contract Static Code Analysis](https://lightrains.com/blogs/solidity-static-analysis-tools/#static-code-analysis)

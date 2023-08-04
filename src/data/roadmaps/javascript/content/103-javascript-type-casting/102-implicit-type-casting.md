@@ -2,7 +2,7 @@
 
 Implicit type conversion happens when the compiler or runtime automatically converts data types. JavaScript is loosely typed language and most of the time operators automatically convert a value to the right type.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [GeeksForGeeks - JavaScript Tutorials](https://www.geeksforgeeks.org/javascript-type-conversion/)
 - [W3Schools - JavaScript Tutorials](https://www.w3schools.com/js/js_type_conversion.asp)

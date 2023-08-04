@@ -14,7 +14,7 @@ Widgets in Flutter are the basic building blocks of the user interface. They def
 
 Widgets in Flutter are also designed to be highly reusable, allowing developers to build complex UIs quickly and efficiently.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Introduction to widgets](https://docs.flutter.dev/development/ui/widgets-intro)
 - [Widget catalog](https://docs.flutter.dev/development/ui/widgets)

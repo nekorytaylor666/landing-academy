@@ -1,6 +1,6 @@
 # Design System Examples
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Material Design (Google)](https://material.io/)
 - [Carbon Design System (IBM)](https://carbondesignsystem.com/)

@@ -2,7 +2,7 @@
 
 openSUSE is a free to use Linux distribution aimed to promote the use of Linux everywhere. openSUSE is released in two versions Leap and Tumbleweed
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [openSUSE Linux Website](https://www.opensuse.org/)
 - [openSUSE Documentation](https://en.opensuse.org/Main_Page)

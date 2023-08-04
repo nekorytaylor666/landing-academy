@@ -1,10 +1,10 @@
 # RxJS
 
-RxJS (Reactive Extensions for JavaScript) is a library for reactive programming using observables that makes it easier to compose asynchronous or callback-based code.
+RxJS (Reactive Extensions for JavaScript) - это библиотека для реактивного программирования с использованием наблюдаемых объектов, которая упрощает композицию асинхронного или обратного вызова кода.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [RxJS Official Website](https://rxjs.dev/guide/overview)
-- [RxJS Angular Docs](https://angular.io/guide/rx-library)
-- [RxJS Crash Course](https://www.youtube.com/watch?v=PhggNGsSQyg)
-- [RxJS Quick Start](https://www.youtube.com/watch?v=2LCo926NFLI)
+- [Официальный веб-сайт RxJS](https://rxjs.dev/guide/overview)
+- [Документация RxJS для Angular](https://angular.io/guide/rx-library)
+- [Краткий курс RxJS](https://www.youtube.com/watch?v=PhggNGsSQyg)
+- [Быстрый старт с RxJS](https://www.youtube.com/watch?v=2LCo926NFLI)

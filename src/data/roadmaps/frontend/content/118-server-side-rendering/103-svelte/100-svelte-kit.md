@@ -1,8 +1,8 @@
 # Svelte Kit
 
-Svelte Kit is a framework for building web applications with the Svelte JavaScript framework. It is designed to be a complete solution for building web applications, with support for server-side rendering, automatic code splitting, and optimized performance.
+Svelte Kit - это фреймворк для создания веб-приложений с использованием Svelte, JavaScript-фреймворка. Он разработан для предоставления полного решения для создания веб-приложений с поддержкой серверного рендеринга, автоматического разделения кода и оптимизированной производительности.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Svelte Kit Official Website](https://kit.svelte.dev/)
-- [Official Svelte Kit Docs](https://kit.svelte.dev/docs/introduction)
+- [Официальный сайт Svelte Kit](https://kit.svelte.dev/)
+- [Официальная документация Svelte Kit](https://kit.svelte.dev/docs/introduction)

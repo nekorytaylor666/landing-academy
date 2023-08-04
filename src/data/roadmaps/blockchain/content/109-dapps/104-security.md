@@ -2,7 +2,7 @@
 
 dApps face unique security challenges as they run on immutable blockchains. dApps are harder to maintain, and developers cannot modify or update their codes once deployed. Therefore, special consideration must be taken before putting it on the blockchain.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [DAPP Security Standards](https://github.com/Dexaran/DAPP-security-standards/blob/master/README.md)
 - [dApp Security Considerations](https://livebook.manning.com/book/building-ethereum-dapps/chapter-14/)

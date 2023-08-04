@@ -1,19 +1,19 @@
 # Checkpoint
 
-At this point you should be able to build CLI applications using Node.js or whatever backend programming language you picked.
+На этом этапе вы должны быть способны создавать CLI-приложения с использованием Node.js или любого другого языка программирования для бэкенда, который вы выбрали.
 
-You should be able to build a CLI application that can:
+Вы должны быть способны создавать CLI-приложения, которые могут:
 
-- Read and write files
-- Parse command line arguments
-- Make HTTP requests
-- Parse JSON
-- Use a third-party library (e.g. a library for parsing CSV files)
-- Use a third-party API
+- Читать и записывать файлы
+- Анализировать аргументы командной строки
+- Осуществлять HTTP-запросы
+- Анализировать JSON
+- Использовать стороннюю библиотеку (например, библиотеку для разбора CSV-файлов)
+- Использовать сторонний API
 
-Here are some ideas for CLI applications you can build: 
+Вот несколько идей для CLI-приложений, которые вы можете создать: 
 
-- Create a CLI application that takes a URL and a CSS selector arguments and prints the text content of the element that matches the selector. **Hint** you can use [cheerio](https://github.com/cheeriojs/cheerio)
-- An application that takes optionally takes two dates and prints the most starred GitHub projects in that date range. **Hint** you can use [GitHub's search API](https://developer.github.com/v3/search/#search-repositories)
-- Bulk rename files in a directory. **Hint** you can use [fs](https://nodejs.org/api/fs.html) and [path](https://nodejs.org/api/path.html)
-- Write a CLI application that takes a path as input and compresses all the images in that directory. It should accept an option for output path; if the output path is not given it should compress images in place otherwise write the compressed images to the output path. **Hint** you can use [sharp](https://github.com/lovell/sharp).
+- Приложение, которое принимает необязательные аргументы двух дат и выводит наиболее звездные проекты GitHub за этот период дат. **Подсказка** вы можете использовать [cheerio](https://github.com/cheeriojs/cheerio)
+- Приложение, которое принимает необязательные аргументы двух дат и выводит наиболее звездные проекты GitHub за этот период дат. **Подсказка** вы можете использовать [GitHub's search API](https://developer.github.com/v3/search/#search-repositories)
+- Массовое переименование файлов в каталоге. **Подсказка** вы можете использовать [fs](https://nodejs.org/api/fs.html) and [path](https://nodejs.org/api/path.html)
+- Напишите CLI-приложение, которое принимает путь в качестве входных данных и сжимает все изображения в этом каталоге. Оно должно принимать опцию для пути вывода; если путь вывода не указан, то изображения должны быть сжаты на месте, в противном случае сжатые изображения должны быть записаны в указанный путь вывода. **Подсказка** вы можете использовать [sharp](https://github.com/lovell/sharp).

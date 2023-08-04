@@ -1,10 +1,10 @@
 # Sass
 
-Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. It lets you write maintainable CSS and provides features like variable, nesting, mixins, extension, functions, loops, conditionals and so on.
+Sass - это язык препроцессора, который интерпретируется или компилируется в таблицы стилей CSS. Он позволяет вам писать поддерживаемый CSS и предоставляет такие функции, как переменные, вложенность, миксины, расширения, функции, циклы, условия и т. д.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Sass Website](https://sass-lang.com/)
-- [Official Documentation](https://sass-lang.com/documentation)
-- [ Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs)
-- [ Sass, BEM, & Responsive Design](https://www.youtube.com/watch?v=jfMHA8SqUL4)
+- [Официальный сайт Sass](https://sass-lang.com/)
+- [Официальная документация](https://sass-lang.com/documentation)
+- [Учебное руководство по Sass для начинающих](https://www.youtube.com/watch?v=_a5j7KoflTs)
+- [Sass, BEM и адаптивный дизайн](https://www.youtube.com/watch?v=jfMHA8SqUL4)

@@ -1,10 +1,10 @@
 # Node.js
 
-Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project! Node.js runs the V8 JavaScript engine, Google Chrome's core, outside the browser. This allows Node.js to be very performant. A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking and generally, libraries in Node.js are written using non-blocking paradigms, making blocking behavior the exception rather than the norm.
+Node.js - это среда выполнения JavaScript с открытым исходным кодом, работающая на разных платформах. Он является популярным инструментом для практически любого проекта! Node.js использует движок JavaScript V8, ядро Google Chrome, вне браузера. Это позволяет Node.js быть очень производительным. Приложение Node.js работает в одном процессе, без создания нового потока для каждого запроса. Node.js предоставляет набор асинхронных примитивов в своей стандартной библиотеке, которые предотвращают блокирование JavaScript-кода, и, как правило, библиотеки в Node.js написаны с использованием неблокирующих парадигм, что делает блокирование поведением, не являющимся нормой.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://nodejs.org/en/about/)
-- [Learn Node.js Official Website](https://nodejs.dev/en/learn/)
-- [Node.JS Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
-- [Node.js and Express.js Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [Официальный веб-сайт](https://nodejs.org/en/about/)
+- [Официальный веб-сайт "Learn Node.js"](https://nodejs.dev/en/learn/)
+- [Введение в Node.js](https://www.w3schools.com/nodejs/nodejs_intro.asp)
+- [Полный курс по Node.js и Express.js](https://www.youtube.com/watch?v=Oe421EPjeBE)

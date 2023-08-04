@@ -1,9 +1,9 @@
 # Domain Name
 
-A domain name is a unique, easy-to-remember address used to access websites, such as ‘google.com’, and ‘facebook.com’. Users can connect to websites using domain names thanks to the Domain Name System (DNS).
+Доменное имя - это уникальный, легко запоминаемый адрес, используемый для доступа к веб-сайтам, например, 'google.com' и 'facebook.com'. Пользователи могут подключаться к веб-сайтам, используя доменные имена, благодаря системе доменных имен (DNS).
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
-- [What is a Domain Name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
-- [A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk)
+- [Что такое доменное имя?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+- [Что такое доменное имя? | Доменное имя против URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+- [Руководство для начинающих: как работают доменные имена](https://www.youtube.com/watch?v=Y4cRx19nhJk)

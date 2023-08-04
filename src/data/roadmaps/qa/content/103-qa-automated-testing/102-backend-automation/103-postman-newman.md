@@ -4,7 +4,7 @@ Postman is an API platform for building and using APIs. Postman simplifies each 
 
 Newman is a command-line Collection Runner for Postman. It enables you to run and test a Postman Collection directly from the command line. It's built with extensibility to integrate it with your continuous integration servers and build systems.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Postman website](https://www.postman.com)
 - [Learn postman](https://learning.postman.com/docs/getting-started/introduction/)

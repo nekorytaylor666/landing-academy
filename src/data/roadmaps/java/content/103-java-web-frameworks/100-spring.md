@@ -2,7 +2,7 @@
 
 Spring is a powerful open-source Java platform (framework), that is used to create and maintain web applications.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Official Site](https://spring.io/)
 - [Quickstart guide](https://spring.io/quickstart)

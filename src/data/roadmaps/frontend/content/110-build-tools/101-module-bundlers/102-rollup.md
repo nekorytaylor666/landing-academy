@@ -1,8 +1,8 @@
 # Rollup
 
-Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
+Rollup - это сборщик модулей для JavaScript, который компилирует небольшие фрагменты кода в более крупные и сложные структуры, такие как библиотеки или приложения.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website and Docs](https://rollupjs.org/)
-- [How to Set Up JavaScript Bundling Using Rollup](https://www.youtube.com/watch?v=ICYLOZuFMz8)
+- [Официальный веб-сайт и документация Rollup](https://rollupjs.org/)
+- [Как настроить сборку JavaScript с использованием Rollup](https://www.youtube.com/watch?v=ICYLOZuFMz8)

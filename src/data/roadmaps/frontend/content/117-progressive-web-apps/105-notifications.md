@@ -1,10 +1,10 @@
 # Notifications API
 
-The Notifications API is a web API that allows web pages to display system-level notifications to the user. These notifications can be used to alert the user of important events, such as new messages or updates, even when the web page is not open in the browser.
+API уведомлений (Notifications API) - это веб-API, которое позволяет веб-страницам отображать системные уведомления пользователю. Эти уведомления могут использоваться для предупреждения пользователя о важных событиях, таких как новые сообщения или обновления, даже когда веб-страница не открыта в браузере.
 
-To use the Notifications API, a web page must first request permission from the user to display notifications. If permission is granted, the page can then use the `Notification` constructor to create a new notification and display it to the user. The notification can include a title, body text, and an icon, and it can be customized with options such as a timeout and a click action.
+Для использования API уведомлений веб-страница должна сначала запросить разрешение у пользователя на отображение уведомлений. Если разрешение предоставлено, страница может использовать конструктор `Notification` для создания нового уведомления и его отображения пользователю. Уведомление может включать заголовок, текст тела и иконку, и его можно настроить с помощью параметров, таких как время истечения и действие по щелчку.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Notifications API - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
-- [Create React Notifications With the Web Notifications API](https://www.youtube.com/watch?v=mfrppinfmz0)
+- [Создание уведомления в React-приложении с использованием Web Notifications API](https://www.youtube.com/watch?v=mfrppinfmz0)

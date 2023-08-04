@@ -1,13 +1,13 @@
 # React
 
-React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
+React - самая популярная библиотека JavaScript для создания пользовательских интерфейсов. React также может рендериться на сервере с помощью Node и использоваться для создания мобильных приложений с помощью React Native.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Visit Dedicated React Roadmap](/react)
-- [React Website](https://react.dev)
-- [Official Getting Started](https://react.dev/learn/tutorial-tic-tac-toe)
-- [The Beginners Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [React JS Course for Beginners](https://www.youtube.com/watch?v=nTeuhbP7wdE)
-- [React Course - Beginners Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8)
-- [Understanding Reacts UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
+- [Посетите специальную дорожную карту React](/react)
+- [Веб-сайт React](https://react.dev)
+- [Официальное введение](https://react.dev/learn/tutorial-tic-tac-toe)
+- [Руководство для начинающих по React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Курс React JS для начинающих](https://www.youtube.com/watch?v=nTeuhbP7wdE)
+- [Курс React - начальное руководство по библиотеке JavaScript React [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [Понимание процесса отрисовки пользовательского интерфейса в React](https://www.youtube.com/watch?v=i793Qm6kv3U)

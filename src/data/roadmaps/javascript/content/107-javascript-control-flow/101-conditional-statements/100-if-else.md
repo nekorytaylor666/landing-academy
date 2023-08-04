@@ -12,7 +12,7 @@ if (condition) {
 }
 ```
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [if...else - MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - [Conditional branching: if, ? - javascript.info](https://javascript.info/ifelse)

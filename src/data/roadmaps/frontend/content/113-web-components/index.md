@@ -1,9 +1,9 @@
 # Web Components
 
-Web Components is a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps.
+Web Components - это набор различных технологий, которые позволяют создавать многоразовые пользовательские элементы с инкапсуляцией их функциональности от остального кода и использовать их в ваших веб-приложениях.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Web Components | MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 - [WebComponents.org](https://webcomponents.github.io/)
-- [Web Components Crash Course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
+- [Курс по Web Components](https://www.youtube.com/watch?v=PCWaFLy3VUo)

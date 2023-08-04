@@ -1,23 +1,23 @@
 # Flutter
 
-Flutter is a free and open-source mobile UI framework created by Google and released in May 2017. In a few words, it allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android).
+Flutter - это бесплатный и открытый мобильный фреймворк для создания пользовательских интерфейсов, созданный компанией Google и выпущенный в мае 2017 года. В нескольких словах, он позволяет создавать нативные мобильные приложения с использованием только одной кодовой базы. Это означает, что вы можете использовать один язык программирования и одну кодовую базу для создания двух разных приложений (для iOS и Android).
 
-Flutter consists of two important parts:
+Flutter состоит из двух важных частей:
 
-- An SDK (Software Development Kit): A collection of tools that are going to help you develop your applications. This includes tools to compile your code into native machine code (code for iOS and Android).
-- A Framework (UI Library based on widgets): A collection of reusable UI elements (buttons, text inputs, sliders, and so on) that you can personalize for your own needs.
-  To develop with Flutter, you will use a programming language called Dart. The language was created by Google in October 2011, but it has improved a lot over these past years.
+- SDK (набор инструментов разработки программного обеспечения): коллекция инструментов, которые помогут вам разрабатывать ваши приложения. Это включает инструменты для компиляции вашего кода в нативный машинный код (код для iOS и Android).
+- Фреймворк (библиотека пользовательских интерфейсов на основе виджетов): коллекция переиспользуемых элементов пользовательского интерфейса (кнопок, текстовых полей, слайдеров и т. д.), которые вы можете настроить по своему усмотрению.
+  Для разработки с помощью Flutter вы будете использовать язык программирования под названием Dart. Этот язык был создан компанией Google в октябре 2011 года и с тех пор сильно усовершенствован.
 
-Dart focuses on front-end development, and you can use it to create mobile and web applications.
+Dart сосредоточен на разработке фронтенда, и вы можете использовать его для создания мобильных и веб-приложений.
 
-If you know a bit of programming, Dart is a typed object programming language. You can compare Dart's syntax to JavaScript.
+Если вы знакомы с программированием, то Dart является типизированным объектным языком программирования. Вы можете сравнить синтаксис Dart с JavaScript.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Visit Dedicated Flutter Roadmap](/flutter)
-- [Flutter Website](https://flutter.dev)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
-- [Flutter Tutorial](https://www.w3adda.com/flutter-tutorial)
-- [Learn Dart Programming](https://www.tutorialspoint.com/dart_programming/index.htm)
-- [12 Ways Flutter Streamlines App Development](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)
+- [Дорожная карта Flutter](/flutter)
+- [Сайт Flutter](https://flutter.dev)
+- [Учебник по Flutter](https://www.w3adda.com/flutter-tutorial)
+- [Учебник по Flutter для начинающих](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [Учебник по Flutter](https://www.w3adda.com/flutter-tutorial)
+- [Изучите программирование на языке Dart](https://www.tutorialspoint.com/dart_programming/index.htm)
+- [12 способов, как Flutter оптимизирует разработку приложений](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)

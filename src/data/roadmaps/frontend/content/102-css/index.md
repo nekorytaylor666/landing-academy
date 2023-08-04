@@ -1,22 +1,22 @@
 # CSS
 
-CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+CSS или Каскадные таблицы стилей — это язык, используемый для стилизации frontend'а любого веб-сайта. CSS является одной из ключевых технологий всемирной паутины, наряду с HTML и JavaScript.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [The Odin Project](https://www.theodinproject.com//)
-- [What The Flexbox!](https://flexbox.io/)
-- [Learn CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
-- [Learn Intermediate CSS | Codecademy](https://www.codecademy.com/learn/learn-intermediate-css)
-- [CSS Complete Course](https://youtu.be/n4R2E7O-Ngo)
-- [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [HTML and CSS Tutorial](https://www.youtube.com/watch?v=D-h8L5hgW-w)
-- [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
-- [W3Schools — Learn CSS](https://www.w3schools.com/css/)
-- [cssreference.io: All CSS properties at a glance](https://cssreference.io/)
-- [Web.dev by Google — Learn CSS](https://web.dev/learn/css/)
-- [freeCodeCamp — Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
-- [Joshw Comeaus CSS Hack Blog Posts](https://www.joshwcomeau.com/)
-- [100 Days CSS Challenge](https://100dayscss.com)
-- [CSS Tutorial | Scaler](https://www.scaler.com/topics/css)
+- [Проект Один](https://www.theodinproject.com//)
+- [Что такое Flexbox!](https://flexbox.io/)
+- [Изучение CSS | Codecademy](https://www.codecademy.com/learn/learn-css)
+- [Изучение промежуточного уровня CSS | Codecademy](https://www.codecademy.com/learn/learn-intermediate-css)
+- [Полный курс по CSS](https://youtu.be/n4R2E7O-Ngo)
+- [Краткий курс по CSS для абсолютных начинающих](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Учебное руководство по HTML и CSS](https://www.youtube.com/watch?v=D-h8L5hgW-w)
+- [Мастер-класс по CSS - учебник и курс для начинающих](https://www.youtube.com/watch?v=FqmB-Zj2-PA)
+- [W3Schools — Изучение CSS](https://www.w3schools.com/css/)
+- [cssreference.io: Все свойства CSS на первый взгляд](https://cssreference.io/)
+- [Web.dev от Google - изучение CSS](https://web.dev/learn/css/)
+- [freeCodeCamp - адаптивный дизайн веб-страниц](https://www.freecodecamp.org/learn/responsive-web-design/)
+- [Изучение кодирования HTML и CSS](https://learn.shayhowe.com/html-css/building-your-first-web-page/)
+- [Посты блога Joshw Comeaus о CSS-хаках](https://www.joshwcomeau.com/)
+- [100 дней кодинга по CSS](https://100dayscss.com)
+- [Учебное руководство по CSS | Scaler](https://www.scaler.com/topics/css)

@@ -4,7 +4,7 @@ SKDirectives are classes that add additional behavior to elements in your Angula
 
 `NgClass` Adds and removes a set of CSS classes. | `NgStyle` Adds and removes a set of HTML styles. | `NgModel` Adds two-way data binding to an HTML form element.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Understanding BuiltIn Directives](https://angular.io/guide/built-in-directives)
 - [BuiltIn Directives Types](https://thinkster.io/tutorials/angular-2-directives)

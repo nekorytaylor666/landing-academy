@@ -10,7 +10,7 @@ There are several ways to manage secrets in a cloud environment:
 
 Effective secret management is essential for maintaining the security and integrity of a DevOps environment. It is important to regularly review and update secret management practices to ensure that secrets are being stored and managed securely.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [How to Manage Secrets in Web Applications?](https://cs.fyi/guide/secret-management-best-practices)
 - [Secrets management guide — approaches, open source tools, commercial products, challenges and questions](https://medium.com/@burshteyn/secrets-management-guide-approaches-open-source-tools-commercial-products-challenges-db560fd0584d)

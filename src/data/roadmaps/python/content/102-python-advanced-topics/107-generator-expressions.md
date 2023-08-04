@@ -4,7 +4,7 @@ Generator comprehensions are a concise way to create a generator using a single 
 
 Generator comprehensions are a useful tool for creating generators that generate a large sequence of values, as they allow you to create the generator without creating the entire sequence in memory at once. This can be more efficient and use less memory, especially for large sequences.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Python Generator Expressions](https://www.pythontutorial.net/advanced-python/python-generator-expressions/)
 - [List Comprehensions in Python and Generator Expressions](https://djangostars.com/blog/list-comprehensions-and-generator-expressions/)

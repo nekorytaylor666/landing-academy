@@ -1,8 +1,7 @@
 # Vitest
 
-Vitest is a fast Vite-native unit test framework with out-of-box ESM, TypeScript and JSX support.
-Works on React, Vue, Svelte and more projects created with Vite
+Vitest - это быстрый тестовый фреймворк, совместимый с Vite, с поддержкой ESM, TypeScript и JSX из коробки. Работает с React, Vue, Svelte и другими проектами, созданными с помощью Vite.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Vitest Website](https://vitest.dev/)
+- [Сайт Vitest](https://vitest.dev/)

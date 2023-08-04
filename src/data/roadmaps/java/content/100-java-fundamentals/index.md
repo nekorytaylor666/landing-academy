@@ -4,7 +4,7 @@ Java is a programming language and computing platform first released by Sun Micr
 
 Learn about the fundamentals of Java such as basic syntax, data types, variables, conditionals, functions, data structures, packages, etc.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Java Basics - W3Schools](https://www.w3schools.com/java/)
 - [Java Tutorial for Beginners](https://youtu.be/eIrMbAQSU34)

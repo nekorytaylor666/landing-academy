@@ -1,8 +1,8 @@
 # After.js
 
-After.js is an open-source JavaScript framework for developing SSR (Server Side Rendering) based applications. It is similar to the Next.js framework for server-rendered React apps but uses React Router instead of a folder structure based router like Next.js
+After.js - это фреймворк с открытым исходным кодом на JavaScript для разработки приложений на основе SSR (Server Side Rendering). Он схож с фреймворком Next.js для серверного рендеринга приложений на React, но использует React Router вместо структуры каталогов, как в Next.js.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official GitHub repository](https://github.com/jaredpalmer/after.js)
-- [Documentation](https://www.npmjs.com/package/@jaredpalmer/after)
+- [Официальный репозиторий на GitHub](https://github.com/jaredpalmer/after.js)
+- [Документация](https://www.npmjs.com/package/@jaredpalmer/after)

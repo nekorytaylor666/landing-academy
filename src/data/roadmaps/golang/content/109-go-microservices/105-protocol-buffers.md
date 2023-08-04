@@ -9,7 +9,7 @@ Some of the advantages of using protocol buffers include:
 - Availability in many programming languages
 - Optimized functionality through automatically-generated classes
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Protobuf Github](https://github.com/protocolbuffers/protobuf/)
 - [Protobuf Doc](https://developers.google.com/protocol-buffers/)

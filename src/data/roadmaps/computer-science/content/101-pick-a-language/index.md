@@ -7,7 +7,7 @@ You need to pick a programming language to learn the Computer Science concepts. 
 
 Given below is the list of resources; pick ones relevant to the language of your choice.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Learn C++ - W3Schools](https://www.w3schools.com/cpp/)
 - [Learn C++ - Tutorials Point](https://www.tutorialspoint.com/cplusplus/index.htm)

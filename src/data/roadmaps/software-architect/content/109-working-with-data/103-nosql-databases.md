@@ -9,6 +9,6 @@ Types of NoSQL databases
 - Wide-column databases Ex. Cassandra
 - Graph databases Ex. Neo4J
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [NoSQL Databases](https://www.mongodb.com/nosql-explained)

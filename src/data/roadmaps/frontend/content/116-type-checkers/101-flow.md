@@ -1,9 +1,9 @@
 # Flow
 
-Flow is a static type checker, designed to find type errors in JavaScript programs.
+Flow - это статический проверяльщик типов, разработанный для поиска ошибок типизации в программировании на JavaScript.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://flow.org/)
-- [Official Documentation](https://flow.org/en/docs/)
-- [Flow for Beginners](https://www.youtube.com/watch?v=0HlqX4lQZas)
+- [Официальный веб-сайт Flow](https://flow.org/)
+- [Официальная документация по Flow](https://flow.org/en/docs/)
+- [Flow для начинающих](https://www.youtube.com/watch?v=0HlqX4lQZas)

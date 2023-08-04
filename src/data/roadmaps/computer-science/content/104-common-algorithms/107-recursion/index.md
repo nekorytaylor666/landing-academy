@@ -2,7 +2,7 @@
 
 Recursion is a method of solving problems where the solution depends on solutions to smaller instances of the same problem. A recursive algorithm must have a base case. A recursive algorithm calls itself, recursively.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Recursion in 100 Seconds](https://www.youtube.com/watch?v=rf60MejMz3E)
 - [Lecture 8 | Programming Abstractions (Stanford)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=9)

@@ -4,6 +4,6 @@ A Simple Tool for Monitoring Complex APIs. Verify that the structure and content
 
 Create simple monitors with dynamic data for even the most complex use cases. More than simple string matching, build API validations without any code and use them across local dev, staging and production environments.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Runscope Website](https://www.runscope.com)

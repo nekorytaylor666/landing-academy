@@ -2,7 +2,7 @@
 
 A component library is just a collection of visuals i.e. colours, button stylings, fonts, etc. A Design System takes it to the next level by including standards and documentation around the look and usage of each component. The Design System acts as the single-source of truth.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [A Design System: So Much More Than A Component Library](https://www.architech.ca/a-design-system-so-much-more-than-a-component-library)
 - [Design System vs UI Component Library vs Brand Style Guide](https://prototype.net/blog/design-system-component-library-style-guide)

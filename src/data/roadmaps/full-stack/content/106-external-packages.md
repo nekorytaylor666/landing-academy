@@ -1,10 +1,10 @@
 # Checkpoint
 
-At this point, you should be able to install and use external packages using `npm`. You probably know about [npmjs.com](https://npmjs.com/) where you can search for packages and read their documentation. You should also be familiar with the `package.json` file and how to use it to manage your project dependencies.
+На данный момент вы должны быть в состоянии устанавливать и использовать внешние пакеты с помощью npm. Вы, вероятно, знакомы с [npmjs.com](https://npmjs.com/) где можно искать пакеты и читать их документацию. Также вы должны быть знакомы с файлом package.json и уметь использовать его для управления зависимостями вашего проекта.
 
-You don't need to get into the module bundlers and build tools just yet. Just make sure that you are able to use the dependencies installed in the `node_modules` folder using simple link and script tags in your HTML.
+На данном этапе вам не обязательно заниматься инструментами сборки и модулями. Просто убедитесь, что вы можете использовать установленные зависимости из папки node_modules с помощью простых ссылок и тегов скриптов в вашем HTML.
 
-Regarding projects, here are a few ideas that you can try:
+Что касается проектов, вот несколько идей, которые вы можете попробовать:
 
-- Create a simple webpage that shows the current time of user. You can use use [dayjs](https://day.js.org/) to get the current time and display it on the page. Here is the [sample design for homepage](https://i.imgur.com/yGIMGkr.png). 
-- Install the [micromodal](https://micromodal.vercel.app/#introduction) library. Create a button on the page clicking which should open a modal and let the user select a timezone from a dropdown. Once the user selects a timezone, the modal should close and the time on the page should be updated to show the time in the selected timezone. Here is the [sample design for the modal](https://imgur.com/a/vFY6Sdl).
+- Создайте простую веб-страницу, которая показывает текущее время пользователя. Вы можете использовать [dayjs](https://day.js.org/) для получения текущего времени и отображения его на странице. Вот [sample design for homepage](https://i.imgur.com/yGIMGkr.png). 
+- Установите библиотеку [micromodal](https://micromodal.vercel.app/#introduction). Создайте кнопку на странице, при нажатии которой откроется модальное окно, в котором пользователь сможет выбрать часовой пояс из выпадающего списка. После выбора часового пояса модальное окно должно закрыться, и время на странице должно обновиться, чтобы показать время в выбранном часовом поясе. Вот [sample design for the modal](https://imgur.com/a/vFY6Sdl).

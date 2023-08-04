@@ -6,7 +6,7 @@ In Flutter, you can write integration tests using the `flutter_driver` package, 
 
 The framework provides several utility functions to help you interact with your app, such as `tap`, `scroll`, and `enterText`, which allow you to perform actions in your app and verify its behavior. You can also use `waitFor`, which allows you to wait for specific conditions to be met before continuing with the test.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [An introduction to integration testing](https://docs.flutter.dev/cookbook/testing/integration/introduction)
 - [Integration Tests](https://docs.flutter.dev/testing#integration-tests)

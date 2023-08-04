@@ -2,7 +2,7 @@
 
 Spring Boot is an open source, microservice-based Java web framework. The Spring Boot framework creates a fully production-ready environment that is completely configurable using its prebuilt code within its codebase. The microservice architecture provides developers with a fully enclosed application, including embedded application servers.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Visit Dedicated Spring Boot Roadmap](/spring-boot)
 - [Spring Boot](https://spring.io/projects/spring-boot/)

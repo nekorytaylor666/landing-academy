@@ -15,7 +15,7 @@ Progressive Web Apps provide you with a unique opportunity to deliver a web expe
 Jamstack is an architectural approach that decouples the web experience layer from data and business logic, improving flexibility, scalability, performance, and maintainability.
 Jamstack removes the need for business logic to dictate the web experience. It enables a composable architecture for the web where custom logic and 3rd party services are consumed through APIs.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [SWA](https://www.staticapps.org/)
 - [PWA](https://web.dev/progressive-web-apps/)

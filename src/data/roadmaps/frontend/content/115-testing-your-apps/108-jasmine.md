@@ -1,10 +1,10 @@
 # Jasmine
 
-Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests. It provides utilities that can be used to run automated tests for both synchronous and asynchronous code.
+Jasmine - это фреймворк для разработки поведения для тестирования JavaScript-кода. Он не зависит от других JavaScript-фреймворков. Он не требует DOM. И у него есть чистый и очевидный синтаксис, что позволяет легко писать тесты. Он предоставляет утилиты, которые можно использовать для запуска автоматизированных тестов для синхронного и асинхронного кода.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://jasmine.github.io/)
-- [Official Docs](https://jasmine.github.io/pages/docs_home.html)
-- [Official Repository](https://github.com/jasmine/jasmine)
-- [Javascript Unit Testing with Jasmine](https://www.youtube.com/watch?v=rw4KlxKEENQ)
+- [Официальный сайт](https://jasmine.github.io/)
+- [Официальная документация](https://jasmine.github.io/pages/docs_home.html)
+- [Официальный репозиторий](https://github.com/jasmine/jasmine)
+- [Javascript Unit Testing с помощью Jasmine](https://www.youtube.com/watch?v=rw4KlxKEENQ)

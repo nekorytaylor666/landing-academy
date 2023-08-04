@@ -11,6 +11,6 @@ Building an effective design system is not an individual responsibility, you nee
 - **Product Managers:** to ensure the system is aligning to customer needs
 - **Leaders:** (VPs and directors) to champion and align the vision throughout the company including up to executive leadership
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Designing the Design System](https://www.designbetter.co/design-systems-handbook/designing-design-system)

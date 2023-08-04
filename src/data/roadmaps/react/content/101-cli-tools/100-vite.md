@@ -2,7 +2,7 @@
 
 Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Vite Website](https://vitejs.dev)
 - [Vite Documentation](https://vitejs.dev/guide)

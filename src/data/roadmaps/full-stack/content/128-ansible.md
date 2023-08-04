@@ -1,10 +1,10 @@
 # Ansible
 
-Ansible is an open-source configuration management, application deployment and provisioning tool that uses its own declarative language in YAML. Ansible is agentless, meaning you only need remote connections via SSH or Windows Remote Management via Powershell in order to function
+Ansible - это инструмент с открытым исходным кодом для управления конфигурацией, развертывания приложений и создания виртуальных сред. Он использует свой декларативный язык в формате YAML. Ansible является агенто-независимым, что означает, что для его работы вам нужны только удаленные подключения через SSH или Windows Remote Management с помощью Powershell.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Ansible Website](https://www.ansible.com/)
-- [Official Documentation](https://docs.ansible.com/)
-- [Ansible Getting Started Guide](https://www.ansible.com/resources/get-started)
-- [Ansible Full Course for Beginners](https://www.youtube.com/watch?v=9Ua2b06oAr4)
+- [Сайт Ansible](https://www.ansible.com/)
+- [Официальная документация](https://docs.ansible.com/)
+- [Руководство по началу работы с Ansible](https://www.ansible.com/resources/get-started)
+- [Полный курс по Ansible для начинающих](https://www.youtube.com/watch?v=9Ua2b06oAr4)

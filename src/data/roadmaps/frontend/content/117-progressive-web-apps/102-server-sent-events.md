@@ -1,11 +1,11 @@
 # Server Sent Events
 
-Server-Sent Events (SSE) is a technology that allows a web server to push data to a client in real-time. It uses an HTTP connection to send a stream of data from the server to the client, and the client can listen for these events and take action when they are received.
+Server-Sent Events (SSE) - это технология, которая позволяет веб-серверу отправлять данные клиенту в реальном времени. Она использует HTTP-соединение для передачи потока данных от сервера к клиенту, и клиент может слушать эти события и выполнять действия при их получении.
 
-SSE is useful for applications that require real-time updates, such as chat systems, stock tickers, and social media feeds. It is a simple and efficient way to establish a long-lived connection between a client and a server, and it is supported by most modern web browsers.
+SSE полезен для приложений, которым требуются обновления в реальном времени, таких как системы чатов, биржевые котировки и ленты социальных медиа. Это простой и эффективный способ установить долгосрочное соединение между клиентом и сервером, и он поддерживается большинством современных веб-браузеров.
 
-To use SSE, the client must create an EventSource object and specify the URL of the server-side script that will send the events. The server can then send events by writing them to the response stream with the proper formatting.
+Для использования SSE клиент должен создать объект EventSource и указать URL скрипта на стороне сервера, который будет отправлять события. Затем сервер может отправлять события, записывая их в поток ответа с правильным форматированием.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Server-Sent Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)

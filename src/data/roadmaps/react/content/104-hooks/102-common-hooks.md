@@ -2,7 +2,7 @@
 
 React also has a lot of hooks that allow you to write more efficient React code.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [useCallback](https://react.dev/reference/react/useCallback)
 - [useContext](https://react.dev/reference/react/useContext)

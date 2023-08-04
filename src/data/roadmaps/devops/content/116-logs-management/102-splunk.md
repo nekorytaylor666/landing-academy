@@ -2,7 +2,7 @@
 
 The Splunk platform removes the barriers between data and action, empowering observability, IT and security teams to ensure their organizations are secure, resilient and innovative.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Splunk Website](https://www.splunk.com/)
 - [Official Documentation](https://docs.splunk.com/Documentation)

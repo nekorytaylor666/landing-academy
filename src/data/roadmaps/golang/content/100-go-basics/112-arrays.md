@@ -2,7 +2,7 @@
 
 In Go an `array` is a collection of elements of the same type with a **fixed** size defined when the array is created.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Go Arrays](https://go.dev/tour/moretypes/6)
 - [Effective Go: Arrays](https://go.dev/doc/effective_go#arrays)

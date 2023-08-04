@@ -2,7 +2,7 @@
 
 JUnit is a testing framework for Java.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [JUnit](https://junit.org/junit5)
 - [JUnit Documentation](https://junit.org/junit5/docs/current/user-guide/)

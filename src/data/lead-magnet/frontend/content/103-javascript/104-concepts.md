@@ -2,7 +2,7 @@
 
 Learn and understand the concepts such as Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM and strict.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [JavaScript Hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 - [Event Bubbling and Capturing](https://javascript.info/bubbling-and-capturing)

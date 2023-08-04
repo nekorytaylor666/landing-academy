@@ -6,7 +6,7 @@ Concretely, a higher-order component is a function that takes a component and re
 
 Higher-order components are not commonly used in modern React code. In order to reuse logic, React hooks are mainly used now.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [High-Order Components](https://reactjs.org/docs/higher-order-components.html)
 - [How to create a Higher-Order Component](https://www.robinwieruch.de/react-higher-order-components/)

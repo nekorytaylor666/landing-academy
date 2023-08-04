@@ -11,6 +11,6 @@ JavaScript has six types of errors that may occur during the execution of the sc
 - TypeError
 - URIError
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Error Types in JavaScript](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)

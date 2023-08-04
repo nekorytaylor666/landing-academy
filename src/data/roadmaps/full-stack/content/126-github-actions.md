@@ -1,8 +1,8 @@
 # Github Actions
 
-GitHub Actions is a workflow automation tool provided by GitHub that can be used to automate various tasks in the app development process.
+GitHub Actions - это инструмент автоматизации рабочих процессов, предоставляемый GitHub, который может быть использован для автоматизации различных задач в процессе разработки приложений.
 
 - [Github Actions](https://github.com/features/actions)
-- [Github Actions Documentation](https://docs.github.com/en/actions)
-- [5 Ways to DevOps-ify your App](https://www.youtube.com/watch?v=eB0nUzAI7M8)
-- [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
+- [Документация по Github Actions](https://docs.github.com/en/actions)
+- [5 способов внедрения DevOps в ваше приложение](https://www.youtube.com/watch?v=eB0nUzAI7M8)
+- [DevOps CI/CD объяснено за 100 секунд](https://www.youtube.com/watch?v=scEDHsr3APg)

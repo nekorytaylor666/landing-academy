@@ -1,9 +1,9 @@
 # Cypress
 
-Cypress framework is a JavaScript-based end-to-end testing framework built on top of Mocha – a feature-rich JavaScript test framework running on and in the browser, making asynchronous testing simple and convenient. It also uses a BDD/TDD assertion library and a browser to pair with any JavaScript testing framework.
+Фреймворк Cypress - это основанный на JavaScript инструмент для тестирования на стороне клиента и конечного тестирования, построенный на основе Mocha - богатого функционалом тестового фреймворка для JavaScript, работающего в браузере и в браузере, что делает асинхронное тестирование простым и удобным. Он также использует библиотеку BDD/TDD и браузер для совместной работы с любым тестовым фреймворком JavaScript.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://www.cypress.io/)
-- [Official Documentation](https://docs.cypress.io/guides/overview/why-cypress#Other)
-- [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)
+- [Официальный сайт](https://www.cypress.io/)
+- [Официальная документация](https://docs.cypress.io/guides/overview/why-cypress#Other)
+- [Тестирование Cypress End-to-End](https://www.youtube.com/watch?v=7N63cMKosIE)

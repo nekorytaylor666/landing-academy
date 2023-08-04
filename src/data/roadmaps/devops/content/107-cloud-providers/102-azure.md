@@ -2,7 +2,7 @@
 
 Microsoft Azure is a cloud computing service operated by Microsoft. Azure currently provides more than 200 products and cloud services.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Azure Website](https://azure.microsoft.com/en-us/)
 - [Official Documentation](https://docs.microsoft.com/en-us/azure/)

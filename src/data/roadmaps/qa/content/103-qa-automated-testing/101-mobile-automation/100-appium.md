@@ -2,7 +2,7 @@
 
 Appium is an open-source framework that allows QAs to conduct automated app testing on different platforms like Android, iOS, and Windows. It is developed and supported by Sauce Labs to automate native and hybrid mobile apps. It is a cross-platform mobile automation tool, which means that it allows the same test to be run on multiple platforms.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Appium Website](https://appium.io/)
 - [Appium Tutorial for Mobile Application Testing](https://www.browserstack.com/guide/appium-tutorial-for-testing)

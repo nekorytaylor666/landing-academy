@@ -1,11 +1,11 @@
 # Service Workers
 
-Service Workers are a type of web worker that acts as a proxy between a web page and the network, allowing web developers to build offline-first and reliable applications. Service Workers can intercept network requests, access the cache, and make decisions on how to respond to a request based on the available resources.
+Service Workers - это тип веб-воркеров, который действует как прокси между веб-страницей и сетью, позволяя веб-разработчикам создавать приложения с поддержкой работы в автономном режиме и надежным поведением. Service Workers могут перехватывать сетевые запросы, получать доступ к кэшу и принимать решения о том, как отвечать на запросы на основе доступных ресурсов.
 
-Service Workers are written in JavaScript and are registered by a web page. Once registered, they can control the page and all its requests, even when the page is not open in a browser. This allows Service Workers to enable features such as push notifications, background synchronization, and offline support.
+Service Workers написаны на JavaScript и регистрируются веб-страницей. После регистрации они могут управлять страницей и всеми ее запросами, даже когда страница не открыта в браузере. Это позволяет Service Workers включать такие функции, как уведомления push, фоновую синхронизацию и поддержку работы в автономном режиме.
 
-Service Workers are supported by most modern web browsers, and they are an essential component of progressive web applications (PWAs).
+Service Workers поддерживаются большинством современных веб-браузеров и являются важной составляющей прогрессивных веб-приложений (PWA).
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Service Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)

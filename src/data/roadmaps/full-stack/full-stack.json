@@ -740,11 +740,11 @@
                   "ID": "0",
                   "typeID": "Canvas",
                   "zOrder": "0",
-                  "w": "302",
+                  "w": "320",
                   "h": "50",
                   "measuredW": "100",
                   "measuredH": "70",
-                  "x": "0",
+                  "x": "-10",
                   "y": "0",
                   "properties": {
                     "color": "3355443"
@@ -756,11 +756,11 @@
                   "zOrder": "1",
                   "measuredW": "253",
                   "measuredH": "26",
-                  "x": "23",
+                  "x": "0",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Static Webpages",
+                    "text": "Чекпоинт — Статические веб-страницы",
                     "color": "16777215"
                   }
                 }
@@ -837,7 +837,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Interactivity",
+                    "text": "Чекпоинт — Интерактивность",
                     "color": "16777215"
                   }
                 }
@@ -991,7 +991,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — External Packages",
+                    "text": "Чекпоинт — Внешние пакеты",
                     "color": "16777215"
                   }
                 }
@@ -1162,7 +1162,7 @@
                   "y": "13",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Collaborative Work",
+                    "text": "Чекпоинт — Совместная работа",
                     "color": "16777215"
                   }
                 }
@@ -1204,9 +1204,9 @@
                   "ID": "0",
                   "typeID": "Canvas",
                   "zOrder": "0",
-                  "w": "286",
+                  "w": "306",
                   "h": "50",
-                  "measuredW": "100",
+                  "measuredW": "120",
                   "measuredH": "70",
                   "x": "0",
                   "y": "0",
@@ -1220,11 +1220,11 @@
                   "zOrder": "1",
                   "measuredW": "236",
                   "measuredH": "26",
-                  "x": "28",
+                  "x": "10",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Frontend Apps",
+                    "text": "Чекпоинт — Приложения фронтенда",
                     "color": "16777215"
                   }
                 }
@@ -1238,11 +1238,11 @@
           "zOrder": "37",
           "measuredW": "220",
           "measuredH": "26",
-          "x": "534",
+          "x": "500",
           "y": "1010",
           "properties": {
             "size": "18",
-            "text": "Feel free to skip and revisit"
+            "text": "Не стесняйтесь пропустить и вернуться к ним"
           }
         },
         {
@@ -1345,11 +1345,11 @@
           "zOrder": "40",
           "measuredW": "237",
           "measuredH": "26",
-          "x": "534",
+          "x": "480",
           "y": "1040",
           "properties": {
             "size": "18",
-            "text": "after learning some backend."
+            "text": "после изучения некоторых основ backend-разработки."
           }
         },
         {
@@ -1423,7 +1423,7 @@
           "y": "1211",
           "properties": {
             "size": "18",
-            "text": "Start Backend Development"
+            "text": "Начните Backend разработку"
           }
         },
         {
@@ -1449,7 +1449,7 @@
                   "y": "0",
                   "properties": {
                     "size": "18",
-                    "text": "You can pick any backend programming language."
+                    "text": "Вы можете выбрать любой язык программирования для backend."
                   }
                 },
                 {
@@ -1462,7 +1462,7 @@
                   "y": "29",
                   "properties": {
                     "size": "18",
-                    "text": "My recommendation is Node.js because you are"
+                    "text": "Моя рекомендация - использовать Node.js,"
                   }
                 },
                 {
@@ -1475,7 +1475,7 @@
                   "y": "59",
                   "properties": {
                     "size": "18",
-                    "text": "already familiar with JavaScript and it’s easier to pick."
+                    "text": "потому что вы уже знакомы с JavaScript, и его проще освоить."
                   }
                 }
               ]
@@ -1561,7 +1561,7 @@
                   "ID": "0",
                   "typeID": "Canvas",
                   "zOrder": "0",
-                  "w": "280",
+                  "w": "310",
                   "h": "50",
                   "measuredW": "100",
                   "measuredH": "70",
@@ -1577,11 +1577,11 @@
                   "zOrder": "1",
                   "measuredW": "191",
                   "measuredH": "26",
-                  "x": "44",
+                  "x": "12",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — CLI Apps",
+                    "text": "Чекпоинт — Консольные приложения",
                     "color": "16777215"
                   }
                 }
@@ -1706,7 +1706,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Simple CRUD",
+                    "text": "Чекпоинт — Простой CRUD",
                     "color": "16777215"
                   }
                 }
@@ -1778,11 +1778,11 @@
           "zOrder": "53",
           "measuredW": "170",
           "measuredH": "26",
-          "x": "671",
+          "x": "641",
           "y": "1310",
           "properties": {
             "size": "18",
-            "text": "Backend Starts Here"
+            "text": "Backend начинается здесь"
           }
         },
         {
@@ -1986,7 +1986,7 @@
                   "ID": "0",
                   "typeID": "Canvas",
                   "zOrder": "0",
-                  "w": "277",
+                  "w": "337",
                   "h": "50",
                   "measuredW": "100",
                   "measuredH": "70",
@@ -2006,7 +2006,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Complete App",
+                    "text": "Чекпоинт — Полноценные приложения",
                     "color": "16777215"
                   }
                 }
@@ -2172,7 +2172,7 @@
           "y": "1331",
           "properties": {
             "size": "18",
-            "text": "Learn Frontend Frameworks"
+            "text": "Изучите Frontend фреймворки"
           }
         },
         {
@@ -2185,7 +2185,7 @@
           "y": "1359",
           "properties": {
             "size": "18",
-            "text": "If you skipped earlier"
+            "text": "Если вы пропустили ранее"
           }
         },
         {
@@ -2285,7 +2285,7 @@
           "y": "1754",
           "properties": {
             "size": "18",
-            "text": "Get Some DevOps Knowledge"
+            "text": "Получите знания по DevOps"
           }
         },
         {
@@ -2328,7 +2328,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Linux Basics"
+                    "text": "Основы Linux"
                   }
                 }
               ]
@@ -2355,7 +2355,7 @@
                   "ID": "0",
                   "typeID": "TextArea",
                   "zOrder": "0",
-                  "w": "198",
+                  "w": "210",
                   "h": "50",
                   "measuredW": "200",
                   "measuredH": "140",
@@ -2371,11 +2371,11 @@
                   "zOrder": "1",
                   "measuredW": "153",
                   "measuredH": "25",
-                  "x": "22",
+                  "x": "14",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Basic AWS Services"
+                    "text": "Основные AWS Сервисы"
                   }
                 }
               ]
@@ -2686,7 +2686,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — CI / CD",
+                    "text": "Чекпоинт — CI / CD",
                     "color": "16777215"
                   }
                 }
@@ -2781,7 +2781,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Monitoring",
+                    "text": "Чекпоинт — Мониторинг",
                     "color": "16777215"
                   }
                 }
@@ -2905,7 +2905,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Deployment",
+                    "text": "Чекпоинт — Развертывание",
                     "color": "16777215"
                   }
                 }
@@ -3030,7 +3030,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Checkpoint — Automation",
+                    "text": "Чекпоинт — Автоматизация",
                     "color": "16777215"
                   }
                 }
@@ -3136,7 +3136,7 @@
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "Use the checkpoints and do not forget"
+            "text": "Используйте чекпоинты и не забудьте"
           }
         },
         {
@@ -3150,7 +3150,7 @@
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "to practice what you learn. There are"
+            "text": "практиковать знания. На каждой"
           }
         },
         {
@@ -3164,7 +3164,7 @@
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "project ideas at each checkpoint that"
+            "text": "контрольной точке есть идеи проектов,"
           }
         },
         {
@@ -3178,7 +3178,7 @@
           "properties": {
             "color": "4985136",
             "size": "18",
-            "text": "you can build to solidify your knowledge."
+            "text": "чтобы укрепить свои знания."
           }
         },
         {
@@ -3222,7 +3222,7 @@
                   "properties": {
                     "size": "18",
                     "color": "16777215",
-                    "text": "Checkpoint — Infrastructure"
+                    "text": "Чекпоинт  — Инфраструктура"
                   }
                 }
               ]
@@ -3304,11 +3304,11 @@
           "zOrder": "99",
           "measuredW": "366",
           "measuredH": "25",
-          "x": "775",
+          "x": "825",
           "y": "2503",
           "properties": {
             "size": "17",
-            "text": "Continue Learning with following relevant tracks"
+            "text": "Продолжите детальное обучение"
           }
         },
         {
@@ -3453,113 +3453,6 @@
           }
         },
         {
-          "ID": "3201",
-          "typeID": "Canvas",
-          "zOrder": "104",
-          "w": "363",
-          "h": "136",
-          "measuredW": "100",
-          "measuredH": "70",
-          "x": "1007",
-          "y": "420"
-        },
-        {
-          "ID": "3202",
-          "typeID": "Canvas",
-          "zOrder": "105",
-          "w": "26",
-          "h": "26",
-          "measuredW": "100",
-          "measuredH": "70",
-          "x": "1023",
-          "y": "436",
-          "properties": {
-            "color": "3355443"
-          }
-        },
-        {
-          "ID": "3203",
-          "typeID": "Label",
-          "zOrder": "106",
-          "measuredW": "249",
-          "measuredH": "26",
-          "x": "1061",
-          "y": "436",
-          "properties": {
-            "size": "18",
-            "text": "Project Ideas and Suggestions"
-          }
-        },
-        {
-          "ID": "3204",
-          "typeID": "Canvas",
-          "zOrder": "107",
-          "w": "26",
-          "h": "26",
-          "measuredW": "100",
-          "measuredH": "70",
-          "x": "1023",
-          "y": "471",
-          "properties": {
-            "color": "16776960"
-          }
-        },
-        {
-          "ID": "3205",
-          "typeID": "Label",
-          "zOrder": "108",
-          "measuredW": "150",
-          "measuredH": "26",
-          "x": "1061",
-          "y": "471",
-          "properties": {
-            "size": "18",
-            "text": "Key topics to learn"
-          }
-        },
-        {
-          "ID": "3206",
-          "typeID": "Arrow",
-          "zOrder": "109",
-          "w": "1",
-          "h": "20",
-          "measuredW": "150",
-          "measuredH": "100",
-          "x": "1034",
-          "y": "512",
-          "properties": {
-            "curvature": "0",
-            "leftArrow": "false",
-            "rightArrow": "false",
-            "color": "3355443",
-            "p0": {
-              "x": 0,
-              "y": 0.07526588698897285
-            },
-            "p1": {
-              "x": 0.4999999999999998,
-              "y": 0
-            },
-            "p2": {
-              "x": 0,
-              "y": 19.753913175934713
-            }
-          }
-        },
-        {
-          "ID": "3207",
-          "typeID": "Label",
-          "zOrder": "110",
-          "measuredW": "153",
-          "measuredH": "26",
-          "x": "1061",
-          "y": "509",
-          "properties": {
-            "size": "18",
-            "text": "Change of Domain"
-          }
-        },
-        {
           "ID": "3208",
           "typeID": "Arrow",
           "zOrder": "111",
@@ -3675,356 +3568,6 @@
             "p2": {
               "x": 60,
               "y": 0.12070867681268282
-            }
-          }
-        },
-        {
-          "ID": "3212",
-          "typeID": "__group__",
-          "zOrder": "103",
-          "measuredW": "381",
-          "measuredH": "302",
-          "w": "381",
-          "h": "302",
-          "x": "604",
-          "y": "254",
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "Canvas",
-                  "zOrder": "0",
-                  "w": "381",
-                  "h": "302",
-                  "measuredW": "100",
-                  "measuredH": "70",
-                  "x": "0",
-                  "y": "0"
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "measuredW": "318",
-                  "measuredH": "26",
-                  "x": "19",
-                  "y": "61",
-                  "properties": {
-                    "size": "18",
-                    "text": "If you are already a full-stack developer"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Label",
-                  "zOrder": "2",
-                  "measuredW": "328",
-                  "measuredH": "26",
-                  "x": "19",
-                  "y": "91",
-                  "properties": {
-                    "size": "18",
-                    "text": "you should visit these roadmaps instead."
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "__group__",
-                  "zOrder": "3",
-                  "measuredW": "106",
-                  "measuredH": "44",
-                  "w": "106",
-                  "h": "44",
-                  "x": "20",
-                  "y": "130",
-                  "properties": {
-                    "controlName": "ext_link:roadmap.sh/frontend"
-                  },
-                  "children": {
-                    "controls": {
-                      "control": [
-                        {
-                          "ID": "0",
-                          "typeID": "TextArea",
-                          "zOrder": "0",
-                          "w": "106",
-                          "h": "44",
-                          "measuredW": "200",
-                          "measuredH": "140",
-                          "x": "0",
-                          "y": "0",
-                          "properties": {
-                            "color": "16770457"
-                          }
-                        },
-                        {
-                          "ID": "1",
-                          "typeID": "Label",
-                          "zOrder": "1",
-                          "measuredW": "70",
-                          "measuredH": "25",
-                          "x": "18",
-                          "y": "9",
-                          "properties": {
-                            "size": "17",
-                            "text": "Frontend"
-                          }
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "ID": "4",
-                  "typeID": "__group__",
-                  "zOrder": "4",
-                  "measuredW": "113",
-                  "measuredH": "44",
-                  "w": "113",
-                  "h": "44",
-                  "x": "137",
-                  "y": "130",
-                  "properties": {
-                    "controlName": "ext_link:roadmap.sh/backend"
-                  },
-                  "children": {
-                    "controls": {
-                      "control": [
-                        {
-                          "ID": "0",
-                          "typeID": "TextArea",
-                          "zOrder": "0",
-                          "w": "113",
-                          "h": "44",
-                          "measuredW": "200",
-                          "measuredH": "140",
-                          "x": "0",
-                          "y": "0",
-                          "properties": {
-                            "color": "16770457"
-                          }
-                        },
-                        {
-                          "ID": "1",
-                          "typeID": "Label",
-                          "zOrder": "1",
-                          "measuredW": "68",
-                          "measuredH": "25",
-                          "x": "23",
-                          "y": "9",
-                          "properties": {
-                            "size": "17",
-                            "text": "Backend"
-                          }
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "ID": "5",
-                  "typeID": "__group__",
-                  "zOrder": "5",
-                  "measuredW": "101",
-                  "measuredH": "44",
-                  "w": "101",
-                  "h": "44",
-                  "x": "262",
-                  "y": "130",
-                  "properties": {
-                    "controlName": "ext_link:roadmap.sh/devops"
-                  },
-                  "children": {
-                    "controls": {
-                      "control": [
-                        {
-                          "ID": "0",
-                          "typeID": "TextArea",
-                          "zOrder": "0",
-                          "w": "101",
-                          "h": "44",
-                          "measuredW": "200",
-                          "measuredH": "140",
-                          "x": "0",
-                          "y": "0",
-                          "properties": {
-                            "color": "16770457"
-                          }
-                        },
-                        {
-                          "ID": "1",
-                          "typeID": "Label",
-                          "zOrder": "1",
-                          "measuredW": "62",
-                          "measuredH": "25",
-                          "x": "20",
-                          "y": "9",
-                          "properties": {
-                            "size": "17",
-                            "text": "DevOps"
-                          }
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "ID": "6",
-                  "typeID": "Label",
-                  "zOrder": "6",
-                  "measuredW": "288",
-                  "measuredH": "26",
-                  "x": "22",
-                  "y": "189",
-                  "properties": {
-                    "size": "18",
-                    "text": "Target audience for this roadmap is"
-                  }
-                },
-                {
-                  "ID": "7",
-                  "typeID": "Label",
-                  "zOrder": "7",
-                  "measuredW": "311",
-                  "measuredH": "26",
-                  "x": "22",
-                  "y": "219",
-                  "properties": {
-                    "size": "18",
-                    "text": "absolute beginners wanting to get into"
-                  }
-                },
-                {
-                  "ID": "8",
-                  "typeID": "Label",
-                  "zOrder": "8",
-                  "measuredW": "186",
-                  "measuredH": "26",
-                  "x": "22",
-                  "y": "249",
-                  "properties": {
-                    "size": "18",
-                    "text": "full stack development."
-                  }
-                },
-                {
-                  "ID": "9",
-                  "typeID": "Label",
-                  "zOrder": "9",
-                  "measuredW": "135",
-                  "measuredH": "28",
-                  "x": "19",
-                  "y": "20",
-                  "properties": {
-                    "size": "20",
-                    "text": "Audience Note"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "3213",
-          "typeID": "__group__",
-          "zOrder": "22",
-          "measuredW": "361",
-          "measuredH": "150",
-          "w": "361",
-          "h": "150",
-          "x": "1007",
-          "y": "254",
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "Canvas",
-                  "zOrder": "0",
-                  "w": "361",
-                  "h": "150",
-                  "measuredW": "100",
-                  "measuredH": "70",
-                  "x": "0",
-                  "y": "0"
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "measuredW": "332",
-                  "measuredH": "26",
-                  "x": "16",
-                  "y": "18",
-                  "properties": {
-                    "size": "18",
-                    "text": "Find the detailed version of this checklist"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Label",
-                  "zOrder": "2",
-                  "measuredW": "318",
-                  "measuredH": "26",
-                  "x": "16",
-                  "y": "46",
-                  "properties": {
-                    "size": "18",
-                    "text": "With details on how to implement these"
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "__group__",
-                  "zOrder": "3",
-                  "measuredW": "329",
-                  "measuredH": "51",
-                  "w": "329",
-                  "h": "51",
-                  "x": "16",
-                  "y": "82",
-                  "properties": {
-                    "controlName": "ext_link:roadmap.sh"
-                  },
-                  "children": {
-                    "controls": {
-                      "control": [
-                        {
-                          "ID": "0",
-                          "typeID": "Canvas",
-                          "zOrder": "0",
-                          "w": "329",
-                          "h": "51",
-                          "measuredW": "100",
-                          "measuredH": "70",
-                          "x": "0",
-                          "y": "0",
-                          "properties": {
-                            "color": "4273622",
-                            "borderColor": "4273622"
-                          }
-                        },
-                        {
-                          "ID": "1",
-                          "typeID": "Label",
-                          "zOrder": "1",
-                          "measuredW": "172",
-                          "measuredH": "28",
-                          "x": "79",
-                          "y": "12",
-                          "properties": {
-                            "color": "16777215",
-                            "size": "20",
-                            "text": "https://roadmap.sh"
-                          }
-                        }
-                      ]
-                    }
-                  }
-                }
-              ]
             }
           }
         }

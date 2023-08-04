@@ -1,12 +1,10 @@
 # Nuxt js
 
-Nuxt.js is an open-source development framework built on top of Node.js
-enabling Vue based web applications functionalities such as server-side
-rendering and generating static websites.
+Nuxt.js - это открытая разработка рамка на основе Node.js, позволяющая реализовывать функциональность веб-приложений на основе Vue, такую как серверный рендеринг и создание статических веб-сайтов.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://nuxtjs.org/)
-- [Official Docs for Getting Started](https://nuxtjs.org/docs/get-started)
-- [Mastering Nuxt.js](https://masteringnuxt.com/)
-- [Vue.js for Beginners - Full Course at freeCodeCamp YouTube Channel](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Официальный сайт Nuxt.js](https://nuxtjs.org/)
+- [Официальная документация для начинающих](https://nuxtjs.org/docs/get-started)
+- [Овладение Nuxt.js](https://masteringnuxt.com/)
+- [Vue.js для начинающих - Полный курс на канале freeCodeCamp YouTube](https://www.youtube.com/watch?v=FXpIoQ_rT_c)

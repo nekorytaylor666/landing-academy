@@ -2,7 +2,7 @@
 
 Serverless is an architecture in which a developer builds and runs applications without provisioning or managing servers. With cloud computing/serverless, servers exist but are managed by the cloud provider. Resources are used as they are needed, on demand and often using auto scaling.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Serverless](https://www.ibm.com/cloud/learn/serverless)
 - [AWS Services](https://aws.amazon.com/serverless/)

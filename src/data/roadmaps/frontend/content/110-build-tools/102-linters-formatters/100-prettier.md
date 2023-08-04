@@ -1,8 +1,8 @@
 # Prettier
 
-Prettier is an opinionated code formatter with support for JavaScript, HTML, CSS, YAML, Markdown, GraphQL Schemas. By far the biggest reason for adopting Prettier is to stop all the on-going debates over styles.
+Prettier - это предвзятый форматтер кода с поддержкой JavaScript, HTML, CSS, YAML, Markdown и GraphQL Schemas. Главная причина использования Prettier - это прекратить все дебаты по поводу стилей.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Prettier Website](https://prettier.io)
-- [Why Prettier](https://prettier.io/docs/en/why-prettier.html)
+- [Официальный веб-сайт и документация Prettier](https://prettier.io)
+- [Почему Prettier](https://prettier.io/docs/en/why-prettier.html)

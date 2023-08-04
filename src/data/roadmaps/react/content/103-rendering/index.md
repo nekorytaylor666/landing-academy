@@ -11,6 +11,6 @@ The virtual DOM (VDOM) is an important aspect of how React works. It is a lightw
 
 This process is known as reconciliation, and it is an important aspect of how React works. By using a declarative approach and a VDOM, React is able to optimize the rendering of components and improve the performance of web applications.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [React.js under the Hood](https://www.freecodecamp.org/news/react-under-the-hood/)

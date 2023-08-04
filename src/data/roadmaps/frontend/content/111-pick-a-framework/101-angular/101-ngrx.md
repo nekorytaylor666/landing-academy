@@ -1,9 +1,9 @@
 # NgRx
 
-NgRx is an open source library that provides reactive state management for your Angular applications
+NgRx - это библиотека с открытым исходным кодом, которая обеспечивает реактивное управление состоянием для ваших приложений Angular.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Documentation](https://ngrx.io/docs)
-- [Angular NgRx Redux Quick Start Tutorial](https://www.youtube.com/watch?v=2LCo926NFLI)
-- [NgRx Course](https://www.youtube.com/watch?v=nuHBHD32iw8)
+- [Официальная документация](https://ngrx.io/docs)
+- [Учебное руководство по быстрому старту NgRx Redux для Angular](https://www.youtube.com/watch?v=2LCo926NFLI)
+- [Курс по NgRx](https://www.youtube.com/watch?v=nuHBHD32iw8)

@@ -2,7 +2,7 @@
 
 Material-UI is an open-source framework that features React components that implement Google’s Material Design.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Official Website](https://mui.com/)
 - [Official Documentation](https://mui.com/getting-started/installation/)

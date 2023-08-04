@@ -4,7 +4,7 @@ Mining is the process of adding transaction details to the Blockchain, like send
 
 An Incentive is basically a reward given to a Blockchain Miner for speeding up the transactions and making correct decisions while processing the complete transaction securely.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Blockchain Incentives to Miners](https://www.geeksforgeeks.org/blockchain-incentives-to-miners/)
 - [Ethereum Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)

@@ -2,7 +2,7 @@
 
 Hash Table, Map, HashMap, Dictionary or Associative are all the names of the same data structure. It is one of the most commonly used data structures.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Hash Table | Illustrated Data Structures](https://www.youtube.com/watch?v=jalSiaIi8j4)
 - [Hash Table in 4 Minutes](https://youtu.be/knV86FlSXJ8)

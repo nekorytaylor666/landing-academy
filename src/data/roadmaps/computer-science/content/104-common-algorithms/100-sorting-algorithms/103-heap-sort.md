@@ -2,7 +2,7 @@
 
 Heap sort is a comparison based sorting algorithm. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for remaining element.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Heap Sort Algorithm](https://www.programiz.com/dsa/heap-sort)
 - [Heap Sort Algorithm - Geeks for Geeks](https://www.geeksforgeeks.org/heap-sort/)

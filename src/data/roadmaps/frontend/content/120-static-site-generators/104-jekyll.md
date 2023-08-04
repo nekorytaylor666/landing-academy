@@ -1,8 +1,8 @@
 # Jekyll
 
-Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
+Jekyll - это генератор статических сайтов. Он берет текст, написанный на вашем любимом языке разметки, и с помощью макетов создает статический веб-сайт. Вы можете настраивать внешний вид сайта, URL-адреса, отображаемые на странице данные и многое другое.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Jekyll Website](https://jekyllrb.com/)
-- [Jekyll Docs](https://jekyllrb.com/docs/)
+- [Официальный сайт Jekyll](https://jekyllrb.com/)
+- [Документация Jekyll](https://jekyllrb.com/docs/)

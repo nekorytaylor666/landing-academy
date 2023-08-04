@@ -1,10 +1,10 @@
 # JavaScript
 
-JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.
+JavaScript позволяет добавить интерактивность на вашу страницу. Обычные примеры, которые вы можете видеть на веб-сайтах, включают слайдеры, взаимодействия при клике, всплывающие окна и т. д.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)
-- [The Modern JavaScript Tutorial](https://javascript.info/)
-- [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
-- [Build a Netflix Landing Page Clone with HTML, CSS & JS](https://youtu.be/P7t13SGytRk?t=22)
+- [W3Schools – Учебник по JavaScript](https://www.w3schools.com/js/)
+- [Современное руководство по JavaScript](https://javascript.info/)
+- [Краткий курс по JavaScript для начинающих](https://youtu.be/hdI2bqOjy3c?t=2)
+- [Создание клонированной страницы запуска Netflix с использованием HTML, CSS и JS](https://youtu.be/P7t13SGytRk?t=22)

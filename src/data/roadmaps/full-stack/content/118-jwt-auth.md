@@ -1,12 +1,12 @@
 # JWT
 
-JWT stands for JSON Web Token is a token-based encryption open standard/methodology that is used to transfer information securely as a JSON object. Clients and Servers use JWT to securely share information, with the JWT containing encoded JSON objects and claims. JWT tokens are designed to be compact, safe to use within URLs, and ideal for SSO contexts.
+JWT означает JSON Web Token и представляет собой методологию/стандарт шифрования на основе токенов, который используется для безопасной передачи информации в формате JSON. Клиенты и серверы используют JWT для безопасного обмена информацией, где сам токен содержит закодированные JSON объекты и утверждения. Токены JWT спроектированы для компактности, безопасности использования в URL-адресах и идеально подходят для контекстов единой авторизации (SSO).
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [jwt.io Website](https://jwt.io/)
-- [Introduction to JSON Web Tokens](https://jwt.io/introduction)
-- [What is JWT?](https://www.akana.com/blog/what-is-jwt)
-- [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
-- [What is JWT? JSON Web Token Explained](https://www.youtube.com/watch?v=926mknSW9Lo)
-- [JWT Authentication Tutorial - Node.js](https://www.youtube.com/watch?v=mbsmsi7l3r4)
+- [jwt.io сайт](https://jwt.io/)
+- [Введение в JSON Web Tokens](https://jwt.io/introduction)
+- [Что такое JWT?](https://www.akana.com/blog/what-is-jwt)
+- [Что такое JWT и почему его нужно использовать](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+- [Что такое JWT? JSON Web Token объяснение](https://www.youtube.com/watch?v=926mknSW9Lo)
+- [Учебник по аутентификации с помощью JWT - Node.js](https://www.youtube.com/watch?v=mbsmsi7l3r4)

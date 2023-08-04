@@ -1,17 +1,17 @@
 # Performance Metrics
 
-Web performance metrics are quantitative measures of the performance of a web page or application. They are used to assess the speed and efficiency of a web page, and they can help identify areas for improvement. Some common web performance metrics include:
+Метрики производительности веб-страниц - это количественные показатели, используемые для оценки скорости и эффективности веб-страницы или приложения. Они используются для оценки времени загрузки страницы и ее отзывчивости, а также помогают выявить области для улучшений. Некоторые общие метрики производительности веб-страниц включают:
 
-- Load time: The time it takes for a web page to fully load and become interactive.
-- First contentful paint (FCP): The time it takes for the first content to appear on the page.
-- Time to interactive (TTI): The time it takes for the page to become fully interactive.
-- First input delay (FID): The time it takes for the page to respond to the first user input.
-- Total blocking time (TBT): The time it takes for the page to become fully interactive, taking into account the time spent blocking the main thread.
+- Время загрузки: Время, за которое веб-страница полностью загружается и становится интерактивной.
+- Первый рендеринг контента (FCP): Время, за которое появляется первый контент на странице.
+- Время до интерактивности (TTI): Время, за которое страница становится полностью интерактивной, позволяя пользователям взаимодействовать с ней без задержек.
+- Задержка первого ввода (FID): Время, за которое страница реагирует на первый пользовательский ввод, такой как нажатие кнопки или ввод данных в форму.
+- Общее время блокировки (TBT): Общее время, затраченное на задачи, блокирующие основной поток и мешающие полной интерактивности страницы.
 
-There are many tools and techniques available for measuring web performance metrics, including browser dev tools, performance monitoring tools, and web performance APIs. By tracking these metrics and analyzing the results, web developers can identify areas for improvement and optimize the performance of their web pages.
+Для измерения метрик производительности веб-страниц существует множество инструментов и техник, включая инструменты разработчика браузера, средства мониторинга производительности и веб-интерфейсы для производительности. Следя за этими метриками и анализируя результаты, веб-разработчики могут выявлять узкие места производительности и оптимизировать работу своих веб-страниц.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Web Performance Metrics - Google Developers](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics)
-- [Measuring performance and user experience - Google Developers](https://web.dev/metrics/)
-- [Measuring performance and user experience - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance)
+- [Измерение производительности и пользовательского опыта (user experience) - Google Developers](https://web.dev/metrics/)
+- [Измерение производительности и пользовательского опыта (user experience) - MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/Performance)

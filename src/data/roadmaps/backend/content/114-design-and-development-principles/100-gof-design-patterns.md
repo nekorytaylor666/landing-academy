@@ -6,7 +6,7 @@ Design patterns are typical solutions to commonly occurring problems in software
 - Structural Patterns to provide relationship between objects
 - Behavioral Patterns to help define how objects interact
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [GOF design patterns](https://springframework.guru/gang-of-four-design-patterns/)

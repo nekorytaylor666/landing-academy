@@ -1,7 +1,7 @@
 # SMACSS
 
-SMACSS (pronounced “smacks”) is more style guide than rigid framework. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
+SMACSS (произносится "смакс") - это скорее стилевой руководство, чем строгий фреймворк. SMACSS представляет собой способ рассмотреть ваш процесс проектирования и адаптировать жесткие фреймворки к гибкому мышлению. Это попытка документировать последовательный подход к разработке сайтов с использованием CSS.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [SMACSS Official Website](http://smacss.com/)
+- [Официальный сайт SMACSS](http://smacss.com/)

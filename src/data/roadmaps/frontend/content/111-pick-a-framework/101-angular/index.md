@@ -1,9 +1,9 @@
 # Angular
 
-Angular is a component based front-end development framework built on TypeScript which includes a collection of well-integrated libraries that include features like routing, forms management, client-server communication, and more.
+Angular - это фреймворк для разработки компонентов фронтенда, построенный на TypeScript, который включает в себя коллекцию хорошо интегрированных библиотек с функциями, такими как маршрутизация, управление формами, взаимодействие клиент-сервер и многое другое.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Visit Dedicated Angular Roadmap](/angular)
-- [Official - Getting started with Angular](https://angular.io/start)
-- [Angular for Beginners Course [Full Front End Tutorial with TypeScript]](https://www.youtube.com/watch?v=3qBXWUpoPHo)
+- [Посетите специальную дорожную карту Angular](/angular)
+- [Официальное - начало работы с Angular](https://angular.io/start)
+- [Курс Angular для начинающих [Полное руководство по фронтенду с TypeScript]](https://www.youtube.com/watch?v=3qBXWUpoPHo)

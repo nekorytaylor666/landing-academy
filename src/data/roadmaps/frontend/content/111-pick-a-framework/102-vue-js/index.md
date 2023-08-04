@@ -1,12 +1,12 @@
 # Vue.js
 
-Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. It is mainly focused on front end development.
+Vue.js - это JavaScript-фреймворк с открытым исходным кодом для создания пользовательских интерфейсов и одностраничных приложений. Он в основном ориентирован на разработку фронтенда.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Visit Dedicated Vue Roadmap](/vue)
-- [Vue.js Website](https://vuejs.org/)
-- [Official Getting Started](https://vuejs.org/v2/guide/)
-- [Vue.js Course for Beginners](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
-- [Vue.js Crash Course](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
-- [Meet Vue.js, the Flexible JavaScript Framework](https://thenewstack.io/meet-vue-js-flexible-javascript-framework/)
+- [Посетите специальную страницу с дорожной картой Vue](/vue)
+- [Vue.js веб-сайт](https://vuejs.org/)
+- [Официальное руководство для начинающих](https://vuejs.org/v2/guide/)
+- [Курс Vue.js для начинающих](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Краткий курс по Vue.js](https://www.youtube.com/watch?v=qZXt1Aom3Cs)
+- [Знакомство с Vue.js, гибким JavaScript-фреймворком](https://thenewstack.io/meet-vue-js-flexible-javascript-framework/)

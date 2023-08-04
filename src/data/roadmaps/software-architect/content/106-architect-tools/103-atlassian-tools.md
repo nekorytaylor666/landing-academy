@@ -37,7 +37,7 @@ Advanced Roadmaps is available as a standalone app for Jira Software Server and 
 
 Jira Align is an Enterprise Agile Planning platform that helps improve visibility, strategic alignment, and enterprise adaptability in order to accelerate your digital transformation.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Jira Service Desk](https://www.atlassian.com/software/jira/service-management/features/service-desk)
 - [Jira Core](https://www.atlassian.com/software/jira/work-management)

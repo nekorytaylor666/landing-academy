@@ -6,7 +6,7 @@ In an Argo CD workflow, changes to the application are made by committing code o
 
 Argo CD is designed to be a simple and efficient way to manage cloud-native applications, as it allows developers to make changes to the system using familiar tools and processes and it provides a clear and auditable history of all changes to the system. It is often used in conjunction with tools such as Helm to automate the deployment and management of cloud-native applications.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Argo CD - Argo Project](https://argoproj.github.io/docs/argo-cd/)
 - [ArgoCD Tutorial for Beginners](https://www.youtube.com/watch?v=meu5_k9ssrs&list=ply7nrywoggjxtn4ybsmyffdpaxb-fr4zc&index=6)

@@ -1,15 +1,15 @@
 # TypeScript
 
-TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
+TypeScript - это сильно типизированный язык программирования, основанный на JavaScript, который предоставляет лучшие инструменты для работы с любым масштабом проекта.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
-- [Official Website](https://www.typescriptlang.org/)
-- [Official Docs for Deep Dives](https://www.typescriptlang.org/docs/)
-- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [TypeScript Tutorial](https://www.tutorialspoint.com/typescript/index.htm)
-- [Scrimba — TypeScript Basics](https://scrimba.com/learn/typescript)
-- [TypeScript for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
-- [What Is TypeScript?](https://thenewstack.io/what-is-typescript/)
-- [TypeScript Tutorial: Go beyond ‘Hello, World!’](https://thenewstack.io/typescript-tutorial-go-beyond-hello-world/)
-- [TypeScript Tutorial: A Guide to Using the Programming Language](https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/)
+- [Официальный веб-сайт TypeScript](https://www.typescriptlang.org/)
+- [Официальная документация с глубокими исследованиями](https://www.typescriptlang.org/docs/)
+- [Руководство TypeScript](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [Учебник по TypeScript](https://www.tutorialspoint.com/typescript/index.htm)
+- [Scrimba - Основы TypeScript](https://scrimba.com/learn/typescript)
+- [TypeScript для начинающих](https://www.youtube.com/watch?v=BwuLxPH8IDs)
+- [Что такое TypeScript?](https://thenewstack.io/what-is-typescript/)
+- [Учебник по TypeScript: Продвинутый уровень](https://thenewstack.io/typescript-tutorial-go-beyond-hello-world/)
+- [Учебник по TypeScript: Пошаговое руководство по использованию](https://thenewstack.io/typescript-tutorial-a-guide-to-using-the-programming-language/)

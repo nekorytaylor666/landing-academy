@@ -7,7 +7,7 @@ Solidity is an object-oriented programming language created specifically by Ethe
 
 Like any other programming languages, Solidity also has variables, functions, classes, arithmetic operations, string manipulation, and many more.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Solidity Programming Language](https://soliditylang.org/)
 - [Solidity Tutorial](https://www.tutorialspoint.com/solidity/index.htm)

@@ -22,7 +22,7 @@ switch (expression) {
 }
 ```
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [switch - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
 - [The `switch` Statement: Why, What and How - CodeGuage](https://www.codeguage.com/courses/js/conditions-switch)

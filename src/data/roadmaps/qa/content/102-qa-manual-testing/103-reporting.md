@@ -2,7 +2,7 @@
 
 Communicating the QA and testing team outputs can be interpreted in several different ways. Having a solid reporting stream is very essential for all the decisions that a stakeholder/manager can take.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Defect Management Process in Software Testing](https://www.guru99.com/defect-management-process.html)
 - [Writing clear bug reports](https://automationhacks.io/2020/07/25/writing-clear-bug-reports/)

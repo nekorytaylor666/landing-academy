@@ -4,7 +4,7 @@ The most common way for frontend programs to communicate with servers is through
 
 Axios is a client HTTP API based on the XMLHttpRequest interface provided by browsers.
 
-Visit the following resources to learn more:
+Для получения дополнительной информации посетите следующие ресурсы:
 
 - [Axios Getting Started](https://axios-http.com/docs/intro)
 - [How To Use Axios With React: The Definitive Guide](https://www.freecodecamp.org/news/how-to-use-axios-with-react/)
