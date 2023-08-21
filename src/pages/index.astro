@@ -4,10 +4,19 @@ import FeaturedGuides from '../components/FeaturedGuides.astro';
 import FeaturedItems from '../components/FeaturedItems/FeaturedItems.astro';
 import HeroSection from '../components/HeroSection/HeroSection.astro';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import '../styles/gefest-layout.css';
 import { getAllBestPractices } from '../lib/best-pratice';
 import { getAllGuides } from '../lib/guide';
 import { getRoadmapsByTag } from '../lib/roadmap';
 import { getAllVideos } from '../lib/video';
+import GefestLayout from '../layouts/GefestLayout.astro';
+import twitter from "/images/twitter.svg";
+import instagram from "/images/instagram.svg";
+import github from "/images/github.svg";
+import logo from "/images/logo.jpg"
+import where_it_salary from "/images/where-it-salary.png";
+import salary from "/images/salary.png";
+import programmer from "/images/programmer.png";
 
 const roleRoadmaps = await getRoadmapsByTag('lead-magnet');
 const skillRoadmaps = await getRoadmapsByTag('skill-roadmap');
@@ -17,37 +26,126 @@ const guides = await getAllGuides();
 const videos = await getAllVideos();
 ---
 
-<BaseLayout
-  title='Developer Roadmaps - roadmap.sh'
-  description={'Community driven roadmaps, articles and guides for developers to grow in their career.'}
+<GefestLayout
+  title='Гефест академия'
+  description={'Гефест академия'}
   permalink={'/'}
 >
-  <div class='bg-gradient-to-b from-slate-900 to-black'>
-    <HeroSection />
-
-    <FeaturedItems
-      heading='Бесплатные карты профессий'
-      featuredItems={roleRoadmaps.map((roadmapItem) => ({
-        text: roadmapItem.frontmatter.briefTitle,
-        url: `/${roadmapItem.id}`,
-        isNew: roadmapItem.frontmatter.isNew,
-        isUpcoming: roadmapItem.frontmatter.isUpcoming,
-      }))}
-    />
-
-    <!-- <FeaturedItems
-      heading='Best Practices'
-      featuredItems={bestPractices.map((bestPractice) => ({
-        text: bestPractice.frontmatter.briefTitle,
-        url: `/best-practices/${bestPractice.id}`,
-        isNew: bestPractice.frontmatter.isNew,
-        isUpcoming: bestPractice.frontmatter.isUpcoming,
-      }))}
-    /> -->
-
-    <!-- <div class='grid grid-cols-1 gap-7 bg-gray-50 py-7 sm:gap-16 sm:py-16'>
-      <FeaturedGuides heading='Guides' guides={guides.slice(0, 7)} />
-      <FeaturedVideos heading='Videos' videos={videos.slice(0, 7)} />
-    </div> -->
+  <!-- <div class="bg-[#F2F5F8] w-full flex justify-center"> -->
+  <div class="header">
+    <div class="header-links">
+      <a href="/" class="text-base-inter-bold text-28">
+        Гефест Академия
+      </a>
+    </div>
   </div>
-</BaseLayout>
+
+  <div class="salary-container">
+    <div class="salary">
+      <div class="salary-images">
+        <img 
+          src={programmer}
+          class="programmer-image"
+        />
+        <img
+          class="salary-image" 
+          src={salary}
+        />
+      </div>
+      <div class="flex flex-col gap-12">
+        <h1 class="how-they-make-money">
+          Как программисты зарабатывают до 
+          <span>2.500.000 тг</span>
+          в месяц?
+        </h1>
+        <a 
+          href="#test"
+          class="take-test-see white bold "
+        >
+          Пройди тест и узнай
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div id="test" class="take-test">
+    <div class="take-test-container">
+      <h2 class="w-2/5 base-inter bold text-48">Пройди тест и узнай</h2>
+      <div class="flex w-2/5 gap-[54px]">
+        <div class="w-1/3 flex flex-col gap-7">
+          <img class="w-img h-img" src=""/>
+          <div class="flex flex-col gap-4">
+            <h4 class="text-24 base-inter bold">Подойдет ли тебе IT?</h4>
+            <p class="base-inter">Готовы к IT? Пройди наш тест и выясни!</p>
+          </div>
+        </div>
+        <div class="w-1/3 flex flex-col gap-7">
+          <img class="w-img h-img" src=""/>
+          <div class="flex flex-col gap-4">
+            <h4 class="text-24 base-inter bold">Время до результата</h4>
+            <p class="base-inter">Создай свой первый сайт уже через месяц!</p>
+          </div>
+        </div>
+        <div class="w-1/3 flex flex-col gap-7">
+          <img class="w-img h-img" src=""/>
+          <div class="flex flex-col gap-4">
+            <h4 class="text-24 base-inter bold">Сложности в пути</h4>
+            <p class="base-inter">Подготовься к вызовам и покори с нашей поддержкой</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="high-salaries">
+    <div class="high-salaries-container">
+      <div class="flex flex-col gap-12">
+        <h3 class="text-[32px] base-inter-white bold max-w-xl">
+          Где в 
+          <span class="text-[#29d08a]">АйТи высокие зарплаты</span>
+          и ссылки на бесплатные курсы и материалы по ним
+        </h3>
+        <div class="flex gap-16">
+          <div class="flex flex-col">
+            <p class="space-grotesk bold text-[48px]">6</p>
+            <p class="space-grotesk text-[16px]">IT Профессий</p>
+          </div>
+          <div class="flex flex-col">
+            <p class="space-grotesk bold text-[48px]">20+</p>
+            <p class="space-grotesk text-[16px]">Ресурсов для изучения</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <img
+      src={where_it_salary}
+      class="it-salary-img"
+    />
+  </div>
+  <div class="footer">
+    <div class="footer-container">
+      <div class="flex flex-col gap-16">
+        <div class="flex">
+          <img src={github}/>
+          <h3 class="text-28 text-white">Гефест</h3>
+        </div>
+        <div class="flex flex-col gap-6">
+          <div class="flex gap-2.5">
+            <a href="">
+              <img src={twitter}/>
+            </a>
+            <a href="">
+              <img src={instagram} class="w-[15px] h-[15px]"/>
+            </a>
+            <a href="">
+              <img src={github}/>
+            </a>
+          </div>
+          <p class="copyright">
+            Copyright © 2023 Gefest. All Rights Reserved
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</GefestLayout>

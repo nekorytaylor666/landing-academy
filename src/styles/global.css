@@ -4,9 +4,37 @@
 
 @layer components {
   .container {
-    @apply mx-auto max-w-[830px] px-4;
+    /* @apply mx-auto max-w-[830px] px-4; */
   }
 
+  .base-inter {
+    font-family: 'Inter';
+    color: #171A1E;
+  }
+
+  .base-inter-white {
+    font-family: 'Inter';
+    color: #FFF;
+  }
+
+  .bold {
+    font-weight: 700;
+  }
+
+  .space-grotesk {
+    font-family: 'Space Grotesk';
+    font-weight: 500;
+    color: #DEE3E7;
+  }
+  .white {
+    color: #fff;
+  }
+  .copyright {
+    color: #E2E7EC;
+    font-size: 14px;
+    font-family: 'Inter';
+    max-width: 207px;
+  }
   /* Chrome, Safari and Opera */
   .no-scrollbar::-webkit-scrollbar {
     display: none;
@@ -16,6 +44,16 @@
     -ms-overflow-style: none; /* IE and Edge */
     scrollbar-width: none; /* Firefox */
   }
+}
+
+
+body.main-body {
+  font-family: 'Inter';
+}
+
+html, body {
+  height: 100%;
+  overflow-x: hidden;
 }
 
 svg {

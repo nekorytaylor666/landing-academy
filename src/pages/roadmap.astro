@@ -1,0 +1,53 @@
+---
+import FeaturedVideos from '../components/FeaturedVideos.astro';
+import FeaturedGuides from '../components/FeaturedGuides.astro';
+import FeaturedItems from '../components/FeaturedItems/FeaturedItems.astro';
+import HeroSection from '../components/HeroSection/HeroSection.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getAllBestPractices } from '../lib/best-pratice';
+import { getAllGuides } from '../lib/guide';
+import { getRoadmapsByTag } from '../lib/roadmap';
+import { getAllVideos } from '../lib/video';
+import GefestLayout from '../layouts/GefestLayout.astro';
+
+const roleRoadmaps = await getRoadmapsByTag('lead-magnet');
+const skillRoadmaps = await getRoadmapsByTag('skill-roadmap');
+const bestPractices = await getAllBestPractices();
+
+const guides = await getAllGuides();
+const videos = await getAllVideos();
+---
+
+<BaseLayout
+  title='Developer Roadmaps - roadmap.sh'
+  description={'Community driven roadmaps, articles and guides for developers to grow in their career.'}
+>
+  <div class='bg-gradient-to-b from-slate-900 to-black h-full'>
+    <HeroSection />
+
+    <FeaturedItems
+      heading='Бесплатные карты профессий'
+      featuredItems={roleRoadmaps.map((roadmapItem) => ({
+        text: roadmapItem.frontmatter.briefTitle,
+        url: `/${roadmapItem.id}`,
+        isNew: roadmapItem.frontmatter.isNew,
+        isUpcoming: roadmapItem.frontmatter.isUpcoming,
+      }))}
+    />
+
+    <!-- <FeaturedItems
+      heading='Best Practices'
+      featuredItems={bestPractices.map((bestPractice) => ({
+        text: bestPractice.frontmatter.briefTitle,
+        url: `/best-practices/${bestPractice.id}`,
+        isNew: bestPractice.frontmatter.isNew,
+        isUpcoming: bestPractice.frontmatter.isUpcoming,
+      }))}
+    /> -->
+
+    <!-- <div class='grid grid-cols-1 gap-7 bg-gray-50 py-7 sm:gap-16 sm:py-16'>
+      <FeaturedGuides heading='Guides' guides={guides.slice(0, 7)} />
+      <FeaturedVideos heading='Videos' videos={videos.slice(0, 7)} />
+    </div> -->
+  </div>
+</BaseLayout>

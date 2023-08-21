@@ -1,16 +1,7 @@
 ---
-import Analytics from '../components/Analytics/Analytics.astro';
-import LoginPopup from '../components/AuthenticationFlow/LoginPopup.astro';
-import Authenticator from '../components/Authenticator/Authenticator.astro';
-import { CommandMenu } from '../components/CommandMenu/CommandMenu';
-import Footer from '../components/Footer.astro';
-import Navigation from '../components/Navigation/Navigation.astro';
-import OpenSourceBanner from '../components/OpenSourceBanner.astro';
-import { PageProgress } from '../components/PageProgress';
-import { Toaster } from '../components/Toast';
-import { PageSponsor } from '../components/PageSponsor';
 import { siteConfig } from '../lib/config';
 import '../styles/global.css';
+
 
 export interface Props {
   title: string;
@@ -27,6 +18,7 @@ export interface Props {
   jsonLd?: Record<string, unknown>[];
 }
 
+
 const {
   title = siteConfig.title,
   briefTitle,
@@ -41,26 +33,14 @@ const {
   initialLoadingMessage = '',
 } = Astro.props;
 
-// Remove trailing slashes to consider the page as canonical
-const currentPageAbsoluteUrl = `https://roadmap.sh${permalink}`;
-const canonicalUrl = givenCanonical || currentPageAbsoluteUrl;
-const commitUrl = `https://github.com/kamranahmedse/developer-roadmap/commit/${
-  import.meta.env.GITHUB_SHA
-}`;
 
-// e.g. frontend:react or best-practices:frontend-performance
-const gaPageIdentifier = Astro.url.pathname
-  .replace(/^\//, '')
-  .replace(/\/$/, '')
-  .replace(/\//g, ':');
 ---
-
 <!DOCTYPE html>
 <html lang='en'>
   <head>
     <meta charset='UTF-8' />
     <meta name='generator' content={Astro.generator} />
-    <meta name='commit' content={commitUrl} />
+    <!-- <meta name='commit' content={commitUrl} /> -->
     <title>{title}</title>
     <meta name='description' content={description} />
     <meta name='author' content='Kamran Ahmed' />
@@ -82,15 +62,15 @@ const gaPageIdentifier = Astro.url.pathname
 
     <meta property='og:image:width' content='1200' />
     <meta property='og:image:height' content='630' />
-    <meta property='og:image' content={ogImageUrl || 'https://roadmap.sh/images/og-img.png'} />
+    <!-- <meta property='og:image' content={ogImageUrl || 'https://roadmap.sh/images/og-img.png'} /> -->
     <meta property='og:image:alt' content='roadmap.sh' />
     <meta property='og:site_name' content='roadmap.sh' />
     <meta property='og:title' content={title} />
     <meta property='og:description' content={description} />
     <meta property='og:type' content='website' />
-    <meta property='og:url' content={currentPageAbsoluteUrl} />
+    <!-- <meta property='og:url' content={currentPageAbsoluteUrl} /> -->
 
-    <link rel='canonical' href={canonicalUrl} />
+    <!-- <link rel='canonical' href={canonicalUrl} /> -->
 
     <meta name='mobile-web-app-capable' content='yes' />
     <meta name='apple-mobile-web-app-capable' content='yes' />
@@ -114,13 +94,13 @@ const gaPageIdentifier = Astro.url.pathname
       rel='icon'
       type='image/png'
       sizes='32x32'
-      href='/manifest/icon32.png'
+      href='/images/logo.jpg'
     />
     <link
       rel='icon'
       type='image/png'
       sizes='16x16'
-      href='/manifest/icon16.png'
+      href='/images/logo.jpg'
     />
     <link
       rel='shortcut icon'
@@ -139,33 +119,11 @@ const gaPageIdentifier = Astro.url.pathname
         <script type='application/ld+json' set:html={JSON.stringify(jsonLd)} />
       )
     }
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;700&family=Playfair+Display:wght@500&family=Poppins:wght@700&family=Raleway:wght@500&family=Roboto:wght@500&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
   </head>
-  <body>
-    <!-- <slot name='page-header'>
-      <Navigation />
-    </slot> -->
-
-    <slot />
-
-    <!-- <slot name='page-footer'>
-      <OpenSourceBanner />
-      <Footer />
-    </slot> -->
-
-    <Authenticator />
-    <slot name="login-popup">
-      <LoginPopup />
-    </slot>
-    <Toaster client:only />
-    <CommandMenu client:idle />
-    <PageProgress initialMessage={initialLoadingMessage} client:idle />
-    <PageSponsor
-      gaPageIdentifier={briefTitle || gaPageIdentifier}
-      client:load
-    />
-
-    <slot name='after-footer' />
-
-    <Analytics />
+  <body class="main-body">
+    <slot/>
   </body>
 </html>
