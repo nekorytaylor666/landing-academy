@@ -491,85 +491,6 @@
           }
         },
         {
-          "ID": "1754",
-          "typeID": "__group__",
-          "zOrder": "13",
-          "measuredW": "221",
-          "measuredH": "50",
-          "w": "221",
-          "h": "50",
-          "x": "464",
-          "y": "3247",
-          "properties": {
-            "controlName": "123-bonus-content"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "210",
-                  "h": "50",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "11",
-                  "y": "0",
-                  "properties": {
-                    "color": "16776960"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "measuredW": "115",
-                  "measuredH": "25",
-                  "x": "58",
-                  "y": "12",
-                  "properties": {
-                    "size": "17",
-                    "text": "Бонус Контент"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "13",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "0",
-                  "y": "13",
-                  "properties": {
-                    "color": "10066329",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
           "ID": "1755",
           "typeID": "__group__",
           "zOrder": "14",
@@ -1498,11 +1419,11 @@
                   "zOrder": "1",
                   "measuredW": "176",
                   "measuredH": "25",
-                  "x": "25",
+                  "x": "13",
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Linters and Formatters"
+                    "text": "Линтеры и Форматтеры"
                   }
                 }
               ]
@@ -3904,11 +3825,11 @@
                   "w": "228",
                   "measuredW": "219",
                   "measuredH": "25",
-                  "x": "43",
+                  "x": "15",
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Синтаксис и основные конструкции"
+                    "text": "Синтаксис, основные конструкции"
                   }
                 },
                 {
@@ -3984,7 +3905,7 @@
                   "w": "197",
                   "measuredW": "193",
                   "measuredH": "25",
-                  "x": "59",
+                  "x": "40",
                   "y": "13",
                   "properties": {
                     "size": "17",
@@ -5192,7 +5113,7 @@
                   "ID": "0",
                   "typeID": "TextArea",
                   "zOrder": "0",
-                  "w": "352",
+                  "w": "412",
                   "h": "78",
                   "measuredW": "200",
                   "measuredH": "140",
@@ -5269,10 +5190,10 @@
                   "zOrder": "1",
                   "measuredW": "186",
                   "measuredH": "25",
-                  "x": "75",
+                  "x": "12",
                   "y": "15",
                   "properties": {
-                    "text": "Системы контроля версий",
+                    "text": "Системы контроля версий. Что это и ",
                     "size": "17"
                   }
                 },
@@ -5283,11 +5204,11 @@
                   "w": "292",
                   "measuredW": "285",
                   "measuredH": "23",
-                  "x": "19",
+                  "x": "39",
                   "y": "40",
                   "properties": {
                     "size": "15",
-                    "text": "Что это и почему вы должны это использовать"
+                    "text": "почему вы должны это использовать"
                   }
                 }
               ]
@@ -5330,7 +5251,7 @@
                   "zOrder": "1",
                   "measuredW": "149",
                   "measuredH": "25",
-                  "x": "31",
+                  "x": "14",
                   "y": "14",
                   "properties": {
                     "text": "Пакетные менеджеры",
@@ -6042,10 +5963,10 @@
                   "zOrder": "1",
                   "measuredW": "175",
                   "measuredH": "25",
-                  "x": "41",
+                  "x": "11",
                   "y": "12",
                   "properties": {
-                    "text": "Политика безопасности контента",
+                    "text": "Политика безопас. контента",
                     "size": "17"
                   }
                 }
@@ -6089,7 +6010,7 @@
                   "zOrder": "1",
                   "measuredW": "169",
                   "measuredH": "25",
-                  "x": "44",
+                  "x": "14",
                   "y": "12",
                   "properties": {
                     "text": "Риски безопасности OWASP",
@@ -7357,7 +7278,7 @@
                   "w": "142",
                   "measuredW": "136",
                   "measuredH": "25",
-                  "x": "36",
+                  "x": "22",
                   "y": "14",
                   "properties": {
                     "size": "17",
@@ -8767,7 +8688,7 @@
                   "ID": "0",
                   "typeID": "TextArea",
                   "zOrder": "0",
-                  "w": "335",
+                  "w": "355",
                   "h": "137",
                   "measuredW": "200",
                   "measuredH": "140",
@@ -8783,7 +8704,7 @@
                   "zOrder": "1",
                   "measuredW": "150",
                   "measuredH": "24",
-                  "x": "148",
+                  "x": "138",
                   "y": "17",
                   "properties": {
                     "size": "16",
@@ -8796,7 +8717,7 @@
                   "zOrder": "2",
                   "measuredW": "145",
                   "measuredH": "24",
-                  "x": "148",
+                  "x": "138",
                   "y": "44",
                   "properties": {
                     "size": "16",
@@ -8809,7 +8730,7 @@
                   "zOrder": "3",
                   "measuredW": "99",
                   "measuredH": "24",
-                  "x": "148",
+                  "x": "138",
                   "y": "71",
                   "properties": {
                     "size": "16",
@@ -8822,7 +8743,7 @@
                   "zOrder": "4",
                   "measuredW": "166",
                   "measuredH": "24",
-                  "x": "148",
+                  "x": "138",
                   "y": "98",
                   "properties": {
                     "size": "16",
@@ -8841,7 +8762,7 @@
           "measuredH": "52",
           "w": "127",
           "h": "52",
-          "x": "211",
+          "x": "202",
           "y": "2096",
           "properties": {
             "controlName": "100-css-frameworks:css-first:bootstrap"
@@ -8889,7 +8810,7 @@
           "measuredH": "49",
           "w": "127",
           "h": "49",
-          "x": "211",
+          "x": "202",
           "y": "2153",
           "properties": {
             "controlName": "101-css-frameworks:css-first:bulma"
@@ -8977,7 +8898,7 @@
                   "w": "155",
                   "measuredW": "155",
                   "measuredH": "24",
-                  "x": "477",
+                  "x": "465",
                   "y": "230",
                   "properties": {
                     "text": "помощью этих инструментов.",
@@ -9004,7 +8925,7 @@
                   "zOrder": "4",
                   "measuredW": "144",
                   "measuredH": "26",
-                  "x": "125",
+                  "x": "95",
                   "y": "137",
                   "properties": {
                     "size": "18",
@@ -9018,11 +8939,11 @@
                   "w": "349",
                   "measuredW": "328",
                   "measuredH": "25",
-                  "x": "22",
+                  "x": "11",
                   "y": "204",
                   "properties": {
                     "size": "17",
-                    "text": "и {color:blue}Functional{color} тестирования и научитесь как их"
+                    "text": "{color:blue}Functional{color} тестирования и научитесь как их"
                   }
                 },
                 {
@@ -9032,7 +8953,7 @@
                   "w": "302",
                   "measuredW": "286",
                   "measuredH": "25",
-                  "x": "21",
+                  "x": "11",
                   "y": "233",
                   "properties": {
                     "size": "17",
@@ -9046,11 +8967,11 @@
                   "w": "362",
                   "measuredW": "361",
                   "measuredH": "25",
-                  "x": "21",
+                  "x": "11",
                   "y": "174",
                   "properties": {
                     "size": "17",
-                    "text": "Познайте разницу между {color:blue}Unit{color}, {color:blue}Integration{color}, "
+                    "text": "Познайте разницу между {color:blue}Unit{color}, {color:blue}Integration{color}, и"
                   }
                 }
               ]
@@ -9885,7 +9806,7 @@
           "w": "148",
           "measuredW": "143",
           "measuredH": "25",
-          "x": "205",
+          "x": "195",
           "y": "2766",
           "properties": {
             "size": "17",
@@ -10158,7 +10079,7 @@
           "w": "185",
           "measuredW": "176",
           "measuredH": "25",
-          "x": "455",
+          "x": "440",
           "y": "2669",
           "properties": {
             "size": "17",
@@ -10869,7 +10790,7 @@
                   "w": "169",
                   "measuredW": "150",
                   "measuredH": "25",
-                  "x": "20",
+                  "x": "10",
                   "y": "22",
                   "properties": {
                     "size": "17",
@@ -13231,11 +13152,11 @@
                   "zOrder": "4",
                   "measuredW": "353",
                   "measuredH": "25",
-                  "x": "34",
+                  "x": "14",
                   "y": "46",
                   "properties": {
                     "size": "17",
-                    "text": "JWT, OAuth, SSO, Basic Auth, Session Auth итд"
+                    "text": "JWT, OAuth, SSO, Basic Auth, Session Auth,.."
                   }
                 }
               ]
@@ -13936,130 +13857,12 @@
                   "zOrder": "1",
                   "measuredW": "216",
                   "measuredH": "25",
-                  "x": "23",
+                  "x": "15",
                   "y": "11",
                   "properties": {
                     "size": "17",
                     "text": "Performance Best Practices",
                     "color": "16777215"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "2013",
-          "typeID": "TextArea",
-          "zOrder": "256",
-          "w": "438",
-          "h": "118",
-          "measuredW": "200",
-          "measuredH": "140",
-          "x": "391",
-          "y": "3403"
-        },
-        {
-          "ID": "2014",
-          "typeID": "Label",
-          "zOrder": "257",
-          "measuredW": "366",
-          "measuredH": "25",
-          "x": "427",
-          "y": "3422",
-          "properties": {
-            "size": "17",
-            "text": "Continue Learning with following relevant tracks"
-          }
-        },
-        {
-          "ID": "2015",
-          "typeID": "__group__",
-          "zOrder": "258",
-          "measuredW": "198",
-          "measuredH": "44",
-          "w": "198",
-          "h": "44",
-          "x": "614",
-          "y": "3459",
-          "properties": {
-            "controlName": "ext_link:roadmap.sh/nodejs"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "198",
-                  "h": "44",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "measuredW": "137",
-                  "measuredH": "25",
-                  "x": "30",
-                  "y": "9",
-                  "properties": {
-                    "size": "17",
-                    "text": "Node.js Roadmap"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "2016",
-          "typeID": "__group__",
-          "zOrder": "259",
-          "measuredW": "198",
-          "measuredH": "44",
-          "w": "198",
-          "h": "44",
-          "x": "406",
-          "y": "3459",
-          "properties": {
-            "controlName": "ext_link:roadmap.sh/typescript"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "198",
-                  "h": "44",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "0",
-                  "y": "0",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "measuredW": "160",
-                  "measuredH": "25",
-                  "x": "21",
-                  "y": "9",
-                  "properties": {
-                    "size": "17",
-                    "text": "TypeScript Roadmap"
                   }
                 }
               ]

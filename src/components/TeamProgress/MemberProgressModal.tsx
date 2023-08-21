@@ -89,7 +89,7 @@ export function MemberProgressModal(props: ProgressMapProps) {
     const res = await fetch(jsonUrl);
     const json = await res.json();
     const svg = await wireframeJSONToSVG(json, {
-      fontURL: '/fonts/balsamiq.woff2',
+      fontURL: '/fonts/virgil.woff2',
     });
 
     containerEl.current?.replaceChildren(svg);
