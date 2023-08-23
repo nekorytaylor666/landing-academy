@@ -33,7 +33,7 @@
 .programmer-image {
   border-radius: 10px;
   width: 700px;
-  height: 467px;
+  height: 550px;
 }
 .salary-image {
   position: absolute;
@@ -79,6 +79,7 @@
   width: 80%;
   display: flex;
   justify-content: center;
+  gap: 10%;
 }
 
 .high-salaries {
@@ -100,6 +101,54 @@
   top: 15%;
   width: 60%;
   border-radius: 25px;
+}
+
+.test-container {
+  width: 100%;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.test-main {
+  width: 45%;
+}
+
+.stepper {
+  display: flex;
+  padding: 10px 0;
+}
+
+.input-test {
+  width: 100%;
+  height: 36px;
+  margin-top: 15px;
+  padding: 0px 10px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, rgba(61, 59, 53, 0.16) 0px 0px 0px 1px, rgba(61, 59, 53, 0.08) 0px 2px 5px 0px;
+  border: 0px;
+  border-radius: 5px;
+  outline: none;
+  background-color: rgb(255, 255, 255);
+  color: rgb(55, 53, 47);
+  caret-color: rgb(55, 53, 47);
+}
+
+.next {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  padding: 0px 12px;
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 30px;
+  background: rgb(0, 0, 0);
+  outline: none;
+  transition: color 100ms ease-in 0s;
+  text-align: left;
+  color: rgb(255, 255, 255)
 }
 
 .footer {

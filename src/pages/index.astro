@@ -1,9 +1,5 @@
 ---
-import FeaturedVideos from '../components/FeaturedVideos.astro';
-import FeaturedGuides from '../components/FeaturedGuides.astro';
-import FeaturedItems from '../components/FeaturedItems/FeaturedItems.astro';
-import HeroSection from '../components/HeroSection/HeroSection.astro';
-import BaseLayout from '../layouts/BaseLayout.astro';
+
 import '../styles/gefest-layout.css';
 import { getAllBestPractices } from '../lib/best-pratice';
 import { getAllGuides } from '../lib/guide';
@@ -31,7 +27,6 @@ const videos = await getAllVideos();
   description={'Гефест академия'}
   permalink={'/'}
 >
-  <!-- <div class="bg-[#F2F5F8] w-full flex justify-center"> -->
   <div class="header">
     <div class="header-links">
       <a href="/" class="text-base-inter-bold text-28">
@@ -70,27 +65,27 @@ const videos = await getAllVideos();
 
   <div id="test" class="take-test">
     <div class="take-test-container">
-      <h2 class="w-2/5 base-inter bold text-48">Пройди тест и узнай</h2>
+      <h2 class="base-inter bold text-[54px]">Пройди тест и узнай</h2>
       <div class="flex w-2/5 gap-[54px]">
         <div class="w-1/3 flex flex-col gap-7">
           <img class="w-img h-img" src=""/>
           <div class="flex flex-col gap-4">
-            <h4 class="text-24 base-inter bold">Подойдет ли тебе IT?</h4>
-            <p class="base-inter">Готовы к IT? Пройди наш тест и выясни!</p>
+            <h4 class="text-24 base-inter bold text-[24px]">Подойдет ли тебе IT?</h4>
+            <p class="base-inter text-[16px]">Готовы к IT? Пройди наш тест и выясни!</p>
           </div>
         </div>
         <div class="w-1/3 flex flex-col gap-7">
           <img class="w-img h-img" src=""/>
           <div class="flex flex-col gap-4">
-            <h4 class="text-24 base-inter bold">Время до результата</h4>
-            <p class="base-inter">Создай свой первый сайт уже через месяц!</p>
+            <h4 class="text-24 base-inter bold text-[24px]">Время до результата</h4>
+            <p class="base-inter text-[16px]">Создай свой первый сайт уже через месяц!</p>
           </div>
         </div>
         <div class="w-1/3 flex flex-col gap-7">
           <img class="w-img h-img" src=""/>
           <div class="flex flex-col gap-4">
-            <h4 class="text-24 base-inter bold">Сложности в пути</h4>
-            <p class="base-inter">Подготовься к вызовам и покори с нашей поддержкой</p>
+            <h4 class="text-24 base-inter bold text-[24px]">Сложности в пути</h4>
+            <p class="base-inter text-[16px]">Подготовься к вызовам и покори с нашей поддержкой</p>
           </div>
         </div>
       </div>
@@ -122,6 +117,32 @@ const videos = await getAllVideos();
       class="it-salary-img"
     />
   </div>
+
+  <div class="test-container">
+    <div class="test-main">
+      <h2 class="text-[48px] text-center font-bold">
+        А вот и тест :)<br/>
+        Ждем вас в сообществе <strong class="text-[#29D08A]">Гефест</strong>!
+      </h2>
+      <div class="">
+        <!-- {} -->
+        <div class="stepper">
+          {Array(7).fill(0).map((i) => <div class="step-line"></div>)}
+        </div>
+        <div class="">
+          <label class="text-[22px]">
+            Как к вам обращаться?<br/>
+          </label>
+          <input
+            type="text"
+            class="input-test"
+          />
+          <button class="next">Дальше</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div class="footer">
     <div class="footer-container">
       <div class="flex flex-col gap-16">
