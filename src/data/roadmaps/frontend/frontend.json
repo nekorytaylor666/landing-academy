@@ -3016,7 +3016,7 @@
                   "y": "0",
                   "properties": {
                     "size": "32",
-                    "text": "Front-end"
+                    "text": "Фронтенд"
                   }
                 }
               ]
@@ -5679,7 +5679,7 @@
                   "y": "21",
                   "properties": {
                     "size": "16",
-                    "text": "Personal Recommendation / Opinion"
+                    "text": "Рекомендация"
                   }
                 },
                 {
@@ -5692,7 +5692,7 @@
                   "y": "118",
                   "properties": {
                     "size": "16",
-                    "text": "I wouldn't recommend"
+                    "text": "Не рекомендую"
                   }
                 },
                 {
@@ -5722,7 +5722,7 @@
                   "y": "86",
                   "properties": {
                     "size": "16",
-                    "text": "Order in roadmap not strict (Learn anytime)"
+                    "text": "Не важен порядок (Учите в любое время)"
                   }
                 },
                 {
@@ -5767,7 +5767,7 @@
                   "y": "54",
                   "properties": {
                     "size": "16",
-                    "text": "Alternative Option - Pick this or purple"
+                    "text": "Альтернативный вариант"
                   }
                 },
                 {
@@ -13863,144 +13863,6 @@
                     "size": "17",
                     "text": "Performance Best Practices",
                     "color": "16777215"
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "2017",
-          "typeID": "__group__",
-          "zOrder": "99",
-          "measuredW": "324",
-          "measuredH": "195",
-          "w": "324",
-          "h": "195",
-          "x": "993",
-          "y": "191",
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "Canvas",
-                  "zOrder": "0",
-                  "w": "324",
-                  "h": "195",
-                  "measuredW": "100",
-                  "measuredH": "70",
-                  "x": "0",
-                  "y": "0"
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "measuredW": "283",
-                  "measuredH": "26",
-                  "x": "18",
-                  "y": "19",
-                  "properties": {
-                    "size": "18",
-                    "text": "For resources and other roadmaps"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "__group__",
-                  "zOrder": "2",
-                  "measuredW": "172",
-                  "measuredH": "28",
-                  "w": "172",
-                  "h": "28",
-                  "x": "18",
-                  "y": "52",
-                  "properties": {
-                    "controlName": "ext_link:roadmap.sh"
-                  },
-                  "children": {
-                    "controls": {
-                      "control": [
-                        {
-                          "ID": "2",
-                          "typeID": "Label",
-                          "zOrder": "0",
-                          "measuredW": "172",
-                          "measuredH": "28",
-                          "x": "0",
-                          "y": "0",
-                          "properties": {
-                            "size": "20",
-                            "text": "https://roadmap.sh",
-                            "color": "10027263"
-                          }
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "__group__",
-                  "zOrder": "3",
-                  "measuredW": "282",
-                  "measuredH": "47",
-                  "w": "282",
-                  "h": "47",
-                  "x": "18",
-                  "y": "127",
-                  "properties": {
-                    "controlName": "json:frontend-beginner.json"
-                  },
-                  "children": {
-                    "controls": {
-                      "control": [
-                        {
-                          "ID": "0",
-                          "typeID": "Canvas",
-                          "zOrder": "0",
-                          "w": "282",
-                          "h": "47",
-                          "measuredW": "100",
-                          "measuredH": "70",
-                          "x": "0",
-                          "y": "0",
-                          "properties": {
-                            "borderColor": "4273622",
-                            "color": "4273622"
-                          }
-                        },
-                        {
-                          "ID": "1",
-                          "typeID": "Label",
-                          "zOrder": "1",
-                          "measuredW": "210",
-                          "measuredH": "26",
-                          "x": "36",
-                          "y": "11",
-                          "properties": {
-                            "color": "16777215",
-                            "size": "18",
-                            "text": "Visit the Beginner Version"
-                          }
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "ID": "4",
-                  "typeID": "Label",
-                  "zOrder": "4",
-                  "measuredW": "227",
-                  "measuredH": "26",
-                  "x": "18",
-                  "y": "92",
-                  "properties": {
-                    "color": "4985136",
-                    "size": "18",
-                    "text": "Are you just getting started?"
                   }
                 }
               ]
