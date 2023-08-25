@@ -1,0 +1,163 @@
+.header {
+  background: #F2F5F8;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.header-links {
+  width: 80%;
+}
+
+
+.salary-container {
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 130px 0;
+}
+
+.salary{
+  width: 80%;
+  display: flex;
+  gap: 96px;
+}
+
+.salary-images {
+  position: relative;
+  width: 40%;
+}
+
+.programmer-image {
+  border-radius: 10px;
+  width: 700px;
+  height: 550px;
+}
+.salary-image {
+  position: absolute;
+  border-radius: 10px;
+  width: 280px;
+  height: 163px;
+  bottom: 10%;
+  right: -8%;
+  box-shadow: 0px 0px 15px rgb(131, 125, 125);
+}
+
+.make-money {
+  width: 75%;
+}
+.how-they-make-money {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 64px;
+  color: #171A1F;
+  line-height: 112%;
+  max-width: 650px;
+}
+
+.how-they-make-money span {
+  color: #29D08A;
+}
+
+.take-test-see {
+  padding: 16px 20px;
+  background-color: #29D08A;
+  border-radius: 8px;
+  width: max-content;
+}
+
+.take-test {
+  padding: 114px 0;
+  background: #F2F5F8;
+  display: flex;
+  justify-content: center;
+}
+
+.take-test-container {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+}
+
+.high-salaries {
+  display: flex;
+  justify-content: center;
+  padding: 154px 0 155px;
+  background-color: #171A1F;
+  position: relative;
+  overflow: hidden;
+}
+
+.high-salaries-container {
+  width: 80%;
+}
+
+.it-salary-img {
+  position: absolute;
+  left: 50%;
+  top: 15%;
+  width: 60%;
+  border-radius: 25px;
+}
+
+.test-container {
+  width: 100%;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.test-main {
+  width: 45%;
+}
+
+.stepper {
+  display: flex;
+  padding: 10px 0;
+}
+
+.input-test {
+  width: 100%;
+  height: 36px;
+  margin-top: 15px;
+  padding: 0px 10px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px 0px, rgba(61, 59, 53, 0.16) 0px 0px 0px 1px, rgba(61, 59, 53, 0.08) 0px 2px 5px 0px;
+  border: 0px;
+  border-radius: 5px;
+  outline: none;
+  background-color: rgb(255, 255, 255);
+  color: rgb(55, 53, 47);
+  caret-color: rgb(55, 53, 47);
+}
+
+.next {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+  padding: 0px 12px;
+  border: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 18px;
+  margin-top: 30px;
+  background: rgb(0, 0, 0);
+  outline: none;
+  transition: color 100ms ease-in 0s;
+  text-align: left;
+  color: rgb(255, 255, 255)
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 86px 0 103px;
+  background: #495460;
+}
+
+.footer-container {
+  width: 80%;
+}
