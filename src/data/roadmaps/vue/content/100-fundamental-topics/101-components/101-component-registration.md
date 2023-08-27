@@ -1,7 +1,0 @@
-# Component Registration
-
-A Vue component needs to be "registered" so that Vue knows where to locate its implementation when it is encountered in a template. There are two ways to register components: global and local.
-
-Для получения дополнительной информации посетите следующие ресурсы:
-
-- [Component Registration](https://vuejs.org/guide/components/registration.html)

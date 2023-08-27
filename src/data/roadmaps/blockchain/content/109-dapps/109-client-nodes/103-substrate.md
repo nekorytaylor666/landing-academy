@@ -1,7 +1,0 @@
-# Substrate
-
-Substrate is a Software Development Kit (SDK) specifically designed to provide you with all of the fundamental components s blockchain requires so you can focus on crafting the logic that makes your chain unique and innovative.
-
-Для получения дополнительной информации посетите следующие ресурсы:
-
-- [Substrate Documentation](https://docs.substrate.io/quick-start/)

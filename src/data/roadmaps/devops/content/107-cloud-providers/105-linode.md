@@ -1,9 +1,0 @@
-# Linode
-
-Linode is a cloud computing service owned by Akamai Technologies. Linode positions itself as an alternative to AWS, GCP and Azure by offering core services without complexity for most workloads.
-
-Для получения дополнительной информации посетите следующие ресурсы:
-
-- [Linode Website](https://www.linode.com/)
-- [Official Documentation](https://www.linode.com/docs/)
-- [Linode Getting Started Guide](https://www.linode.com/docs/guides/getting-started/)
