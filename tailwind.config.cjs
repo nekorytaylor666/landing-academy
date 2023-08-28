@@ -3,6 +3,10 @@ module.exports = {
   content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue,svg}'],
   theme: {
     extend: {
+      colors: {
+        'wet-asphalt': '#282828',
+        'neo-green': '#BEFF6C',
+      },
       typography: {
         quoteless: {
           css: {
@@ -24,7 +28,8 @@ module.exports = {
         },
       },
       animation: {
-        'fade-slide-up': 'fade-slide-up 0.2s cubic-bezier(0.4, 0, 0.2, 1) forwards',
+        'fade-slide-up':
+          'fade-slide-up 0.2s cubic-bezier(0.4, 0, 0.2, 1) forwards',
       },
     },
     container: {

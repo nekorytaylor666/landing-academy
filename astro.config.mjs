@@ -8,8 +8,6 @@ import rehypeExternalLinks from 'rehype-external-links';
 import { fileURLToPath } from 'node:url';
 import { serializeSitemap, shouldIndexPage } from './sitemap.mjs';
 
-import vercel from '@astrojs/vercel/serverless';
-
 // https://astro.build/config
 export default defineConfig({
   site: 'https://roadmap.sh/',
