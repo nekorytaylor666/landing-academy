@@ -1,7 +1,6 @@
 export const siteConfig = {
-  title: 'Roadmaps to becoming a modern developer',
-  description:
-    'Community driven roadmaps, articles and guides for developers to grow in their career.',
+  title: 'Бесплатные путеводители для разработчиков',
+  description: 'Перевод roadmap.sh на русский язык',
   url: {
     twitter: 'https://twitter.com/roadmapsh',
     youtube: 'https://youtube.com/theroadmap?sub_confirmation=1',
