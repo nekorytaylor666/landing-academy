@@ -204,29 +204,6 @@ export function TopicDetail() {
             ></div>
 
             {/* Contribution */}
-            <div className="mt-8 flex-1 border-t">
-              <p class="mb-2 mt-2 text-sm leading-relaxed text-gray-400">
-                Help others learn by submitting links to learn more about this
-                topic{' '}
-              </p>
-              <button
-                onClick={() => {
-                  if (isGuest) {
-                    setIsActive(false);
-                    showLoginPopup();
-                    return;
-                  }
-
-                  setIsContributing(true);
-                }}
-                disabled={!!contributionAlertMessage}
-                className="block w-full rounded-md bg-gray-800 p-2 text-sm text-white transition-colors hover:bg-black hover:text-white disabled:bg-green-200 disabled:text-black"
-              >
-                {contributionAlertMessage
-                  ? contributionAlertMessage
-                  : 'Submit a Link'}
-              </button>
-            </div>
           </>
         )}
       </div>
