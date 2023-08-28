@@ -75,6 +75,7 @@ export default defineConfig({
       css: false,
       js: false,
     }),
+    vercel(),
     preact(),
   ],
 });
