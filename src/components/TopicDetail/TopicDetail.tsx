@@ -173,7 +173,7 @@ export function TopicDetail() {
           <>
             {/* Actions for the topic */}
             <div className="mb-2">
-              <TopicProgressButton
+              {/* <TopicProgressButton
                 topicId={topicId}
                 resourceId={resourceId}
                 resourceType={resourceType}
@@ -181,7 +181,7 @@ export function TopicDetail() {
                   setIsActive(false);
                   setIsContributing(false);
                 }}
-              />
+              /> */}
 
               <button
                 type="button"
@@ -206,7 +206,8 @@ export function TopicDetail() {
             {/* Contribution */}
             <div className="mt-8 flex-1 border-t">
               <p class="mb-2 mt-2 text-sm leading-relaxed text-gray-400">
-                Help others learn by submitting links to learn more about this topic{' '}
+                Help others learn by submitting links to learn more about this
+                topic{' '}
               </p>
               <button
                 onClick={() => {
