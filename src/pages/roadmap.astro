@@ -11,18 +11,13 @@ import { getAllVideos } from '../lib/video';
 import GefestLayout from '../layouts/GefestLayout.astro';
 
 const roleRoadmaps = await getRoadmapsByTag('lead-magnet');
-const skillRoadmaps = await getRoadmapsByTag('skill-roadmap');
-const bestPractices = await getAllBestPractices();
-
-const guides = await getAllGuides();
-const videos = await getAllVideos();
 ---
 
 <BaseLayout
   title='Developer Roadmaps - roadmap.sh'
   description={'Community driven roadmaps, articles and guides for developers to grow in their career.'}
 >
-  <div class='bg-gradient-to-b from-slate-900 to-black h-full'>
+  <div class='h-full bg-gradient-to-b from-slate-900 to-black'>
     <HeroSection />
 
     <FeaturedItems

@@ -41,7 +41,7 @@ if (roadmapData.schema) {
   const roadmapSchema = roadmapData.schema;
   jsonLdSchema.push(
     generateArticleSchema({
-      url: `https://roadmap.sh/${roadmapId}`,
+      url: `http://localhost:3000/${roadmapId}`,
       headline: roadmapSchema.headline,
       description: roadmapSchema.description,
       datePublished: roadmapSchema.datePublished,

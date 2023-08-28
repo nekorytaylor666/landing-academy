@@ -8,51 +8,73 @@ import rehypeExternalLinks from 'rehype-external-links';
 import { fileURLToPath } from 'node:url';
 import { serializeSitemap, shouldIndexPage } from './sitemap.mjs';
 
-import vercel from "@astrojs/vercel/serverless";
+import vercel from '@astrojs/vercel/serverless';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://landing-academy-theta.vercel.app/',
+  site: 'https://roadmap.sh/',
   markdown: {
     shikiConfig: {
-      theme: 'dracula'
+      theme: 'dracula',
     },
-    rehypePlugins: [[rehypeExternalLinks, {
-      target: '_blank',
-      rel: function (element) {
-        const href = element.properties.href;
-        const whiteListedStarts = ['/', '#', 'mailto:', 'https://github.com/kamranahmedse', 'https://thenewstack.io', 'https://cs.fyi', 'https://roadmap.sh'];
-        if (whiteListedStarts.some(start => href.startsWith(start))) {
-          return [];
-        }
-        return 'noopener noreferrer nofollow';
-      }
-    }]]
+    rehypePlugins: [
+      [
+        rehypeExternalLinks,
+        {
+          target: '_blank',
+          rel: function (element) {
+            const href = element.properties.href;
+            const whiteListedStarts = [
+              '/',
+              '#',
+              'mailto:',
+              'https://github.com/kamranahmedse',
+              'https://thenewstack.io',
+              'https://cs.fyi',
+              'https://roadmap.sh',
+            ];
+            if (whiteListedStarts.some((start) => href.startsWith(start))) {
+              return [];
+            }
+            return 'noopener noreferrer nofollow';
+          },
+        },
+      ],
+    ],
   },
   build: {
-    format: 'file'
+    format: 'file',
   },
-  integrations: [{
-    name: 'client-authenticated',
-    hooks: {
-      'astro:config:setup'(options) {
-        options.addClientDirective({
-          name: 'authenticated',
-          entrypoint: fileURLToPath(new URL('./src/directives/client-authenticated.mjs', import.meta.url))
-        });
-      }
-    }
-  }, tailwind({
-    config: {
-      applyBaseStyles: false
-    }
-  }), sitemap({
-    filter: shouldIndexPage,
-    serialize: serializeSitemap
-  }), compress({
-    css: false,
-    js: false
-  }), preact()],
-  output: "server",
-  adapter: vercel()
+  integrations: [
+    {
+      name: 'client-authenticated',
+      hooks: {
+        'astro:config:setup'(options) {
+          options.addClientDirective({
+            name: 'authenticated',
+            entrypoint: fileURLToPath(
+              new URL(
+                './src/directives/client-authenticated.mjs',
+                import.meta.url
+              )
+            ),
+          });
+        },
+      },
+    },
+    tailwind({
+      config: {
+        applyBaseStyles: false,
+      },
+    }),
+    sitemap({
+      filter: shouldIndexPage,
+      serialize: serializeSitemap,
+    }),
+    compress({
+      css: false,
+      js: false,
+    }),
+    preact(),
+  ],
 });

@@ -1,5 +1,5 @@
-import type {MarkdownFileType} from './file';
-import type {RoadmapFrontmatter} from './roadmap';
+import type { MarkdownFileType } from './file';
+import type { RoadmapFrontmatter } from './roadmap';
 
 // Generates URL from the topic file path e.g.
 // -> /src/data/roadmaps/vue/content/102-ecosystem/102-ssr/101-nuxt-js.md
@@ -54,7 +54,7 @@ function generateBreadcrumbs(
 
     const firstHeading = topicFileContent?.getHeadings()?.[0];
 
-    return {title: firstHeading?.text, url: breadCrumbUrl};
+    return { title: firstHeading?.text, url: breadCrumbUrl };
   });
 }
 
